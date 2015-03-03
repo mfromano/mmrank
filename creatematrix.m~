@@ -1,0 +1,18 @@
+data = csvread('massey.csv');
+team_list = unique(data(:,5));
+teams = data(:,5);
+score = data(:,7);
+homeaway = data(:,6);
+gamenum = data(:,3);
+
+% first, get matrix with rows = games, columns = teams. Will treat games as
+% repetitions and team and opponent as categorical variables
+
+team_mat = zeros(length(unique(gamenum)),length(team_list));
+opponent_mat = zeros(length(unique(gamenum)),length(team_list));
+
+for g = 1:length(unique(gamenum))
+    a = find(gamenum(:) == g);
+    assert(length(a) == 2,'more than two teams in single game!');
+    
+end
