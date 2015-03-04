@@ -13,9 +13,6 @@ all_scores = data(:,7);
 home_or_away = data(:,6);
 gamenum = data(:,3);
 
-% first, get matrix with rows = games, columns = teams. Will treat games as
-% repetitions and team and opponent as categorical variables
-
 C = zeros(length(team_list)+1,length(team_list)+1);
 
 b = zeros(length(team_list)+1,1);
@@ -37,9 +34,6 @@ for t = 1:length(team_list)
         team_scores = all_scores(find(gamenum == game));
         curr_team_score = team_scores(find(teams_playing == team));
         other_team_score = team_scores(find(teams_playing ~= team));
-        if curr_team_score == 0 || other_team_score == 0
-            continue
-        end
         win_loss_diff = win_loss_diff + (curr_team_score > other_team_score)...
             - (curr_team_score < other_team_score);
     end
@@ -50,7 +44,10 @@ end
 
 noteam = find(sum(C,1) == 0);
 for z=1:length(noteam)
-    C(noteam(z),noteam(z)) = 2;
+    C(noteam(z),:) = [];
+    C(:,noteam(z)) = [];
+    team_names{2}(noteam(z)) = [];
+    b(noteam(z)) =[];
 end
 
 r = linsolve(C,b);
@@ -62,6 +59,7 @@ r(isnan(r)) = [];
 team_ranks{1} = r;
 team_ranks{2} = team_names;
 outfile = fopen('ColleyRankingsEqualWeighting.txt','w');
+fprintf(outfile,'%s.\t %s \t %s\n','Colley Rank','Rating','Team');
 for i=1:length(team_ranks{1})
     fprintf(outfile,'%d.\t %f rating for %s\n',i,team_ranks{1}(i),char(team_ranks{2}(i)));
 end
