@@ -1,4 +1,5 @@
 function [B, dev, stats, team_list] = glmrank
+
 data = csvread('massey.csv');
 team_list = unique(data(:,5));
 teams = data(:,5);
