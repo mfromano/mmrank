@@ -1,4 +1,4 @@
-function [team_ranks] = masseyrank(weight)
+function [team_ranks] = masseyrank(weighting)
 data = csvread('massey.csv');
 
 data_labels = fopen('teams.txt');
@@ -6,7 +6,7 @@ team_names = textscan(data_labels,'%d,%s');
 
 fclose(data_labels);
 team_list = unique(data(:,5));
-
+dates = data(:,1);
 all_teams = data(:,5);
 all_scores = data(:,7);
 home_or_away = data(:,6);
@@ -14,11 +14,12 @@ gamenum = data(:,3);
 unique_games = unique(gamenum);
 
 M1 = zeros(length(unique_games),length(team_list)+1);
-
 p1 = zeros(length(unique_games),1);
+game_dates = zeros(length(unique_games),1);
 
 for g = 1:length(unique_games)
     currgame = unique_games(g);
+    game_dates(g) = unique(dates(find(gamenum == currgame)));
     teams_playing = all_teams(find(gamenum == currgame));
     this_team = teams_playing(1);
     other_team = teams_playing(2);
@@ -29,7 +30,10 @@ for g = 1:length(unique_games)
     curr_team_score = team_scores(1);
     other_team_score = team_scores(2);
     p1(g) = curr_team_score-other_team_score;
-end 
+end
+
+game_dates = (game_dates - game_dates(1));
+game_dates = game_dates/game_dates(end);
 
 noteam = find(sum(abs(M1),1) == 0);
 
@@ -38,9 +42,15 @@ for t = 1:length(noteam)
     team_names{2}(noteam(t)) = [];
 end
 
-M = M1'*M1;
+if nargin > 0 && strcmp(weighting, 'linear')
+    G = diag(game_dates);
+else
+    G = eye(length(M1));
+end
 
-p = M1'*p1;
+M = M1'*G*M1;
+
+p = M1'*G*p1;
 
 M(end,:) = ones(1,length(M));
 
@@ -52,7 +62,11 @@ team_names(isnan(r)) = [];
 r(isnan(r)) = [];
 team_ranks{1} = r;
 team_ranks{2} = team_names;
-outfile = fopen('MasseyRankingsEqualWeighting.txt','w');
+if nargin > 0 && strcmp(weighting, 'linear')
+    outfile = fopen('MasseyRankingsLinearWeighting.txt','w');
+else
+    outfile = fopen('MasseyRankingsEqualWeighting.txt','w');
+end
 fprintf(outfile,'%s.\t %s \t %s\n','Massey Rank','Rating','Team');
 for i=1:length(team_ranks{1})
     fprintf(outfile,'%d.\t %f rating for %s\n',i,team_ranks{1}(i),char(team_ranks{2}(i)));
