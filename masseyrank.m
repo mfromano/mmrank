@@ -1,4 +1,4 @@
-function [team_ranks] = masseyrank
+function [team_ranks] = masseyrank(weight)
 data = csvread('massey.csv');
 
 data_labels = fopen('teams.txt');
@@ -52,7 +52,7 @@ team_names(isnan(r)) = [];
 r(isnan(r)) = [];
 team_ranks{1} = r;
 team_ranks{2} = team_names;
-outfile = fopen('NewMasseyRankingsEqualWeighting.txt','w');
+outfile = fopen('MasseyRankingsEqualWeighting.txt','w');
 fprintf(outfile,'%s.\t %s \t %s\n','Massey Rank','Rating','Team');
 for i=1:length(team_ranks{1})
     fprintf(outfile,'%d.\t %f rating for %s\n',i,team_ranks{1}(i),char(team_ranks{2}(i)));
