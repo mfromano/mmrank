@@ -1,9 +1,11 @@
-function [team_ranks] = colleyrank
+function [team_ranks] = colleyrank(weight)
 data = csvread('massey.csv');
 
 % data = data(1:54958,:);
 data_labels = fopen('teams.txt');
 team_names = textscan(data_labels,'%d,%s');
+
+rel_game_dates = data(:,1)-data(1,1);
 
 fclose(data_labels);
 team_list = unique(data(:,5));
@@ -21,21 +23,31 @@ for t = 1:length(team_list)
     team = team_list(t);
     game_numbers = gamenum(find(all_teams == team));
     totalgames = length(game_numbers);
-    C(team,team) = 2+totalgames;
+    C(team,team) = 2;
     win_loss_diff = 0;  
+    
     for g = 1:length(game_numbers)
-        
         game = game_numbers(g);
+        game_date = unique(rel_game_dates(find(gamenum==game)));
+        assert(length(game_date) == 1, 'More than one date for given game!');     
         teams_playing = all_teams(find(gamenum == game));
         this_team = team;
         other_team =  teams_playing(find(teams_playing ~= team));
-        C(this_team,other_team) =  C(this_team,other_team)-1;
         assert(length(teams_playing) == 2, 'more or less than two teams playing this game!');
         team_scores = all_scores(find(gamenum == game));
         curr_team_score = team_scores(find(teams_playing == team));
         other_team_score = team_scores(find(teams_playing ~= team));
-        win_loss_diff = win_loss_diff + (curr_team_score > other_team_score)...
-            - (curr_team_score < other_team_score);
+        
+        
+        if nargin > 0 && strcmp(weight,'linear');
+            wt = game_date/rel_game_dates(end);
+        else
+            wt = 1;
+        end
+        C(this_team,other_team) =  C(this_team,other_team)-wt;
+        C(this_team,this_team) = C(this_team,this_team) + wt;
+        win_loss_diff = win_loss_diff + ((curr_team_score > other_team_score)...
+            - (curr_team_score < other_team_score))*wt;
     end
     
     b(team) = 1+0.5*win_loss_diff;
@@ -58,7 +70,11 @@ team_names(isnan(r)) = [];
 r(isnan(r)) = [];
 team_ranks{1} = r;
 team_ranks{2} = team_names;
-outfile = fopen('ColleyRankingsEqualWeighting.txt','w');
+if nargin > 0 && strcmp(weight,'linear');
+    outfile = fopen('ColleyRankingsLinearWeighting.txt','w');
+else
+    outfile = fopen('ColleyRankingsEqualWeighting.txt','w');
+end
 fprintf(outfile,'%s.\t %s \t %s\n','Colley Rank','Rating','Team');
 for i=1:length(team_ranks{1})
     fprintf(outfile,'%d.\t %f rating for %s\n',i,team_ranks{1}(i),char(team_ranks{2}(i)));

@@ -11,40 +11,36 @@ all_teams = data(:,5);
 all_scores = data(:,7);
 home_or_away = data(:,6);
 gamenum = data(:,3);
+unique_games = unique(gamenum);
 
-M = zeros(length(team_list)+1,length(team_list)+1);
+M1 = zeros(length(unique_games),length(team_list)+1);
 
-p = zeros(length(team_list)+1,1);
+p1 = zeros(length(unique_games),1);
 
-for t = 1:length(team_list)
-    team = team_list(t);
-    game_numbers = gamenum(find(all_teams == team));
-    totalgames = length(game_numbers);
-    M(team,team) = totalgames;
-    point_diff = 0;  
-    for g = 1:length(game_numbers)
-        game = game_numbers(g);
-        teams_playing = all_teams(find(gamenum == game));
-        this_team = team;
-        other_team =  teams_playing(find(teams_playing ~= team));
-        M(this_team,other_team) =  M(this_team,other_team)-1;
-        assert(length(teams_playing) == 2, 'more or less than two teams playing this game!');
-        team_scores = all_scores(find(gamenum == game));
-        curr_team_score = team_scores(find(teams_playing == team));
-        other_team_score = team_scores(find(teams_playing ~= team));
-        point_diff = point_diff + curr_team_score - other_team_score;
-    end 
-    p(team) = point_diff;
-    
+for g = 1:length(unique_games)
+    currgame = unique_games(g);
+    teams_playing = all_teams(find(gamenum == currgame));
+    this_team = teams_playing(1);
+    other_team = teams_playing(2);
+    M1(g,this_team) =  1;
+    M1(g,other_team) = -1;
+    assert(length(teams_playing) == 2, 'more or less than two teams playing this game!');
+    team_scores = all_scores(find(gamenum == currgame));
+    curr_team_score = team_scores(1);
+    other_team_score = team_scores(2);
+    p1(g) = curr_team_score-other_team_score;
+end 
+
+noteam = find(sum(abs(M1),1) == 0);
+
+for t = 1:length(noteam)
+    M1(:,noteam(t)) = [];
+    team_names{2}(noteam(t)) = [];
 end
-noteam = find(diag(M) == 0);
 
-for z=1:length(noteam)
-    M(noteam(z),:) = [];
-    M(:,noteam(z)) = [];
-    team_names{2}(noteam(z)) = [];
-    p(noteam(z)) =[];
-end
+M = M1'*M1;
+
+p = M1'*p1;
 
 M(end,:) = ones(1,length(M));
 
@@ -56,7 +52,7 @@ team_names(isnan(r)) = [];
 r(isnan(r)) = [];
 team_ranks{1} = r;
 team_ranks{2} = team_names;
-outfile = fopen('MasseyRankingsEqualWeighting.txt','w');
+outfile = fopen('NewMasseyRankingsEqualWeighting.txt','w');
 fprintf(outfile,'%s.\t %s \t %s\n','Massey Rank','Rating','Team');
 for i=1:length(team_ranks{1})
     fprintf(outfile,'%d.\t %f rating for %s\n',i,team_ranks{1}(i),char(team_ranks{2}(i)));
