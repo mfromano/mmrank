@@ -1,6 +1,8 @@
-function [team_ranks] = masseyrank(weighting)
+function [team_ranks] = brianrank(weighting)
 data = csvread('massey.csv');
-
+if nargin < 1
+    weighting = 'Equal';
+end
 data_labels = fopen('teams.txt');
 team_names = textscan(data_labels,'%d,%s');
 
@@ -26,10 +28,15 @@ for g = 1:length(unique_games)
     M1(g,this_team) =  1;
     M1(g,other_team) = -1;
     assert(length(teams_playing) == 2, 'more or less than two teams playing this game!');
-    team_scores = all_scores(find(gamenum == currgame));
+    team_scores = all_scores(find(gamenum == currgame));  
     curr_team_score = team_scores(1);
     other_team_score = team_scores(2);
     p1(g) = curr_team_score-other_team_score;
+    if p1(g) > 15
+        p1(g) = 15;
+    elseif p1(g) < -15
+        p1(g) = -15;
+    end
 end
 game_dates = (game_dates - game_dates(1));
 
@@ -49,15 +56,26 @@ elseif nargin > 0 && strcmp(weighting, 'step')
 
 elseif nargin > 0 && strcmp(weighting, 'log')
     G = diag(log(1+game_dates/game_dates(end)));
+    
 elseif nargin > 0 && strcmp(weighting, 'exp')
-    G = exp(-(game_dates(end)-game_dates)/game_dates(end));
+    G = diag(1-exp(-game_dates/game_dates(end)/.2));
+    
 else
     G = eye(length(M1));
 end
 
+plot(game_dates,main(G));
+
+xlabel('Days since beginning of season');
+ylabel('Weight')
+title([weighting 'weights']);
+save_as_pdf(gcf,['BrianRankings' weighting 'Weighting']);
+
 M = M1'*G*M1;
 
 p = M1'*G*p1;
+
+clear M1 G
 
 M(end,:) = ones(1,length(M));
 
@@ -69,20 +87,12 @@ team_names(isnan(r)) = [];
 r(isnan(r)) = [];
 team_ranks{1} = r;
 team_ranks{2} = team_names;
-if nargin > 0 && strcmp(weighting, 'linear')
-    outfile = fopen('MasseyRankingsLinearWeighting.txt','w');
-elseif nargin > 0 && strcmp(weighting, 'step')
-    outfile = fopen('MasseyRankingsStepWeighting.txt','w');
-elseif nargin > 0 && strcmp(weighting,'log')
-    outfile = fopen('MasseyRankingsLogWeighting.txt','w');
-elseif nargin > 0 && strcmp(weighting, 'exp')
-    outfile = fopen('MasseyRankingsExpWeighting.txt','w');
-else
-    outfile = fopen('MasseyRankingsEqualWeighting.txt','w');
-end
-fprintf(outfile,'%s.\t %s \t %s\n','Massey Rank','Rating','Team');
+
+outfile = fopen(['BrianRankings' weighting 'Weighting.txt'],'w');
+
+fprintf(outfile,'%s.\t %s \t %s\n','Rank','Rating','Team');
 for i=1:length(team_ranks{1})
-    fprintf(outfile,'%d.\t %f rating for %s\n',i,team_ranks{1}(i),char(team_ranks{2}(i)));
+    fprintf(outfile,'%d.\t %f \t %s\n',i,team_ranks{1}(i),char(team_ranks{2}(i)));
 end
 fclose(outfile);
 end

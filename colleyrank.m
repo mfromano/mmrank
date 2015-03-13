@@ -1,5 +1,5 @@
 function [team_ranks] = colleyrank(weight)
-data = csvread('massey.csv');
+data = csvread('Colley.csv');
 
 % data = data(1:54958,:);
 data_labels = fopen('teams.txt');
@@ -37,10 +37,15 @@ for t = 1:length(team_list)
         team_scores = all_scores(find(gamenum == game));
         curr_team_score = team_scores(find(teams_playing == team));
         other_team_score = team_scores(find(teams_playing ~= team));
-        
-        
+         
         if nargin > 0 && strcmp(weight,'linear');
             wt = game_date/rel_game_dates(end);
+        elseif nargin > 0 && strcmp(weight, 'step')
+            wt = diag(floor(game_date/14+1));
+        elseif nargin > 0 && strcmp(weight, 'log')
+            wt = diag(log(1+game_date/rel_game_dates(end)));
+        elseif nargin > 0 && strcmp(weight, 'exp')
+            wt = exp(-(rel_game_dates(end)-game_date)/rel_game_dates(end));    
         else
             wt = 1;
         end
@@ -70,8 +75,14 @@ team_names(isnan(r)) = [];
 r(isnan(r)) = [];
 team_ranks{1} = r;
 team_ranks{2} = team_names;
-if nargin > 0 && strcmp(weight,'linear');
+if nargin > 0 && strcmp(weighting, 'linear')
     outfile = fopen('ColleyRankingsLinearWeighting.txt','w');
+elseif nargin > 0 && strcmp(weighting, 'step')
+    outfile = fopen('ColleyRankingsStepWeighting.txt','w');
+elseif nargin > 0 && strcmp(weighting,'log')
+    outfile = fopen('ColleyRankingsLogWeighting.txt','w');
+elseif nargin > 0 && strcmp(weighting, 'exp')
+    outfile = fopen('ColleyRankingsExpWeighting.txt','w');
 else
     outfile = fopen('ColleyRankingsEqualWeighting.txt','w');
 end
