@@ -1,2116 +1,2116 @@
-Brian Rank.	 Rating 	 Team
-1.	 30.746677 rating for Kentucky
-2.	 28.675856 rating for Virginia
-3.	 28.501267 rating for Villanova
-4.	 28.141030 rating for Wisconsin
-5.	 27.958739 rating for Arizona
-6.	 27.727582 rating for Gonzaga
-7.	 27.238144 rating for Kansas
-8.	 27.057972 rating for Duke
-9.	 26.060796 rating for Oklahoma
-10.	 25.471143 rating for Louisville
-11.	 25.388863 rating for Utah
-12.	 25.264125 rating for Baylor
-13.	 25.165418 rating for North_Carolina
-14.	 25.032085 rating for Iowa_St
-15.	 24.819039 rating for Wichita_St
-16.	 24.253112 rating for Ohio_St
-17.	 24.022751 rating for West_Virginia
-18.	 23.943397 rating for Northern_Iowa
-19.	 23.766442 rating for Notre_Dame
-20.	 23.651294 rating for Xavier
-21.	 23.620458 rating for Arkansas
-22.	 23.620223 rating for Georgetown
-23.	 23.610216 rating for Butler
-24.	 23.195196 rating for Michigan_St
-25.	 23.160306 rating for Texas
-26.	 23.155573 rating for SMU
-27.	 23.146919 rating for St_John's
-28.	 22.982630 rating for LSU
-29.	 22.896800 rating for BYU
-30.	 22.717124 rating for VA_Commonwealth
-31.	 22.562589 rating for Oklahoma_St
-32.	 22.465534 rating for Georgia
-33.	 22.378913 rating for Maryland
-34.	 22.175477 rating for Providence
-35.	 22.102777 rating for Stanford
-36.	 21.994597 rating for NC_State
-37.	 21.885020 rating for Iowa
-38.	 21.779052 rating for Texas_A&M
-39.	 21.764457 rating for Mississippi
-40.	 21.517118 rating for Davidson
-41.	 21.433962 rating for Florida
-42.	 21.379585 rating for Oregon
-43.	 21.368283 rating for Dayton
-44.	 21.285998 rating for UCLA
-45.	 21.241744 rating for Vanderbilt
-46.	 21.196751 rating for Purdue
-47.	 21.073464 rating for Indiana
-48.	 21.048089 rating for Cincinnati
-49.	 21.011010 rating for TCU
-50.	 20.897696 rating for Minnesota
-51.	 20.753347 rating for St_Mary's_CA
-52.	 20.685427 rating for Alabama
-53.	 20.652492 rating for San_Diego_St
-54.	 20.326346 rating for Miami_FL
-55.	 20.287228 rating for Syracuse
-56.	 20.190999 rating for Rhode_Island
-57.	 20.131817 rating for Illinois
-58.	 19.944435 rating for South_Carolina
-59.	 19.765640 rating for Tulsa
-60.	 19.730476 rating for SF_Austin
-61.	 19.729433 rating for Connecticut
-62.	 19.673519 rating for Boise_St
-63.	 19.573188 rating for WI_Green_Bay
-64.	 19.473295 rating for Arizona_St
-65.	 19.469998 rating for Clemson
-66.	 19.451024 rating for Kansas_St
-67.	 19.435902 rating for Temple
-68.	 19.420110 rating for Seton_Hall
-69.	 19.305793 rating for Colorado_St
-70.	 19.269060 rating for Illinois_St
-71.	 19.196055 rating for Georgia_Tech
-72.	 19.188783 rating for Pittsburgh
-73.	 19.150237 rating for Richmond
-74.	 18.907447 rating for Old_Dominion
-75.	 18.798061 rating for Murray_St
-76.	 18.727584 rating for Buffalo
-77.	 18.690296 rating for Louisiana_Tech
-78.	 18.383303 rating for Memphis
-79.	 18.343099 rating for Creighton
-80.	 18.152069 rating for Toledo
-81.	 18.125953 rating for Michigan
-82.	 17.943293 rating for Colorado
-83.	 17.917825 rating for Tennessee
-84.	 17.910551 rating for Valparaiso
-85.	 17.863403 rating for Penn_St
-86.	 17.788408 rating for Florida_St
-87.	 17.753977 rating for Oregon_St
-88.	 17.698199 rating for Harvard
-89.	 17.659219 rating for G_Washington
-90.	 17.637424 rating for Bellarmine
-91.	 17.386299 rating for Moorhead_St
-92.	 17.357380 rating for California
-93.	 17.334433 rating for Wake_Forest
-94.	 17.305680 rating for UTEP
-95.	 17.283862 rating for Pepperdine
-96.	 17.167986 rating for Bowling_Green
-97.	 17.119444 rating for Utah_St
-98.	 16.986784 rating for Marquette
-99.	 16.944839 rating for Washington
-100.	 16.941011 rating for Nebraska
-101.	 16.939414 rating for La_Salle
-102.	 16.920897 rating for Northwestern
-103.	 16.848971 rating for C_Michigan
-104.	 16.808645 rating for FL_Southern
-105.	 16.761590 rating for Augustana_SD
-106.	 16.757507 rating for Iona
-107.	 16.741427 rating for Sam_Houston_St
-108.	 16.662142 rating for Indianapolis
-109.	 16.631761 rating for Georgia_St
-110.	 16.582657 rating for Akron
-111.	 16.577167 rating for Massachusetts
-112.	 16.457404 rating for UNLV
-113.	 16.450229 rating for UC_Irvine
-114.	 16.396291 rating for UC_Davis
-115.	 16.254697 rating for Yale
-116.	 16.202957 rating for Boston_College
-117.	 16.160712 rating for Cleveland_St
-118.	 16.159409 rating for Evansville
-119.	 16.129514 rating for Texas_Tech
-120.	 16.082675 rating for San_Diego
-121.	 16.071626 rating for Wyoming
-122.	 16.066708 rating for Wofford
-123.	 16.018933 rating for Hawaii
-124.	 15.888572 rating for WI_Parkside
-125.	 15.858234 rating for Kent
-126.	 15.824201 rating for USC
-127.	 15.792025 rating for New_Mexico_St
-128.	 15.782668 rating for Santa_Barbara
-129.	 15.714267 rating for St_Bonaventure
-130.	 15.495352 rating for Auburn
-131.	 15.465613 rating for DePaul
-132.	 15.449475 rating for W_Kentucky
-133.	 15.442660 rating for New_Mexico
-134.	 15.372978 rating for S_New_Hampshire
-135.	 15.337103 rating for UAB
-136.	 15.205999 rating for NW_Florida_St
-137.	 15.153230 rating for Angelo_St
-138.	 15.144483 rating for Portland
-139.	 15.090961 rating for Mississippi_St
-140.	 14.925570 rating for S_Dakota_St
-141.	 14.809674 rating for Northeastern
-142.	 14.803839 rating for S_Connecticut
-143.	 14.772590 rating for San_Francisco
-144.	 14.764728 rating for W_Michigan
-145.	 14.741091 rating for MN_Mankato
-146.	 14.738248 rating for E_Florida_St
-147.	 14.703175 rating for Azusa_Pacific
-148.	 14.668187 rating for William_&_Mary
-149.	 14.637965 rating for Loyola-Chicago
-150.	 14.550460 rating for Hofstra
-151.	 14.492862 rating for Long_Beach_St
-152.	 14.456160 rating for Missouri
-153.	 14.448235 rating for Charlotte
-154.	 14.324792 rating for Indiana_St
-155.	 14.309451 rating for Lewis
-156.	 14.291656 rating for Vermont
-157.	 14.288944 rating for St_Anselm
-158.	 14.217143 rating for Virginia_Tech
-159.	 14.187727 rating for St_Joseph's_PA
-160.	 14.120901 rating for Washington_St
-161.	 14.119547 rating for Chattanooga
-162.	 14.089324 rating for BYU_Hawaii
-163.	 13.967464 rating for Albany_NY
-164.	 13.944220 rating for E_Washington
-165.	 13.935230 rating for Rider
-166.	 13.889733 rating for Oakland
-167.	 13.861010 rating for Vincennes
-168.	 13.859299 rating for Cal_Poly_SLO
-169.	 13.829414 rating for High_Point
-170.	 13.799350 rating for E_Kentucky
-171.	 13.773987 rating for Barry
-172.	 13.771456 rating for North_Florida
-173.	 13.654996 rating for Stony_Brook
-174.	 13.592292 rating for Trinity_Valley_CC
-175.	 13.520128 rating for E_Michigan
-176.	 13.490210 rating for ULL
-177.	 13.430661 rating for South_Plains
-178.	 13.374826 rating for Ga_Southern
-179.	 13.337690 rating for Metro_St
-180.	 13.280919 rating for West_Liberty
-181.	 13.270637 rating for UT_Arlington
-182.	 13.258373 rating for Tarleton_St
-183.	 13.214060 rating for Cal_Baptist
-184.	 13.213760 rating for Rutgers
-185.	 13.209365 rating for Connors_St
-186.	 13.176893 rating for Quinnipiac
-187.	 13.123379 rating for St_Francis_NY
-188.	 13.114470 rating for NC_Central
-189.	 13.075776 rating for Montana
-190.	 13.049494 rating for FL_Gulf_Coast
-191.	 13.009002 rating for MTSU
-192.	 12.935323 rating for Indian_Hills_CC
-193.	 12.931209 rating for Indiana_PA
-194.	 12.852835 rating for Canisius
-195.	 12.807342 rating for Columbia
-196.	 12.787375 rating for Belmont
-197.	 12.766525 rating for San_Jacinto-C
-198.	 12.720467 rating for NW_Missouri
-199.	 12.719662 rating for Detroit
-200.	 12.687396 rating for Hill_Col
-201.	 12.635366 rating for CS_Poly_Pomona
-202.	 12.614828 rating for Tulane
-203.	 12.605206 rating for Fordham
-204.	 12.550745 rating for N_Illinois
-205.	 12.518056 rating for Butler_Co-KS
-206.	 12.481462 rating for George_Mason
-207.	 12.463906 rating for East_Carolina
-208.	 12.446795 rating for Monmouth_NJ
-209.	 12.439510 rating for IPFW
-210.	 12.419114 rating for James_Madison
-211.	 12.418486 rating for Fresno_St
-212.	 12.384936 rating for Princeton
-213.	 12.379503 rating for Radford
-214.	 12.330538 rating for UT_San_Antonio
-215.	 12.298961 rating for Manhattan
-216.	 12.276947 rating for Colorado_Mines
-217.	 12.266433 rating for Saddleback
-218.	 12.262967 rating for IN_Wesleyan
-219.	 12.240383 rating for San_Bernardino_Val
-220.	 12.227016 rating for Colgate
-221.	 12.210994 rating for American_Intl
-222.	 12.197860 rating for Santa_Clara
-223.	 12.168513 rating for Coastal_Car
-224.	 12.147808 rating for N_Dakota_St
-225.	 12.125440 rating for CS_Sacramento
-226.	 12.105739 rating for Duquesne
-227.	 12.099612 rating for ULM
-228.	 12.066801 rating for Northwestern_LA
-229.	 11.990342 rating for Lake_Superior
-230.	 11.985949 rating for Ferris_St
-231.	 11.984821 rating for Bucknell
-232.	 11.966111 rating for SC_Upstate
-233.	 11.901436 rating for Air_Force
-234.	 11.901364 rating for Morehead_St
-235.	 11.897755 rating for Winthrop
-236.	 11.867002 rating for North_Texas
-237.	 11.835317 rating for Miami_OH
-238.	 11.832062 rating for Norfolk_St
-239.	 11.794222 rating for SW_Tennessee
-240.	 11.783390 rating for Houston
-241.	 11.714959 rating for Mt_San_Antonio
-242.	 11.699901 rating for Michigan_Tech
-243.	 11.688116 rating for TN_Martin
-244.	 11.663228 rating for Dakota_Wesleyan
-245.	 11.642925 rating for UNC_Wilmington
-246.	 11.625971 rating for UC_Riverside
-247.	 11.617568 rating for Dixie_St
-248.	 11.612229 rating for Denver
-249.	 11.557245 rating for Dartmouth
-250.	 11.552292 rating for Oral_Roberts
-251.	 11.537235 rating for WI_Milwaukee
-252.	 11.532857 rating for Northern_St_SD
-253.	 11.496085 rating for Col_Springs
-254.	 11.462166 rating for Lafayette
-255.	 11.414737 rating for Merrimack
-256.	 11.386240 rating for Incarnate_Word
-257.	 11.360463 rating for Nevada
-258.	 11.357672 rating for Robert_Morris
-259.	 11.348365 rating for Southern_Idaho
-260.	 11.334931 rating for TX_A&M_Commerce
-261.	 11.319570 rating for Cornell
-262.	 11.255033 rating for Lehigh
-263.	 11.199992 rating for Charleston_So
-264.	 11.197749 rating for S_Illinois
-265.	 11.181171 rating for Mercer
-266.	 11.156081 rating for Marshall
-267.	 11.140547 rating for Mt_St_Mary's
-268.	 11.096759 rating for St_Michael's
-269.	 11.078229 rating for Northern_Arizona
-270.	 11.047951 rating for Midwest_TX_St
-271.	 11.033012 rating for St_Peter's
-272.	 11.024346 rating for Stonehill
-273.	 10.985418 rating for Texas_St
-274.	 10.951077 rating for St_Louis
-275.	 10.874315 rating for West_Alabama
-276.	 10.815261 rating for Ark_Little_Rock
-277.	 10.794812 rating for UCF
-278.	 10.793810 rating for C_Missouri
-279.	 10.784081 rating for Mineral_Area
-280.	 10.769389 rating for Bentley
-281.	 10.743015 rating for MD_E_Shore
-282.	 10.705803 rating for Pacific
-283.	 10.700627 rating for Franklin_Pierce
-284.	 10.698144 rating for TX_Southern
-285.	 10.645834 rating for NJIT
-286.	 10.619430 rating for New_Hampshire
-287.	 10.571551 rating for Univ_Sciences
-288.	 10.567152 rating for E_Illinois
-289.	 10.550709 rating for Seattle
-290.	 10.535221 rating for WI_Whitewater
-291.	 10.533503 rating for Northeast_CC
-292.	 10.508645 rating for Point_Loma
-293.	 10.494409 rating for Pearl_River_CC
-294.	 10.486343 rating for Lincoln_Mem
-295.	 10.483490 rating for Grand_Canyon
-296.	 10.478796 rating for Gardner_Webb
-297.	 10.407288 rating for Loy_Marymount
-298.	 10.381108 rating for Neosho_Co
-299.	 10.357751 rating for ETSU
-300.	 10.356175 rating for Missouri_St
-301.	 10.296324 rating for South_Dakota
-302.	 10.276869 rating for Col_Cent_Florida
-303.	 10.252462 rating for American_Univ
-304.	 10.241446 rating for Howard_Col
-305.	 10.229766 rating for Daytona_St
-306.	 10.213283 rating for Rogers_St
-307.	 10.210307 rating for CS_Chico
-308.	 10.193815 rating for Drury
-309.	 10.176665 rating for Midland
-310.	 10.144514 rating for St_Thomas_MN
-311.	 10.126607 rating for Carleton_ON
-312.	 10.124074 rating for Adams_St
-313.	 10.083697 rating for Idaho
-314.	 10.053773 rating for Bethel_IN
-315.	 10.046410 rating for St_Francis_PA
-316.	 10.042725 rating for Mt_Olive
-317.	 10.041848 rating for Kirkwood_CC
-318.	 10.017686 rating for Rice
-319.	 9.976231 rating for Antelope_Valley
-320.	 9.947253 rating for Ohio
-321.	 9.941921 rating for Bradley
-322.	 9.920850 rating for Sacred_Heart
-323.	 9.906376 rating for Tampa
-324.	 9.899967 rating for Morningside
-325.	 9.898183 rating for Boston_Univ
-326.	 9.867508 rating for Emory
-327.	 9.840046 rating for NC_Pembroke
-328.	 9.816572 rating for St_Petersburg
-329.	 9.798249 rating for Augusta
-330.	 9.779613 rating for CS_Bakersfield
-331.	 9.749163 rating for Wright_St
-332.	 9.742474 rating for AL_Huntsville
-333.	 9.742329 rating for Drake
-334.	 9.735331 rating for Phoenix_Col
-335.	 9.702503 rating for Chr_Brothers
-336.	 9.701910 rating for MO_Southern
-337.	 9.694793 rating for TAM_C._Christi
-338.	 9.678575 rating for C_Oklahoma
-339.	 9.655263 rating for Embry-Riddle_FL
-340.	 9.654172 rating for Seattle_Pacific
-341.	 9.642286 rating for N_Colorado
-342.	 9.617627 rating for W_Texas_A&M
-343.	 9.605186 rating for Salt_Lake_CC
-344.	 9.546085 rating for UC_San_Diego
-345.	 9.543099 rating for South_Florida
-346.	 9.538561 rating for Edwardsville
-347.	 9.535178 rating for McLennan_CC
-348.	 9.533790 rating for Lamar
-349.	 9.524273 rating for CSU-Pueblo
-350.	 9.518616 rating for West_Georgia
-351.	 9.505594 rating for Hutchinson_CC
-352.	 9.500138 rating for WI_Stevens_Pt
-353.	 9.473277 rating for Drexel
-354.	 9.437518 rating for Mesa_CC
-355.	 9.391371 rating for Bryant
-356.	 9.362463 rating for Portland_St
-357.	 9.358400 rating for W_Carolina
-358.	 9.349976 rating for Ft_Lewis
-359.	 9.302323 rating for Pittsburg_St
-360.	 9.296727 rating for Lynn
-361.	 9.261170 rating for Ryerson
-362.	 9.259077 rating for Coffeyville_CC
-363.	 9.257561 rating for Wheeling_Jesuit
-364.	 9.249844 rating for UNC_Asheville
-365.	 9.245792 rating for St_Francis_IN
-366.	 9.189681 rating for Columbia_St
-367.	 9.154089 rating for Saginaw_Val
-368.	 9.136015 rating for St_Cloud
-369.	 9.092372 rating for Truman_St
-370.	 9.069582 rating for Gannon
-371.	 9.056609 rating for John_Logan
-372.	 9.046964 rating for S_Indiana
-373.	 9.010510 rating for CS_Northridge
-374.	 9.003931 rating for Ottawa_ON
-375.	 9.000679 rating for N_Kentucky
-376.	 8.998570 rating for SE_Missouri_St
-377.	 8.989604 rating for St_Mary's_TX
-378.	 8.983368 rating for Northwest_WY
-379.	 8.935923 rating for Col_of_Idaho
-380.	 8.912575 rating for Holy_Cross
-381.	 8.910097 rating for Holy_Family
-382.	 8.897072 rating for Ball_St
-383.	 8.888023 rating for Talladega
-384.	 8.878673 rating for Palm_Beach_St
-385.	 8.847474 rating for Weber_St
-386.	 8.830757 rating for Barton_Co
-387.	 8.827237 rating for Gulf_Coast_CC
-388.	 8.814520 rating for KY_Wesleyan
-389.	 8.797816 rating for Union_TN
-390.	 8.793731 rating for Hope_Intl
-391.	 8.785641 rating for King_TN
-392.	 8.746477 rating for Arkansas_St
-393.	 8.745648 rating for Ashland
-394.	 8.744247 rating for Iowa_Western_CC
-395.	 8.738129 rating for FL_Atlantic
-396.	 8.719440 rating for McNeese_St
-397.	 8.711161 rating for Brown
-398.	 8.688816 rating for Shorter
-399.	 8.686328 rating for Bridgeport
-400.	 8.650731 rating for Lindenwood
-401.	 8.590204 rating for Tallahassee_CC
-402.	 8.588407 rating for Humboldt_St
-403.	 8.568463 rating for Augustana_IL
-404.	 8.553462 rating for Des_Moines_CC
-405.	 8.536564 rating for IL_Wesleyan
-406.	 8.510156 rating for Three_Rivers
-407.	 8.491773 rating for Howard
-408.	 8.488673 rating for Montevallo
-409.	 8.480725 rating for Canada_Col
-410.	 8.464435 rating for Missouri_KC
-411.	 8.437997 rating for Southern_Univ
-412.	 8.431304 rating for Pensacola_St
-413.	 8.421819 rating for Washington_MO
-414.	 8.414023 rating for VA_Wesleyan
-415.	 8.404841 rating for New_Mexico_JC
-416.	 8.402046 rating for Elon
-417.	 8.401085 rating for Georgia_Highlands
-418.	 8.384421 rating for Fort_Hays_St
-419.	 8.318872 rating for NE_Kearney
-420.	 8.273522 rating for Col_Charleston
-421.	 8.261673 rating for Cornerstone
-422.	 8.257383 rating for Randolph_Macon
-423.	 8.256091 rating for NE_Omaha
-424.	 8.251478 rating for Tennessee_Tech
-425.	 8.251053 rating for Navy
-426.	 8.242682 rating for Army
-427.	 8.240304 rating for Towson
-428.	 8.228399 rating for Campbellsville
-429.	 8.218265 rating for Southeastern_CC
-430.	 8.211869 rating for Mercyhurst
-431.	 8.177274 rating for Upper_Iowa
-432.	 8.165749 rating for IL_Chicago
-433.	 8.159519 rating for Findlay
-434.	 8.153058 rating for CS_Fullerton
-435.	 8.149152 rating for Union_KY
-436.	 8.084061 rating for Fairmont_St
-437.	 8.065624 rating for Warner_Pacific
-438.	 8.047758 rating for Penn
-439.	 8.042244 rating for Jones_Co_CC
-440.	 8.036218 rating for St_Norbert
-441.	 8.005839 rating for Fresno_City_Col
-442.	 7.998924 rating for W_Oregon
-443.	 7.975551 rating for Concordia_SP
-444.	 7.969227 rating for Moberly_Area
-445.	 7.961651 rating for E_Connecticut
-446.	 7.947448 rating for Marietta
-447.	 7.933844 rating for Pikeville
-448.	 7.933309 rating for Concordia_CA
-449.	 7.924931 rating for Concord
-450.	 7.922773 rating for Alabama_St
-451.	 7.905758 rating for Delaware
-452.	 7.897899 rating for Delaware_St
-453.	 7.848245 rating for Babson
-454.	 7.839191 rating for Samford
-455.	 7.823907 rating for Northwood_MI
-456.	 7.812563 rating for New_Haven
-457.	 7.811311 rating for Johns_Hopkins
-458.	 7.780172 rating for Troy
-459.	 7.724229 rating for Arkansas-FS
-460.	 7.692153 rating for Winona_St
-461.	 7.679427 rating for Columbus_St
-462.	 7.633341 rating for Charleston_WV
-463.	 7.612166 rating for Florida_Intl
-464.	 7.586149 rating for Briar_Cliff
-465.	 7.571659 rating for Dalton_St
-466.	 7.549912 rating for Fairfield
-467.	 7.533793 rating for Washburn
-468.	 7.532153 rating for Southern_Miss
-469.	 7.495601 rating for Youngstown_St
-470.	 7.470454 rating for Wayland
-471.	 7.463175 rating for San_Jose_City_Col
-472.	 7.431967 rating for Siena
-473.	 7.400119 rating for Redlands_CC
-474.	 7.393188 rating for Williston_St
-475.	 7.388119 rating for Hope
-476.	 7.380909 rating for Mt_San_Jacinto
-477.	 7.380797 rating for Davenport
-478.	 7.377923 rating for Lipscomb
-479.	 7.357289 rating for Prairie_View
-480.	 7.312076 rating for E_Stroudsburg
-481.	 7.301971 rating for Mt_Union
-482.	 7.300987 rating for Mesa_St
-483.	 7.287118 rating for Northwestern_OH
-484.	 7.282862 rating for Ouachita
-485.	 7.249892 rating for Mt_Mercy
-486.	 7.221243 rating for S_Georgia_Tech
-487.	 7.148134 rating for Navarro
-488.	 7.137472 rating for Dickinson
-489.	 7.120897 rating for S_Georgia_St
-490.	 7.108100 rating for Philadelphia
-491.	 7.106744 rating for Gillette
-492.	 7.102349 rating for Claremont_M.S.
-493.	 7.100744 rating for Martin_Meth
-494.	 7.045729 rating for Long_Island
-495.	 7.045225 rating for Holmes_CC
-496.	 7.029012 rating for CS_San_Marcos
-497.	 7.015068 rating for Le_Moyne
-498.	 7.010148 rating for Wooster
-499.	 7.004295 rating for Pratt_CC
-500.	 6.990544 rating for St_Olaf
-501.	 6.990124 rating for Hartford
-502.	 6.939952 rating for IUPUI
-503.	 6.926628 rating for Angelina
-504.	 6.924698 rating for Niagara
-505.	 6.918464 rating for Appalachian_St
-506.	 6.905149 rating for C_Arizona
-507.	 6.890406 rating for Hampton
-508.	 6.853013 rating for UNC_Greensboro
-509.	 6.831289 rating for Lakeland_CC
-510.	 6.809772 rating for Richland
-511.	 6.802668 rating for Arizona_Chr
-512.	 6.797418 rating for Cochise
-513.	 6.764164 rating for Slippery_Rock
-514.	 6.760738 rating for St_Edward's
-515.	 6.747595 rating for John_Carroll
-516.	 6.685554 rating for Grace_IN
-517.	 6.677355 rating for Schoolcraft
-518.	 6.677154 rating for Houston_Bap
-519.	 6.673708 rating for Delta_St
-520.	 6.653512 rating for Harding
-521.	 6.652097 rating for North_Idaho
-522.	 6.641298 rating for SE_Louisiana
-523.	 6.638003 rating for Campbell
-524.	 6.631980 rating for New_Orleans
-525.	 6.626409 rating for Tyler_JC
-526.	 6.626017 rating for Broward_CC
-527.	 6.618732 rating for Card_Stritch
-528.	 6.612781 rating for North_Alabama
-529.	 6.603523 rating for MN_Duluth
-530.	 6.599072 rating for W_Washington
-531.	 6.581740 rating for Loyola_MD
-532.	 6.576836 rating for Chaminade
-533.	 6.568292 rating for Lee_TN
-534.	 6.564870 rating for Permian_Basin
-535.	 6.541445 rating for Our_Lady_Lake
-536.	 6.528683 rating for Blinn
-537.	 6.490111 rating for Miami-Dade
-538.	 6.487299 rating for South_Alabama
-539.	 6.477927 rating for Utah_Valley
-540.	 6.465394 rating for Mid-Am_Chr
-541.	 6.462160 rating for Elmhurst
-542.	 6.447231 rating for Olivet_Naz
-543.	 6.375924 rating for Livingstone
-544.	 6.370701 rating for Ohio_Wesleyan
-545.	 6.358317 rating for Hardin-Simmons
-546.	 6.312229 rating for St_John_Fisher
-547.	 6.307529 rating for Whitworth
-548.	 6.272741 rating for R_Stockton
-549.	 6.251823 rating for City_Col_San_Fran
-550.	 6.237692 rating for E_Texas_Bap
-551.	 6.216746 rating for Idaho_St
-552.	 6.212839 rating for Cameron
-553.	 6.187412 rating for Lubbock_Chr
-554.	 6.177776 rating for Midland
-555.	 6.158383 rating for North_Dakota
-556.	 6.155306 rating for Amherst
-557.	 6.150440 rating for Jacksonville_Col
-558.	 6.116756 rating for Southern_Utah
-559.	 6.090106 rating for Garden_City_CC
-560.	 6.079432 rating for Newman
-561.	 6.041742 rating for NYU
-562.	 6.040633 rating for Worcester_Tech
-563.	 6.040480 rating for Assumption
-564.	 6.032572 rating for Jacksonville_St
-565.	 6.011502 rating for Georgetown_KY
-566.	 5.987905 rating for VMI
-567.	 5.973362 rating for Glenville_St
-568.	 5.966915 rating for CS_San_Bern.
-569.	 5.963274 rating for Wagner
-570.	 5.962800 rating for East_Central_OK
-571.	 5.958539 rating for SD_City_Col
-572.	 5.951678 rating for Montana_St
-573.	 5.947078 rating for Chapman
-574.	 5.914154 rating for Concordia_OR
-575.	 5.913508 rating for Hawaii_Pacific
-576.	 5.883863 rating for Kilgore
-577.	 5.851198 rating for Hillsdale
-578.	 5.802081 rating for Oakland_CC
-579.	 5.796612 rating for N_OK-Tonkawa
-580.	 5.789637 rating for Benedictine_KS
-581.	 5.767422 rating for Jackson_St
-582.	 5.760878 rating for Westmont
-583.	 5.760234 rating for Emmanuel_GA
-584.	 5.749224 rating for Chaffey
-585.	 5.741312 rating for St_Leo
-586.	 5.723959 rating for Bowie_St
-587.	 5.717927 rating for Grand_Valley_St
-588.	 5.707750 rating for Temple_Col
-589.	 5.696096 rating for Walsh
-590.	 5.695362 rating for Furman
-591.	 5.694590 rating for Motlow_St
-592.	 5.674415 rating for CS_Stanislaus
-593.	 5.664798 rating for MA_Lowell
-594.	 5.659856 rating for Northeastern_JC
-595.	 5.626137 rating for Owens_CC
-596.	 5.623375 rating for Thomas_Aquinas
-597.	 5.619330 rating for Lamar_St
-598.	 5.597022 rating for SW_Minnesota
-599.	 5.596915 rating for Calvin
-600.	 5.594437 rating for SW_MO_St-WP
-601.	 5.592132 rating for Dubuque
-602.	 5.577622 rating for Dominican_CA
-603.	 5.567926 rating for Whitman
-604.	 5.561870 rating for MO_St_Louis
-605.	 5.535720 rating for Virginia_St
-606.	 5.530621 rating for Kutztown
-607.	 5.527310 rating for Quincy
-608.	 5.524375 rating for Lander
-609.	 5.508609 rating for Weatherford
-610.	 5.492806 rating for Skidmore
-611.	 5.464235 rating for Lindsey_Wilson
-612.	 5.426906 rating for Long_Beach_City_Col
-613.	 5.409298 rating for Eckerd
-614.	 5.408097 rating for Daemen
-615.	 5.380201 rating for Polk_CC
-616.	 5.353702 rating for Odessa
-617.	 5.348649 rating for Cumberlands_KY
-618.	 5.344539 rating for Bethel_MN
-619.	 5.342558 rating for Albertus_Magnus
-620.	 5.307001 rating for Wm_Paterson
-621.	 5.300201 rating for Edinboro
-622.	 5.293264 rating for Southwestern_CA
-623.	 5.289237 rating for CW_Post
-624.	 5.275717 rating for Mississippi_Col
-625.	 5.220557 rating for OK_City
-626.	 5.218443 rating for S_Arkansas
-627.	 5.209538 rating for ND_St_Science
-628.	 5.205470 rating for N_OK-Enid
-629.	 5.204707 rating for TX_Pan_American
-630.	 5.197095 rating for Frank_&_Marsh
-631.	 5.185729 rating for Freed-Hardeman
-632.	 5.184890 rating for W_Salem_St
-633.	 5.157786 rating for Minot_St
-634.	 5.136829 rating for Alvernia
-635.	 5.121777 rating for Baldwin-Wallace
-636.	 5.102866 rating for Marin_CC
-637.	 5.098338 rating for Austin_Peay
-638.	 5.078536 rating for Marshalltown_CC
-639.	 5.070197 rating for Concordia_TX
-640.	 5.065012 rating for Nova_SE
-641.	 5.051579 rating for Monroe_CC
-642.	 5.009917 rating for Harcum_Col
-643.	 5.007512 rating for Chattahoochee_Tech
-644.	 4.964779 rating for Sonoma_St
-645.	 4.958323 rating for East_Central_CC
-646.	 4.955083 rating for Nicholls_St
-647.	 4.951828 rating for East_LA_Col
-648.	 4.902522 rating for Florida_Tech
-649.	 4.879133 rating for AK_Anchorage
-650.	 4.877153 rating for Abilene_Chr
-651.	 4.836973 rating for W_Wyoming_CC
-652.	 4.835433 rating for RI_College
-653.	 4.810641 rating for Georgia_SW
-654.	 4.754428 rating for West_LA_Col
-655.	 4.745675 rating for St_Rose
-656.	 4.741939 rating for W_Illinois
-657.	 4.736140 rating for Cosumnes_River
-658.	 4.726915 rating for NE_OK_A&M
-659.	 4.721218 rating for Kennesaw
-660.	 4.710551 rating for Coppin_St
-661.	 4.706889 rating for Chicago
-662.	 4.705011 rating for Rhodes
-663.	 4.672705 rating for C_Washington
-664.	 4.656880 rating for SW_Baptist
-665.	 4.634069 rating for Snow_Col
-666.	 4.633751 rating for Alabama_A&M
-667.	 4.633239 rating for Ald-Broaddus
-668.	 4.623539 rating for Jacksonville
-669.	 4.619502 rating for Triton_Col
-670.	 4.619368 rating for Cape_Fear_CC
-671.	 4.592074 rating for Hawaii_Hilo
-672.	 4.582123 rating for Chicago_St
-673.	 4.511827 rating for Monroe
-674.	 4.477529 rating for Southern_Oregon
-675.	 4.467580 rating for Southern-Shreve
-676.	 4.440015 rating for Springfield
-677.	 4.438746 rating for LSU-Alexandria
-678.	 4.436444 rating for Newberry
-679.	 4.435610 rating for Marist
-680.	 4.434295 rating for Westfield_St
-681.	 4.433109 rating for Philander_Smith
-682.	 4.432077 rating for Baton_Rouge_CC
-683.	 4.426877 rating for Catholic
-684.	 4.416641 rating for Col_Ozarks
-685.	 4.409109 rating for E_Mississippi_CC
-686.	 4.402395 rating for Aquinas
-687.	 4.388004 rating for CS_Monterey_Bay
-688.	 4.378643 rating for Kaskaskia
-689.	 4.353157 rating for McMaster
-690.	 4.340014 rating for Dodge_City_CC
-691.	 4.339186 rating for Longwood
-692.	 4.321491 rating for Centre
-693.	 4.313913 rating for St_Mary's_MD
-694.	 4.309626 rating for Ark_Pine_Bluff
-695.	 4.296662 rating for Bellevue
-696.	 4.292547 rating for Maryville_MO
-697.	 4.292102 rating for Xavier_LA
-698.	 4.276894 rating for Rutgers-Newark
-699.	 4.237460 rating for Stetson
-700.	 4.229678 rating for Ark_Baptist
-701.	 4.221696 rating for SW_Illinois
-702.	 4.217114 rating for Cent_Wyoming
-703.	 4.210403 rating for Shelton_St
-704.	 4.201218 rating for Northwest_Chr
-705.	 4.171923 rating for N_Central_IL
-706.	 4.151146 rating for St_John's_MN
-707.	 4.143745 rating for Wesleyan_CT
-708.	 4.141379 rating for St_Vincent
-709.	 4.139396 rating for Citrus_Col
-710.	 4.134854 rating for Citadel
-711.	 4.115121 rating for Arkansas_Tech
-712.	 4.111892 rating for North_Georgia
-713.	 4.098717 rating for Parkland
-714.	 4.084892 rating for Wm_Jewell
-715.	 4.009974 rating for Casper_College
-716.	 4.002489 rating for Windsor
-717.	 3.981095 rating for Richard_Bland
-718.	 3.981006 rating for F_Dickinson
-719.	 3.952627 rating for SW_Assemb_God
-720.	 3.937064 rating for West_Chester
-721.	 3.916967 rating for Lynchburg
-722.	 3.904047 rating for Ashford
-723.	 3.861926 rating for Lake_Erie
-724.	 3.859715 rating for Mt_Vernon_Naz
-725.	 3.844483 rating for Brooklyn_Col
-726.	 3.790416 rating for Chipola
-727.	 3.782166 rating for Vanguard
-728.	 3.729236 rating for MT_Western
-729.	 3.728034 rating for Spartanburg_Meth
-730.	 3.723770 rating for Keene_St
-731.	 3.713493 rating for Defiance
-732.	 3.696095 rating for Rio_Hondo
-733.	 3.662763 rating for SE_Oklahoma
-734.	 3.646989 rating for J&W_RI
-735.	 3.630731 rating for Trinity_CT
-736.	 3.629592 rating for Emporia_St
-737.	 3.593913 rating for Plattsburgh_St
-738.	 3.588544 rating for Cloud_Co
-739.	 3.580891 rating for MO_Western
-740.	 3.573906 rating for Dordt
-741.	 3.569187 rating for S_Francisco_St
-742.	 3.563896 rating for Bakersfield_Col
-743.	 3.560244 rating for Rock_Valley
-744.	 3.555091 rating for Savannah_St
-745.	 3.548300 rating for Chris_Newport
-746.	 3.530442 rating for Presbyterian
-747.	 3.518839 rating for Columbia_MO
-748.	 3.513045 rating for Stevenson
-749.	 3.484824 rating for Scranton
-750.	 3.474280 rating for California_PA
-751.	 3.471733 rating for Lassen
-752.	 3.462213 rating for Santa_Fe_CC
-753.	 3.458321 rating for North_Platte_CC
-754.	 3.454098 rating for Caldwell
-755.	 3.453996 rating for Baruch
-756.	 3.448730 rating for Louisburg
-757.	 3.414411 rating for San_Jose_St
-758.	 3.410613 rating for LA_Harbor
-759.	 3.398408 rating for NC_A&T
-760.	 3.384427 rating for Seward_Co
-761.	 3.381025 rating for Young_Harris
-762.	 3.376335 rating for Case_Western
-763.	 3.353136 rating for TX_A&M_K'ville
-764.	 3.339298 rating for Queens_NC
-765.	 3.333181 rating for Chabot
-766.	 3.325579 rating for Bates
-767.	 3.309328 rating for Essex_CC
-768.	 3.298386 rating for Lansing_CC
-769.	 3.283906 rating for AZ_Western
-770.	 3.280046 rating for Life
-771.	 3.238156 rating for Susquehanna
-772.	 3.233345 rating for Buena_Vista
-773.	 3.227696 rating for Laramie_Co
-774.	 3.212836 rating for NM_Military
-775.	 3.212708 rating for Paine
-776.	 3.187329 rating for Molloy
-777.	 3.177071 rating for Rollins
-778.	 3.158804 rating for UT_Dallas
-779.	 3.155990 rating for Bethune-Cookman
-780.	 3.152961 rating for Liberty
-781.	 3.152571 rating for Northwood_FL
-782.	 3.152251 rating for Merritt
-783.	 3.152096 rating for Palm_Beach_Atl
-784.	 3.147719 rating for Stillman
-785.	 3.146516 rating for Ohlone
-786.	 3.127152 rating for Lewis-Clark_ID
-787.	 3.119263 rating for Walters_St
-788.	 3.117760 rating for Gust_Adolphus
-789.	 3.116972 rating for John_Wood_CC
-790.	 3.101520 rating for Mary_ND
-791.	 3.094817 rating for DePauw
-792.	 3.088039 rating for Binghamton
-793.	 3.087631 rating for Faulkner
-794.	 3.066982 rating for Chatt_St_Tech
-795.	 3.057619 rating for Davidson_Co_CC
-796.	 3.040720 rating for Morgan_St
-797.	 3.036144 rating for Bowdoin
-798.	 3.026819 rating for Collin_Co
-799.	 3.023899 rating for Oswego_St
-800.	 3.018150 rating for Malone
-801.	 3.008171 rating for Notre_Dame_OH
-802.	 3.002869 rating for San_Joaquin_Delta
-803.	 2.989787 rating for MIT
-804.	 2.984655 rating for Williams
-805.	 2.983060 rating for Brit_Columbia
-806.	 2.981690 rating for Lee_TX
-807.	 2.977310 rating for Valdosta_St
-808.	 2.976820 rating for Genesee_CC
-809.	 2.970149 rating for WI_Platteville
-810.	 2.936039 rating for Colorado_Chr
-811.	 2.921729 rating for Tennessee_St
-812.	 2.910246 rating for North_Greenville
-813.	 2.894384 rating for Pima_CC
-814.	 2.894080 rating for Marian_IN
-815.	 2.887910 rating for Dallas_Bap
-816.	 2.885654 rating for GA_Perimeter
-817.	 2.880112 rating for Carson-Newman
-818.	 2.868661 rating for Bethel_TN
-819.	 2.868661 rating for Northwestern_IA
-820.	 2.866292 rating for Rowan
-821.	 2.866275 rating for Endicott
-822.	 2.852224 rating for Rocky_Mtn
-823.	 2.830267 rating for Irvine_Valley
-824.	 2.822753 rating for IL_Springfield
-825.	 2.806505 rating for Tufts
-826.	 2.789453 rating for Post
-827.	 2.774385 rating for SW_Oklahoma
-828.	 2.772706 rating for Jackson_St_CC
-829.	 2.762412 rating for Clayton_St
-830.	 2.742477 rating for S_Carolina_St
-831.	 2.720990 rating for Lincoln_PA
-832.	 2.697103 rating for Frank_Phillips
-833.	 2.697075 rating for Hobart-Smith
-834.	 2.668846 rating for Southern_Nazarene
-835.	 2.661825 rating for Paris_JC
-836.	 2.650092 rating for S_Vermont
-837.	 2.642479 rating for Yuba
-838.	 2.587583 rating for St_Francis_IL
-839.	 2.586854 rating for Claflin
-840.	 2.552516 rating for Salisbury_St
-841.	 2.537119 rating for Francis_Marion
-842.	 2.531923 rating for MS_Gulf_Coast
-843.	 2.531413 rating for Moorpark
-844.	 2.513746 rating for Cal_St-LA
-845.	 2.509410 rating for Louisiana_Col
-846.	 2.506219 rating for PSU-Behrend
-847.	 2.504863 rating for Trine
-848.	 2.504480 rating for MS_Delta
-849.	 2.504476 rating for Concordia_NE
-850.	 2.491412 rating for South_Mtn
-851.	 2.468374 rating for NYIT
-852.	 2.464036 rating for WV_Wesleyan
-853.	 2.460163 rating for JC_Smith
-854.	 2.444605 rating for Hillsborough_CC
-855.	 2.437725 rating for Clarkson
-856.	 2.432164 rating for Benedict
-857.	 2.429420 rating for Mt_St_Joseph
-858.	 2.419986 rating for Dominican_NY
-859.	 2.403426 rating for Northwest_KS_Tech
-860.	 2.373617 rating for SC_Aiken
-861.	 2.353053 rating for Nichols
-862.	 2.352311 rating for Texas_A&M_Intl
-863.	 2.315185 rating for Cincinnati_St_Tech
-864.	 2.311416 rating for Cent_Georgia_Tech
-865.	 2.297362 rating for Faulkner_St
-866.	 2.281657 rating for Fayetteville_St
-867.	 2.281273 rating for Wiley
-868.	 2.281171 rating for Cuyahoga_CC
-869.	 2.266808 rating for Sierra_Col
-870.	 2.257499 rating for Victoria
-871.	 2.249669 rating for Shepherd
-872.	 2.232302 rating for St_Xavier_IL
-873.	 2.228671 rating for NE_MS_CC
-874.	 2.227780 rating for Kishwaukee_CC
-875.	 2.225260 rating for Goshen
-876.	 2.217125 rating for OK_Baptist
-877.	 2.202219 rating for TX_Lutheran
-878.	 2.201469 rating for Adelphi
-879.	 2.200457 rating for Evangel
-880.	 2.133572 rating for Mercer_Co
-881.	 2.123841 rating for MiraCosta
-882.	 2.112282 rating for Shaw_NC
-883.	 2.111542 rating for NW_Nazarene
-884.	 2.110102 rating for New_Brunswick
-885.	 2.096672 rating for Guilford
-886.	 2.089547 rating for North_Park
-887.	 2.080974 rating for PR_Bayamon
-888.	 2.073533 rating for Glendale_AZ
-889.	 2.069619 rating for William_Penn
-890.	 2.064549 rating for Western_Texas
-891.	 2.063957 rating for WI_Oshkosh
-892.	 2.063487 rating for Sheridan_Col
-893.	 2.062506 rating for Southwestern_CC
-894.	 2.050432 rating for Pitt-Johnstown
-895.	 2.033221 rating for S_Union_St
-896.	 2.028177 rating for Allen_Co
-897.	 2.017483 rating for N_Michigan
-898.	 1.994359 rating for Middlebury
-899.	 1.977680 rating for Cincinnati_Chr
-900.	 1.946545 rating for M_Hardin-Baylor
-901.	 1.940934 rating for Kansas_City_KS
-902.	 1.930081 rating for Col_of_the_Sequoias
-903.	 1.909663 rating for Indiana-East
-904.	 1.908752 rating for Santa_Rosa_JC
-905.	 1.906563 rating for Otero_JC
-906.	 1.904130 rating for Allan_Hancock
-907.	 1.899088 rating for Berea
-908.	 1.897384 rating for WI_River_Falls
-909.	 1.889681 rating for Cortland_St
-910.	 1.882147 rating for Arcadia
-911.	 1.861842 rating for Wheaton_IL
-912.	 1.851384 rating for Wingate
-913.	 1.849914 rating for St_Thomas_FL
-914.	 1.845809 rating for Tohono_O'odham
-915.	 1.816318 rating for Caldwell_CC_Tech
-916.	 1.806669 rating for N_Central_MO
-917.	 1.806568 rating for Howard_Payne
-918.	 1.803129 rating for Diablo_Val
-919.	 1.791986 rating for Las_Positas
-920.	 1.791418 rating for Col_of_the_Desert
-921.	 1.772423 rating for Pasadena_City_Col
-922.	 1.768703 rating for NW_Mississippi
-923.	 1.743312 rating for Central_Conn
-924.	 1.721887 rating for Marymount_VA
-925.	 1.692923 rating for LA_Pierce
-926.	 1.676451 rating for Atlanta_Metro
-927.	 1.658644 rating for Lake_Land_IL
-928.	 1.648643 rating for Chattahoochee_Val
-929.	 1.647084 rating for Warner
-930.	 1.644895 rating for St_Mary_KS
-931.	 1.639564 rating for Henderson_St
-932.	 1.633906 rating for Millersville
-933.	 1.623494 rating for Bemidji_St
-934.	 1.613376 rating for Cuesta
-935.	 1.610254 rating for W_Nebraska_CC
-936.	 1.600781 rating for Cal_Lutheran
-937.	 1.585870 rating for Sioux_Falls
-938.	 1.574354 rating for Southeastern_FL
-939.	 1.565559 rating for NJ_City
-940.	 1.543706 rating for Dowling
-941.	 1.535948 rating for Missouri_Val
-942.	 1.516241 rating for CCBC-Dundalk
-943.	 1.508556 rating for Skyline
-944.	 1.493583 rating for Col_of_the_Canyons
-945.	 1.490291 rating for Coker
-946.	 1.475239 rating for Black_Hills_St
-947.	 1.449278 rating for Geneseo_St
-948.	 1.419789 rating for Danville_CC
-949.	 1.413038 rating for Mott_CC
-950.	 1.408312 rating for College_of_NJ
-951.	 1.389177 rating for Alcorn_St
-952.	 1.381333 rating for Corban
-953.	 1.331625 rating for Concordia_Mhd
-954.	 1.309031 rating for SW_Mississippi
-955.	 1.306600 rating for Wayne_St_MI
-956.	 1.303537 rating for McKendree
-957.	 1.286589 rating for UMBC
-958.	 1.271333 rating for Misericordia
-959.	 1.260382 rating for Chowan
-960.	 1.237625 rating for Gwynedd-Mercy
-961.	 1.231209 rating for E_Nazarene
-962.	 1.226946 rating for Taylor_IN
-963.	 1.226237 rating for ASA
-964.	 1.217504 rating for MS_Valley_St
-965.	 1.213881 rating for Palomar_Col
-966.	 1.207607 rating for MA_Dartmouth
-967.	 1.191085 rating for E_Mennonite
-968.	 1.150924 rating for Carnegie_Mellon
-969.	 1.146391 rating for Centenary
-970.	 1.109881 rating for Academy_of_Art
-971.	 1.096873 rating for Saskatchewan
-972.	 1.093267 rating for Lee-McRae
-973.	 1.075830 rating for Jamestown
-974.	 1.072763 rating for AIB_Col_Business
-975.	 1.068137 rating for Morehouse
-976.	 1.066510 rating for OH_Dominican
-977.	 1.063952 rating for Fresno_Pacific
-978.	 1.025757 rating for Dakota_St
-979.	 1.024270 rating for Maine
-980.	 1.006119 rating for Russell_Sage
-981.	 0.996783 rating for Niagara_Co
-982.	 0.952838 rating for SE_Illinois
-983.	 0.948624 rating for American_River
-984.	 0.922337 rating for Birmingham_So
-985.	 0.918832 rating for Muskegon_CC
-986.	 0.918319 rating for St_Ambrose
-987.	 0.876471 rating for Seminole_St
-988.	 0.834477 rating for Hastings
-989.	 0.822854 rating for NE_Wesleyan
-990.	 0.821390 rating for Loyola_NO
-991.	 0.820990 rating for Cedarville
-992.	 0.794886 rating for WV_Tech
-993.	 0.789436 rating for Central_St_OH
-994.	 0.781390 rating for S_Suburban
-995.	 0.774417 rating for Benedictine_IL
-996.	 0.759005 rating for Bellevue_CC
-997.	 0.757474 rating for Lake_Michigan
-998.	 0.749728 rating for Lewis_&_Clark
-999.	 0.732910 rating for Missouri_S&T
-1000.	 0.727128 rating for Bryant_&_Stratton
-1001.	 0.707809 rating for Rochester_NY
-1002.	 0.702091 rating for Lycoming
-1003.	 0.675744 rating for Erie_CC
-1004.	 0.663002 rating for Foothill_Col
-1005.	 0.661947 rating for Winnipeg
-1006.	 0.654076 rating for Oregon_Tech
-1007.	 0.633040 rating for Coastal_Bend_College
-1008.	 0.605822 rating for NE_Oklahoma
-1009.	 0.596631 rating for Bridgewater_MA
-1010.	 0.569463 rating for Cowley_Co
-1011.	 0.556955 rating for Chadron_St
-1012.	 0.556286 rating for East_Georgia_Col
-1013.	 0.552118 rating for Wm_Carey
-1014.	 0.532044 rating for Ellsworth_CC
-1015.	 0.517965 rating for Victor_Valley
-1016.	 0.509638 rating for LSU_Shreveport
-1017.	 0.477705 rating for Cabrini
-1018.	 0.476430 rating for Biola
-1019.	 0.460703 rating for Lincoln_Trail
-1020.	 0.436397 rating for WI_LaCrosse
-1021.	 0.423880 rating for Iowa_Cent
-1022.	 0.421009 rating for Gordon_GA
-1023.	 0.408424 rating for Pfeiffer
-1024.	 0.400462 rating for Catawba
-1025.	 0.396257 rating for MA_Boston
-1026.	 0.363803 rating for Staten_Island
-1027.	 0.362266 rating for Bloomfield
-1028.	 0.355540 rating for Brown_Mackie
-1029.	 0.347301 rating for Flagler
-1030.	 0.346143 rating for Grandview
-1031.	 0.341577 rating for Delta_Col
-1032.	 0.316067 rating for Coe
-1033.	 0.308211 rating for Wayne_St_NE
-1034.	 0.305778 rating for St_Gregory's
-1035.	 0.297796 rating for Penn_Valley_CC
-1036.	 0.276283 rating for Sandhills_CC
-1037.	 0.261934 rating for Colby
-1038.	 0.256108 rating for Eastern_Utah
-1039.	 0.239190 rating for Asbury
-1040.	 0.226493 rating for Buffalo_St
-1041.	 0.214090 rating for Clinton_JC
-1042.	 0.186407 rating for Messiah
-1043.	 0.166096 rating for Peru_St
-1044.	 0.156957 rating for Shawnee_CC
-1045.	 0.155719 rating for LeMoyne-Owen
-1046.	 0.155241 rating for El_Camino-Compton
-1047.	 0.153357 rating for Trevecca_Naz
-1048.	 0.150952 rating for Clark_CC
-1049.	 0.137106 rating for Langston
-1050.	 0.130740 rating for Huntington
-1051.	 0.119201 rating for Albion
-1052.	 0.114974 rating for WI_Eau_Claire
-1053.	 0.111756 rating for Ohio_Chr
-1054.	 0.097316 rating for PR_Rio_Piedras
-1055.	 0.088345 rating for Santa_Monica_Col
-1056.	 0.074411 rating for Colby_CC
-1057.	 0.063123 rating for Kankakee_CC
-1058.	 0.059819 rating for Hesston
-1059.	 0.058599 rating for Aurora
-1060.	 0.045856 rating for Columbia_CC
-1061.	 0.044850 rating for McCook_CC
-1062.	 0.037144 rating for Cabrillo
-1063.	 0.023717 rating for Roberts_Wslyn
-1064.	 0.021430 rating for Ramapo
-1065.	 0.013506 rating for McDaniel_Col
-1066.	 0.006088 rating for Eastern_OK_St
-1067.	 0.002575 rating for Iowa_Lakes_CC
-1068.	 -0.002859 rating for Mansfield
-1069.	 -0.003639 rating for Tiffin
-1070.	 -0.012304 rating for Brandeis
-1071.	 -0.026380 rating for Hampden-Sydney
-1072.	 -0.058139 rating for Concordia_WI
-1073.	 -0.061612 rating for Tabor
-1074.	 -0.079451 rating for Westminster_UT
-1075.	 -0.087990 rating for Monterey_Peninsula
-1076.	 -0.097709 rating for Finger_Lakes_CC
-1077.	 -0.105473 rating for Hinds_CC
-1078.	 -0.132555 rating for Anderson_SC
-1079.	 -0.143889 rating for West_Florida
-1080.	 -0.150263 rating for Whittier
-1081.	 -0.155531 rating for Eastern_Oregon
-1082.	 -0.177853 rating for Contra_Costa
-1083.	 -0.184276 rating for Denison
-1084.	 -0.208840 rating for Grinnell
-1085.	 -0.213716 rating for Shippensburg
-1086.	 -0.226641 rating for Alberta
-1087.	 -0.233873 rating for Oglethorpe
-1088.	 -0.244773 rating for Georgia_C&S
-1089.	 -0.281351 rating for Wabash_Val
-1090.	 -0.293055 rating for Frederick_CC
-1091.	 -0.324563 rating for Rend_Lake
-1092.	 -0.325129 rating for Univ_of_Southwest
-1093.	 -0.325384 rating for Mid_Am_Nazarene
-1094.	 -0.328806 rating for W_Connecticut
-1095.	 -0.336813 rating for N_New_Mexico
-1096.	 -0.340699 rating for Wilmington_OH
-1097.	 -0.359919 rating for Dallas_Univ
-1098.	 -0.361156 rating for Tougaloo
-1099.	 -0.370493 rating for Gettysburg
-1100.	 -0.381143 rating for Bor_Manhattan
-1101.	 -0.394035 rating for Concordia_MI
-1102.	 -0.395885 rating for Lourdes
-1103.	 -0.420195 rating for Humber
-1104.	 -0.420321 rating for Grand_Rapids_CC
-1105.	 -0.422853 rating for John_Brown
-1106.	 -0.429696 rating for MN_Crookston
-1107.	 -0.441277 rating for Northwest_WA
-1108.	 -0.460211 rating for TX_Wesleyan
-1109.	 -0.479636 rating for Ohio_Northern
-1110.	 -0.497548 rating for Cent_Methodist
-1111.	 -0.508575 rating for Waynesburg
-1112.	 -0.515572 rating for CS_Dom._Hills
-1113.	 -0.520331 rating for Lamar_CC
-1114.	 -0.520503 rating for Rochester_C&T
-1115.	 -0.520611 rating for Cecil_Col
-1116.	 -0.522011 rating for Alma
-1117.	 -0.534271 rating for Brewton-Parker
-1118.	 -0.579719 rating for MT_St_Northern
-1119.	 -0.580682 rating for Roane_St
-1120.	 -0.588221 rating for AK_Fairbanks
-1121.	 -0.589904 rating for Lehman
-1122.	 -0.591771 rating for Barton
-1123.	 -0.604719 rating for Thomas_GA
-1124.	 -0.622096 rating for Rutgers-Camden
-1125.	 -0.635582 rating for Ohio_Valley
-1126.	 -0.640256 rating for Cent_Arkansas
-1127.	 -0.643671 rating for S_Dakota_Tech
-1128.	 -0.646733 rating for Wittenberg
-1129.	 -0.648986 rating for Friends
-1130.	 -0.650788 rating for St_Joseph's_IN
-1131.	 -0.653080 rating for NW_Oklahoma_St
-1132.	 -0.663735 rating for Hamline
-1133.	 -0.669752 rating for SW_Univ_TX
-1134.	 -0.696392 rating for Monmouth_IL
-1135.	 -0.702738 rating for Milligan
-1136.	 -0.714067 rating for Carleton_MN
-1137.	 -0.723269 rating for Itawamba_CC
-1138.	 -0.728802 rating for Thomas_More
-1139.	 -0.734306 rating for Hamilton
-1140.	 -0.741012 rating for Lurleen_Wallace
-1141.	 -0.747966 rating for Lawson_St
-1142.	 -0.756133 rating for NM_Highlands
-1143.	 -0.760247 rating for Fraser_Val
-1144.	 -0.763872 rating for Butte_Col
-1145.	 -0.777339 rating for W_Oklahoma_St
-1146.	 -0.796926 rating for Lakehead
-1147.	 -0.799987 rating for MT_Tech
-1148.	 -0.801322 rating for Carthage
-1149.	 -0.831613 rating for Carroll_MT
-1150.	 -0.833317 rating for Spring_Arbor
-1151.	 -0.847576 rating for Lindenwood-Belleville
-1152.	 -0.856048 rating for SUNY_Oneonta
-1153.	 -0.872875 rating for Concordia_AL
-1154.	 -0.886261 rating for Wabash
-1155.	 -0.916730 rating for Brescia
-1156.	 -0.916897 rating for Central_IA
-1157.	 -0.939909 rating for Salem_MA
-1158.	 -0.951833 rating for Bethany_KS
-1159.	 -0.952190 rating for Fitchburg_St
-1160.	 -0.967688 rating for Lincoln_Col
-1161.	 -0.974686 rating for USC_Salkehatchie
-1162.	 -0.983565 rating for MT-Great_Falls
-1163.	 -0.995371 rating for Olive-Harvey
-1164.	 -1.016296 rating for Tuskegee
-1165.	 -1.036829 rating for Armstrong_Atl
-1166.	 -1.085562 rating for Gadsden_St_CC
-1167.	 -1.090112 rating for Baltimore_City_CC
-1168.	 -1.096322 rating for Edward_Waters
-1169.	 -1.099383 rating for Heidelberg
-1170.	 -1.117869 rating for Big_Bend_CC
-1171.	 -1.119720 rating for Ark_Monticello
-1172.	 -1.136510 rating for Rio_Grande
-1173.	 -1.171080 rating for N_Arkansas
-1174.	 -1.195052 rating for Kennedy-King
-1175.	 -1.207950 rating for Copiah-Lincoln
-1176.	 -1.212189 rating for Highland_CC_KS
-1177.	 -1.229278 rating for Clarion
-1178.	 -1.241733 rating for Kalamazoo_Val
-1179.	 -1.247199 rating for Averett
-1180.	 -1.282278 rating for Wilmington_DE
-1181.	 -1.296801 rating for Trinidad_St_JC
-1182.	 -1.313356 rating for The_Master's
-1183.	 -1.325479 rating for Alfred
-1184.	 -1.333613 rating for Garrett
-1185.	 -1.334935 rating for Roosevelt
-1186.	 -1.348239 rating for Lebanon_Val
-1187.	 -1.354944 rating for Florida_National
-1188.	 -1.366448 rating for Lane
-1189.	 -1.385966 rating for Miramar
-1190.	 -1.390869 rating for McGill
-1191.	 -1.393545 rating for Chestnut_Hill
-1192.	 -1.396456 rating for R_Morris_Chi
-1193.	 -1.407353 rating for Madonna
-1194.	 -1.415101 rating for Wartburg
-1195.	 -1.417961 rating for E_New_Mexico
-1196.	 -1.421800 rating for Manor
-1197.	 -1.431567 rating for Mayville_St
-1198.	 -1.431913 rating for Williams_Bap
-1199.	 -1.443126 rating for Brockport_St
-1200.	 -1.474377 rating for Greensboro
-1201.	 -1.499872 rating for Colby-Sawyer
-1202.	 -1.504386 rating for Pace
-1203.	 -1.527849 rating for Meridian_CC
-1204.	 -1.531804 rating for Edmonds_CC
-1205.	 -1.537158 rating for Simon_Fraser
-1206.	 -1.537690 rating for Oklahoma_Chr
-1207.	 -1.584662 rating for Hood
-1208.	 -1.611873 rating for Sewanee
-1209.	 -1.616521 rating for Grambling
-1210.	 -1.629406 rating for Muhlenberg
-1211.	 -1.630602 rating for Hanover
-1212.	 -1.636136 rating for Wm_Jessup
-1213.	 -1.641124 rating for Fisher
-1214.	 -1.660016 rating for Urbana
-1215.	 -1.665659 rating for St_Mary's_NS
-1216.	 -1.674515 rating for Mohawk_Val
-1217.	 -1.688435 rating for Regis_CO
-1218.	 -1.689534 rating for Cleveland_St_CC
-1219.	 -1.697058 rating for Treasure_Val_CC
-1220.	 -1.718040 rating for Maryville_TN
-1221.	 -1.720345 rating for Harford_CC
-1222.	 -1.746206 rating for Western_ON
-1223.	 -1.765366 rating for Ventura_Col
-1224.	 -1.772670 rating for Union_NY
-1225.	 -1.781218 rating for Cape_Breton
-1226.	 -1.791584 rating for Cypress
-1227.	 -1.814504 rating for Rose-Hulman
-1228.	 -1.816153 rating for Lock_Haven
-1229.	 -1.834672 rating for Lake_Region
-1230.	 -1.849869 rating for Hilbert
-1231.	 -1.853706 rating for York_NE
-1232.	 -1.859691 rating for DeSales
-1233.	 -1.888833 rating for Wallace_St
-1234.	 -1.892303 rating for Macomb_CC
-1235.	 -1.899153 rating for Joliet_JC
-1236.	 -1.900908 rating for Hartwick
-1237.	 -1.933431 rating for Sullivan_Co
-1238.	 -1.936539 rating for Randolph_Col
-1239.	 -1.936899 rating for St_Thomas_TX
-1240.	 -1.952057 rating for North_Lake
-1241.	 -1.953431 rating for St_Lawrence
-1242.	 -1.965237 rating for Indian_River
-1243.	 -1.969277 rating for Eliz._City_St
-1244.	 -1.980090 rating for Cal_Maritime
-1245.	 -2.001763 rating for Dalhousie
-1246.	 -2.003600 rating for Bethany_WV
-1247.	 -2.027383 rating for Scottsdale_CC
-1248.	 -2.032677 rating for Carl_Albert
-1249.	 -2.033502 rating for Mtn_View
-1250.	 -2.049717 rating for J&W_FL
-1251.	 -2.060027 rating for Nyack
-1252.	 -2.064267 rating for WV_State
-1253.	 -2.065963 rating for Augsburg
-1254.	 -2.069951 rating for Virginia_Union
-1255.	 -2.086441 rating for Regis_MA
-1256.	 -2.086563 rating for Patrick_Henry_CC
-1257.	 -2.087922 rating for Pitt_CC
-1258.	 -2.089396 rating for Highline_CC
-1259.	 -2.103689 rating for Berkeley_NYC
-1260.	 -2.108340 rating for Bloomsburg
-1261.	 -2.123458 rating for Avila
-1262.	 -2.131677 rating for IL_Central
-1263.	 -2.132505 rating for Webber
-1264.	 -2.138735 rating for Limestone
-1265.	 -2.150056 rating for Waldorf
-1266.	 -2.174599 rating for Delaware_Val
-1267.	 -2.183309 rating for Rockhurst
-1268.	 -2.194857 rating for Belhaven_MS
-1269.	 -2.216115 rating for LaGrange
-1270.	 -2.221768 rating for Albright
-1271.	 -2.240712 rating for Rochester_MI
-1272.	 -2.251186 rating for Brookhaven
-1273.	 -2.255969 rating for Wenatchee_Val_CC
-1274.	 -2.277344 rating for Puget_Sound
-1275.	 -2.289812 rating for Mobile
-1276.	 -2.292568 rating for York_NY
-1277.	 -2.329261 rating for St_Joseph's_NY
-1278.	 -2.329339 rating for Lancaster_Bib
-1279.	 -2.345377 rating for N_Iowa_CC
-1280.	 -2.405496 rating for Albany_Tech
-1281.	 -2.408225 rating for Seton_Hill
-1282.	 -2.435121 rating for Cumberland_TN
-1283.	 -2.439930 rating for Point_Park
-1284.	 -2.444609 rating for Webster_Univ
-1285.	 -2.466650 rating for Vancouver_Island
-1286.	 -2.477879 rating for Pomona_Pitzer
-1287.	 -2.508091 rating for Miles_CC
-1288.	 -2.508869 rating for St_Augustine's
-1289.	 -2.512972 rating for Colorado_Col
-1290.	 -2.523334 rating for Riverside_CC
-1291.	 -2.527391 rating for J&W_NC
-1292.	 -2.529601 rating for Culver-Stockton
-1293.	 -2.532134 rating for Felician
-1294.	 -2.574108 rating for Wayne_Co
-1295.	 -2.577538 rating for Methodist
-1296.	 -2.582699 rating for Queens_NY
-1297.	 -2.590492 rating for Nassau_CC
-1298.	 -2.610739 rating for Ripon
-1299.	 -2.611396 rating for Shawnee_St
-1300.	 -2.627832 rating for Holy_Cross_IN
-1301.	 -2.630701 rating for Truett-McConnell
-1302.	 -2.630741 rating for Cerritos_Col
-1303.	 -2.660113 rating for Western_St_CO
-1304.	 -2.668867 rating for LA_Valley_Col
-1305.	 -2.668916 rating for PSU-Fayette
-1306.	 -2.675438 rating for Millikin
-1307.	 -2.679829 rating for Medaille
-1308.	 -2.695703 rating for Viterbo
-1309.	 -2.698761 rating for Southwestern_KS
-1310.	 -2.699035 rating for Notre_Dame_CA
-1311.	 -2.711592 rating for Reinhardt
-1312.	 -2.729165 rating for Green_River_CC
-1313.	 -2.732097 rating for Bluffton
-1314.	 -2.748766 rating for Northwestern_MN
-1315.	 -2.756792 rating for Blue_Mtn
-1316.	 -2.759825 rating for Doane
-1317.	 -2.765528 rating for Fort_Scott_CC
-1318.	 -2.771489 rating for Oakland_City
-1319.	 -2.785843 rating for Auburn_M'gomery
-1320.	 -2.787447 rating for Wytheville_CC
-1321.	 -2.791165 rating for Wash_&_Lee
-1322.	 -2.811889 rating for Schreiner
-1323.	 -2.817162 rating for SUNY_New_Paltz
-1324.	 -2.821528 rating for SW_Chr_TX
-1325.	 -2.831143 rating for PR_Mayaguez
-1326.	 -2.838677 rating for Simpson_CA
-1327.	 -2.839677 rating for York_ON
-1328.	 -2.854173 rating for Widener
-1329.	 -2.863374 rating for Stevens_Tech
-1330.	 -2.872498 rating for Mohawk
-1331.	 -2.877506 rating for Black_Hawk-M
-1332.	 -2.877717 rating for Becker
-1333.	 -2.880551 rating for UPEI
-1334.	 -2.904898 rating for Capital
-1335.	 -2.910258 rating for St_Martin's
-1336.	 -2.927660 rating for SW_Christian
-1337.	 -2.934911 rating for Mid_Georgia
-1338.	 -2.955010 rating for Concordia_NY
-1339.	 -2.960394 rating for Lincoln_MO
-1340.	 -2.965632 rating for Anderson_IN
-1341.	 -2.971293 rating for Central_Chr
-1342.	 -2.971529 rating for Lenoir_Rhyne
-1343.	 -2.980243 rating for Santa_Ana_Col
-1344.	 -3.045776 rating for Spokane_CC
-1345.	 -3.050209 rating for Jamestown_CC
-1346.	 -3.051043 rating for Eastern_Arizona
-1347.	 -3.056672 rating for Purdue_Calumet
-1348.	 -3.059436 rating for Ottawa_KS
-1349.	 -3.059730 rating for Washington_Advt
-1350.	 -3.072093 rating for Brevard
-1351.	 -3.082655 rating for Chand-Gilbert
-1352.	 -3.093438 rating for Tusculum
-1353.	 -3.118804 rating for Ancilla
-1354.	 -3.132357 rating for TN_Wesleyan
-1355.	 -3.144613 rating for Transylvania
-1356.	 -3.165729 rating for Voorhees
-1357.	 -3.173081 rating for Oklahoma_S&A
-1358.	 -3.178464 rating for Loras
-1359.	 -3.197800 rating for Florida_A&M
-1360.	 -3.225267 rating for Johnson_Co
-1361.	 -3.232777 rating for Bishop's
-1362.	 -3.241550 rating for Southside_VA_CC
-1363.	 -3.245585 rating for Spalding
-1364.	 -3.270241 rating for Napa_Valley_CC
-1365.	 -3.271254 rating for Independence_CC
-1366.	 -3.288224 rating for Chemekata_CC
-1367.	 -3.299071 rating for Brunswick_CC
-1368.	 -3.303526 rating for Wallace_CC-Selma
-1369.	 -3.309884 rating for Eastfield_Col
-1370.	 -3.329282 rating for Husson
-1371.	 -3.354030 rating for Feather_River
-1372.	 -3.357048 rating for Lakeland
-1373.	 -3.359963 rating for Bristol
-1374.	 -3.394747 rating for Roanoke
-1375.	 -3.399521 rating for Presentation
-1376.	 -3.410182 rating for Edgewood
-1377.	 -3.450149 rating for Calumet-St_Jos
-1378.	 -3.463971 rating for St_Catharine
-1379.	 -3.469272 rating for Denmark_Tech
-1380.	 -3.482131 rating for Trinity_IL
-1381.	 -3.486637 rating for Lake_Forest
-1382.	 -3.493237 rating for MT_St-Billings
-1383.	 -3.494164 rating for Huston-Tillot
-1384.	 -3.500101 rating for McMurry
-1385.	 -3.522802 rating for Thompson_Riv
-1386.	 -3.529917 rating for Park
-1387.	 -3.533141 rating for Murray_St_CC
-1388.	 -3.539887 rating for Lewis_&_Clark_CC
-1389.	 -3.569552 rating for Laval
-1390.	 -3.576345 rating for Bridgewater_VA
-1391.	 -3.584845 rating for Neumann
-1392.	 -3.585199 rating for IN_S_Bend
-1393.	 -3.596254 rating for Sacramento_City
-1394.	 -3.609913 rating for Labette_CC
-1395.	 -3.614372 rating for Grossmont
-1396.	 -3.621249 rating for Kentucky_St
-1397.	 -3.623457 rating for CSU_East_Bay
-1398.	 -3.638894 rating for LA_Trade-Tech
-1399.	 -3.645625 rating for Erskine
-1400.	 -3.646286 rating for Swarthmore
-1401.	 -3.663525 rating for Mars_Hill
-1402.	 -3.667736 rating for Indiana_Tech
-1403.	 -3.669736 rating for CCBC_Catonsville
-1404.	 -3.671689 rating for Clark_MA
-1405.	 -3.674290 rating for El_Camino_Col
-1406.	 -3.686593 rating for Central_Lakes
-1407.	 -3.698650 rating for Calgary
-1408.	 -3.698788 rating for Bossier_Parish
-1409.	 -3.720440 rating for LaGuardia_CC
-1410.	 -3.729640 rating for Delgado_CC
-1411.	 -3.734672 rating for Orange_Coast
-1412.	 -3.737829 rating for Luther_IA
-1413.	 -3.740584 rating for Holy_Names
-1414.	 -3.743372 rating for Col_of_Dupage
-1415.	 -3.745872 rating for De_Anza_Col
-1416.	 -3.746975 rating for Rosemont
-1417.	 -3.752918 rating for Madison_Col
-1418.	 -3.776644 rating for NC_Wesleyan
-1419.	 -3.778372 rating for Florida_St-Jax
-1420.	 -3.778876 rating for San_Diego_Chr
-1421.	 -3.782659 rating for Corning_CC
-1422.	 -3.831455 rating for Northern_Virginia_CC
-1423.	 -3.845347 rating for Peace
-1424.	 -3.857236 rating for Goldey_Beacom
-1425.	 -3.880263 rating for StL_CC-Meramec
-1426.	 -3.884654 rating for Dakota_Co_Tech
-1427.	 -3.892938 rating for Bryan
-1428.	 -3.896411 rating for Milwaukee_Tech
-1429.	 -3.900035 rating for Marian_WI
-1430.	 -3.920175 rating for Olney
-1431.	 -3.929078 rating for Piedmont
-1432.	 -3.932362 rating for Dickinson_St_ND
-1433.	 -3.934646 rating for Thiel
-1434.	 -3.950346 rating for Adrian
-1435.	 -3.952906 rating for Emerson
-1436.	 -3.960885 rating for Dean
-1437.	 -3.992887 rating for Immaculata
-1438.	 -3.997968 rating for King's_PA
-1439.	 -4.020826 rating for Drew
-1440.	 -4.023046 rating for MI_Dearborn
-1441.	 -4.025404 rating for Mercy
-1442.	 -4.038677 rating for SUNY_Canton
-1443.	 -4.043588 rating for Panola
-1444.	 -4.066307 rating for Wilkes
-1445.	 -4.100032 rating for Howard_CC
-1446.	 -4.108323 rating for Northern_BC
-1447.	 -4.176952 rating for Ithaca
-1448.	 -4.180937 rating for Central_Penn
-1449.	 -4.193869 rating for Centenary_NJ
-1450.	 -4.228968 rating for Rochester_Tech
-1451.	 -4.271028 rating for Concordia_QC
-1452.	 -4.287705 rating for W_New_Mexico
-1453.	 -4.292274 rating for MacMurray
-1454.	 -4.292949 rating for St_Katherine
-1455.	 -4.316835 rating for Montclair_St
-1456.	 -4.345480 rating for WI_Superior
-1457.	 -4.365721 rating for Bismarck_St
-1458.	 -4.403591 rating for Hostos_CC
-1459.	 -4.412519 rating for IN_Southeast
-1460.	 -4.414533 rating for LA_Southwest
-1461.	 -4.432137 rating for Wesley_DE
-1462.	 -4.480694 rating for Cedar_Valley
-1463.	 -4.491878 rating for State_Col_Fla
-1464.	 -4.499678 rating for Pensacola_Chr
-1465.	 -4.506857 rating for Bluefield_WV
-1466.	 -4.547624 rating for West_Hills
-1467.	 -4.555504 rating for Allegheny
-1468.	 -4.565572 rating for Hiram
-1469.	 -4.592148 rating for Spring_Hill
-1470.	 -4.594621 rating for Valley_Forge
-1471.	 -4.596544 rating for Apprentice
-1472.	 -4.607320 rating for Langara
-1473.	 -4.621487 rating for Lyon
-1474.	 -4.646725 rating for Columbia_Basin
-1475.	 -4.658453 rating for Rensselaer
-1476.	 -4.673746 rating for Oberlin
-1477.	 -4.676574 rating for Sterling
-1478.	 -4.677538 rating for Clackamas_CC
-1479.	 -4.683061 rating for Alice_Lloyd
-1480.	 -4.689268 rating for Mid-South_CC
-1481.	 -4.698822 rating for Morton
-1482.	 -4.712568 rating for Ave_Maria
-1483.	 -4.726401 rating for Frostburg_St
-1484.	 -4.729727 rating for Wentworth_Tech
-1485.	 -4.761999 rating for Anoka_Ramsey
-1486.	 -4.773450 rating for Trinity_Bap
-1487.	 -4.781970 rating for Davis_&_Elkins
-1488.	 -4.836312 rating for Bronx_CC
-1489.	 -4.845670 rating for Gloucester_Co
-1490.	 -4.871269 rating for Hendrix
-1491.	 -4.882326 rating for Greenville
-1492.	 -4.885255 rating for Cuyamaca
-1493.	 -4.895938 rating for Willamette
-1494.	 -4.902764 rating for Siena_Hts
-1495.	 -4.928600 rating for Redlands
-1496.	 -4.939270 rating for Mt_St_Vincent
-1497.	 -4.942808 rating for Ursinus
-1498.	 -4.948827 rating for St_Joseph's_ME
-1499.	 -4.985175 rating for Mary_Washington
-1500.	 -4.986902 rating for Kenyon
-1501.	 -4.990611 rating for Crowley's_Ridge
-1502.	 -5.002787 rating for Bluefield_VA
-1503.	 -5.005561 rating for Baker_KS
-1504.	 -5.005906 rating for Regina
-1505.	 -5.015022 rating for Morthland
-1506.	 -5.016154 rating for Snead_St
-1507.	 -5.072951 rating for Vermilion_CC
-1508.	 -5.114215 rating for Ranger
-1509.	 -5.114673 rating for Dyersburg_St
-1510.	 -5.147134 rating for Skagit_Val_CC
-1511.	 -5.149618 rating for Dist_Columbia
-1512.	 -5.170364 rating for Marywood
-1513.	 -5.170831 rating for Anna_Maria
-1514.	 -5.205775 rating for Pac_Lutheran
-1515.	 -5.264534 rating for Sauk_Valley_CC
-1516.	 -5.274659 rating for Holland
-1517.	 -5.287097 rating for Clarendon
-1518.	 -5.326633 rating for Potomac_St-WVU
-1519.	 -5.326891 rating for Juniata
-1520.	 -5.333066 rating for Pitt-Bradford
-1521.	 -5.350511 rating for Lake_Co
-1522.	 -5.350771 rating for Milwaukee_Eng
-1523.	 -5.355897 rating for Trinity_TX
-1524.	 -5.362141 rating for Walla_Walla_CC
-1525.	 -5.373685 rating for Nazareth
-1526.	 -5.394767 rating for Fontbonne
-1527.	 -5.401471 rating for Hillsdale_Bap
-1528.	 -5.417121 rating for Pacific_OR
-1529.	 -5.418945 rating for Lawrence_Tech
-1530.	 -5.426488 rating for Laurier
-1531.	 -5.436721 rating for Dallas_Chr
-1532.	 -5.437057 rating for Occidental
-1533.	 -5.439569 rating for Purdue-N_Cent
-1534.	 -5.453447 rating for CT_College
-1535.	 -5.487312 rating for Carl_Sandburg
-1536.	 -5.494454 rating for Guelph
-1537.	 -5.518693 rating for Oakwood
-1538.	 -5.523407 rating for Lower_Columbia
-1539.	 -5.533505 rating for Eastern_Wyoming
-1540.	 -5.536351 rating for Sul_Ross
-1541.	 -5.578182 rating for AL_Southern
-1542.	 -5.605875 rating for Lawrence
-1543.	 -5.612550 rating for Kean
-1544.	 -5.648819 rating for Austin_Col
-1545.	 -5.669241 rating for La_Verne
-1546.	 -5.673001 rating for Lincoln_Land
-1547.	 -5.682181 rating for Sinclair_CC
-1548.	 -5.704114 rating for Lackawanna
-1549.	 -5.706459 rating for Elmira
-1550.	 -5.721629 rating for Gordon
-1551.	 -5.747520 rating for Bard
-1552.	 -5.758751 rating for Plymouth_St
-1553.	 -5.785775 rating for Catawba_Val
-1554.	 -5.800113 rating for Pierce_CC
-1555.	 -5.803111 rating for Laurentian
-1556.	 -5.825109 rating for Lasell
-1557.	 -5.836296 rating for St_Joseph's_LI
-1558.	 -5.837545 rating for Enterprise_St
-1559.	 -5.841946 rating for Prince_George's
-1560.	 -5.865350 rating for Clark_Atlanta
-1561.	 -5.868487 rating for Albany_GA
-1562.	 -5.874843 rating for Elms
-1563.	 -5.895100 rating for Glen_Oaks_CC
-1564.	 -5.897586 rating for Manitoba
-1565.	 -5.928156 rating for Volunteer_St
-1566.	 -5.929015 rating for Porterville
-1567.	 -5.971718 rating for SUNY-Cobleskill
-1568.	 -5.976122 rating for Univ_Ozarks
-1569.	 -5.991534 rating for Carroll_WI
-1570.	 -5.999726 rating for Toronto
-1571.	 -6.011191 rating for S_Wesleyan
-1572.	 -6.024780 rating for Highland_CC_IL
-1573.	 -6.080609 rating for Dawson_CC
-1574.	 -6.101061 rating for Yeshiva
-1575.	 -6.110635 rating for WI_Lutheran
-1576.	 -6.113470 rating for R_Morris_Spfd
-1577.	 -6.188075 rating for St_Clair_Co
-1578.	 -6.192785 rating for Warren_Wilson
-1579.	 -6.206545 rating for S_Maine_Tech
-1580.	 -6.222615 rating for Castleton
-1581.	 -6.223626 rating for Grace_NE
-1582.	 -6.224787 rating for Brock
-1583.	 -6.235715 rating for Georgian_Court
-1584.	 -6.257422 rating for Arlington_Bap
-1585.	 -6.290354 rating for WI_Stout
-1586.	 -6.312170 rating for Mercyhurst_NE
-1587.	 -6.321873 rating for UC_Santa_Cruz
-1588.	 -6.340735 rating for Kalamazoo
-1589.	 -6.365481 rating for UT_Tyler
-1590.	 -6.380524 rating for Rust
-1591.	 -6.383842 rating for Trinity_Chr
-1592.	 -6.389509 rating for Eastern_Univ
-1593.	 -6.406288 rating for Mitchell
-1594.	 -6.437684 rating for Lane_CC
-1595.	 -6.444891 rating for Pacific_Union
-1596.	 -6.459749 rating for Jackson_CC
-1597.	 -6.465620 rating for Pitt-Greensburg
-1598.	 -6.486938 rating for Elizabethtown
-1599.	 -6.505526 rating for PSU_York
-1600.	 -6.527424 rating for Panhandle_St
-1601.	 -6.531204 rating for Southern_N.O.
-1602.	 -6.547047 rating for Colorado_NW
-1603.	 -6.558663 rating for Mendocino
-1604.	 -6.596360 rating for CC_of_RI
-1605.	 -6.603327 rating for State_Fair_CC
-1606.	 -6.625075 rating for Keystone
-1607.	 -6.633451 rating for Henry_Ford_CC
-1608.	 -6.698515 rating for Jarvis_Chr
-1609.	 -6.699426 rating for UVA-Wise
-1610.	 -6.702032 rating for Beloit
-1611.	 -6.724813 rating for Wentworth_Mil
-1612.	 -6.725241 rating for Covenant
-1613.	 -6.725391 rating for Old_Westbury
-1614.	 -6.739917 rating for Grace_Bib
-1615.	 -6.746388 rating for Raritan_Val
-1616.	 -6.754574 rating for McPherson
-1617.	 -6.777522 rating for FL_Memorial
-1618.	 -6.789783 rating for Moraine_Val
-1619.	 -6.802191 rating for Utica
-1620.	 -6.806341 rating for MA_Liberal_Arts
-1621.	 -6.810006 rating for Hunter
-1622.	 -6.857925 rating for Cheyney_St
-1623.	 -6.858971 rating for Merchant_Marine
-1624.	 -6.874472 rating for Walla_Walla
-1625.	 -6.879232 rating for West_Valley_Col
-1626.	 -6.896155 rating for Clarke
-1627.	 -6.935054 rating for Macalester
-1628.	 -6.936319 rating for Miles
-1629.	 -6.938259 rating for Shasta_Col
-1630.	 -6.965187 rating for Mid-Michigan_CC
-1631.	 -7.007852 rating for Fanshawe
-1632.	 -7.036201 rating for Modesto_JC
-1633.	 -7.053827 rating for Gallaudet
-1634.	 -7.079528 rating for IU_Kokomo
-1635.	 -7.080877 rating for Ferrum
-1636.	 -7.082650 rating for Valley_City_St
-1637.	 -7.098024 rating for Salem_WV
-1638.	 -7.121602 rating for St_Lambert
-1639.	 -7.200718 rating for Fort_Valley_St
-1640.	 -7.210737 rating for Evergreen_St
-1641.	 -7.214486 rating for Iowa_Wesleyan
-1642.	 -7.232078 rating for Bishop_St
-1643.	 -7.275596 rating for Haskell
-1644.	 -7.280439 rating for Le_Tourneau
-1645.	 -7.301902 rating for Eureka
-1646.	 -7.313453 rating for Purchase
-1647.	 -7.322011 rating for Hiwassee
-1648.	 -7.343319 rating for W_New_England
-1649.	 -7.350398 rating for Mt_Royal
-1650.	 -7.352114 rating for Union_Co
-1651.	 -7.356624 rating for Haverford
-1652.	 -7.362997 rating for Philadelphia_CC
-1653.	 -7.397351 rating for Glendale_CA
-1654.	 -7.399560 rating for SUNY-Delhi
-1655.	 -7.403110 rating for Dakota-Bottineau
-1656.	 -7.403729 rating for N_Alberta_Tech
-1657.	 -7.491576 rating for Col_of_the_Redwoods
-1658.	 -7.499940 rating for Muskingum
-1659.	 -7.520678 rating for Vassar
-1660.	 -7.523328 rating for Acadia
-1661.	 -7.537775 rating for DE_Tech_CC
-1662.	 -7.617356 rating for Texas_Col
-1663.	 -7.630891 rating for Manhattanville
-1664.	 -7.648423 rating for Illinois_Val
-1665.	 -7.656564 rating for Lone_Star_CC
-1666.	 -7.656880 rating for Alpena_CC
-1667.	 -7.663151 rating for Columbus_St_CC
-1668.	 -7.682357 rating for Peninsula
-1669.	 -7.686043 rating for Univ_Lethbridge
-1670.	 -7.728299 rating for Queen's_ON
-1671.	 -7.731947 rating for Allen
-1672.	 -7.735723 rating for Washington_MD
-1673.	 -7.740320 rating for Andrews
-1674.	 -7.741141 rating for Everett_CC
-1675.	 -7.744597 rating for Simpson_IA
-1676.	 -7.757909 rating for San_Diego_Mesa
-1677.	 -7.858994 rating for Framingham_St
-1678.	 -7.898551 rating for Waterloo
-1679.	 -7.898943 rating for Marion_Mil
-1680.	 -7.908775 rating for Coahoma_CC
-1681.	 -7.913766 rating for Roger_Williams
-1682.	 -7.927649 rating for Graceland
-1683.	 -7.933555 rating for Portland_Bible
-1684.	 -7.953215 rating for MN_Morris
-1685.	 -7.972849 rating for Carver_Bib
-1686.	 -7.992231 rating for Mesabi_Range
-1687.	 -8.008695 rating for Worcester_St
-1688.	 -8.018367 rating for Bacone
-1689.	 -8.088891 rating for Bethel_KS
-1690.	 -8.100880 rating for Judson_IL
-1691.	 -8.128999 rating for W_Coast_Bap
-1692.	 -8.136206 rating for Cornell_IA
-1693.	 -8.179052 rating for PSU_Mont_Alto
-1694.	 -8.189310 rating for St_Andrew's
-1695.	 -8.200986 rating for Oxnard
-1696.	 -8.227659 rating for Elgin_CC
-1697.	 -8.228641 rating for S_Maine
-1698.	 -8.229941 rating for Central_Bap
-1699.	 -8.230808 rating for Tomball
-1700.	 -8.232614 rating for Suffolk_Co-Selden
-1701.	 -8.255301 rating for Cazenovia
-1702.	 -8.424904 rating for St_Joseph_VT
-1703.	 -8.487837 rating for Benedictine-Spfld
-1704.	 -8.491849 rating for Mt_Hood_CC
-1705.	 -8.495123 rating for Selma_AL
-1706.	 -8.500189 rating for Southeast_CC
-1707.	 -8.526267 rating for OH_Lancaster
-1708.	 -8.534227 rating for Berry
-1709.	 -8.540793 rating for Emory_&_Henry
-1710.	 -8.549029 rating for Memorial
-1711.	 -8.559845 rating for Globe_Tech
-1712.	 -8.573449 rating for TN_Temple
-1713.	 -8.582811 rating for Coastal_GA
-1714.	 -8.592039 rating for Silver_Lake
-1715.	 -8.592867 rating for Mia-Middletown
-1716.	 -8.599939 rating for Wm_Woods
-1717.	 -8.601166 rating for Reedley
-1718.	 -8.637567 rating for Rockland_CC
-1719.	 -8.657809 rating for City_Col_NY
-1720.	 -8.669221 rating for Middlesex_Co
-1721.	 -8.716379 rating for Tacoma_CC
-1722.	 -8.726107 rating for Emmanuel_MA
-1723.	 -8.733266 rating for Shenandoah
-1724.	 -8.760533 rating for Lenoir_CC
-1725.	 -8.771591 rating for Geneva
-1726.	 -8.854030 rating for Shoreline_CC
-1727.	 -8.856348 rating for Dillard
-1728.	 -8.865465 rating for York_PA
-1729.	 -8.875733 rating for Fullerton_Col
-1730.	 -8.891661 rating for Darton
-1731.	 -8.902329 rating for Olivet_MI
-1732.	 -8.913665 rating for S_Virginia
-1733.	 -8.921517 rating for Barstow_CC
-1734.	 -8.926379 rating for Rockford
-1735.	 -8.932000 rating for Florida_Col
-1736.	 -8.954244 rating for Durham
-1737.	 -8.958157 rating for Toccoa_Falls
-1738.	 -8.974657 rating for Thomas_ME
-1739.	 -8.978245 rating for SUNYIT
-1740.	 -8.979704 rating for Keuka
-1741.	 -9.024258 rating for D'Youville
-1742.	 -9.038106 rating for United_Tribes
-1743.	 -9.068860 rating for Pine_Manor
-1744.	 -9.090636 rating for John_Jay
-1745.	 -9.106326 rating for N_Central_MN
-1746.	 -9.112739 rating for Coast_Guard
-1747.	 -9.120399 rating for Douglas
-1748.	 -9.124046 rating for Grove_City
-1749.	 -9.169198 rating for OK_Wesleyan
-1750.	 -9.215563 rating for Temple_Bap
-1751.	 -9.217491 rating for Pasco-Hernando
-1752.	 -9.244668 rating for Millsaps
-1753.	 -9.255241 rating for Otterbein
-1754.	 -9.261309 rating for Ohio_Eastern
-1755.	 -9.269560 rating for Westminster_PA
-1756.	 -9.314059 rating for Kentucky_Chr
-1757.	 -9.321462 rating for La_Sierra
-1758.	 -9.333381 rating for Columbia_Greene
-1759.	 -9.337019 rating for Brookdale_CC
-1760.	 -9.350068 rating for Manchester
-1761.	 -9.363066 rating for UQAM
-1762.	 -9.381420 rating for Lincoln_Col_of_NE
-1763.	 -9.433704 rating for Morris_SC
-1764.	 -9.455092 rating for ME_Ft_Kent
-1765.	 -9.462353 rating for Franklin_IN
-1766.	 -9.507238 rating for Hannibal-Lagr
-1767.	 -9.512852 rating for Camden_Co
-1768.	 -9.559118 rating for Redeemer
-1769.	 -9.580091 rating for Imperial_Val
-1770.	 -9.581554 rating for Grant_MacEwan
-1771.	 -9.584431 rating for George_Fox
-1772.	 -9.601516 rating for Bergen_CC
-1773.	 -9.627697 rating for Little_Big_Horn
-1774.	 -9.640468 rating for Fulton-Mont
-1775.	 -9.654737 rating for Lyndon_St
-1776.	 -9.662166 rating for OH_Chillicothe
-1777.	 -9.700360 rating for Morrisville_St
-1778.	 -9.745997 rating for Wheaton_MA
-1779.	 -9.753185 rating for U_New_England
-1780.	 -9.761968 rating for PSU-Harrisburg
-1781.	 -9.766116 rating for Solano_CC
-1782.	 -9.772227 rating for Umpqua_CC
-1783.	 -9.795270 rating for Santa_Barbara_City
-1784.	 -9.831806 rating for So_Crescent_Tech
-1785.	 -9.846837 rating for Hagerstown_CC
-1786.	 -9.855379 rating for Ecclesia
-1787.	 -9.882500 rating for SUNY_Fredonia
-1788.	 -9.914626 rating for Bethesda
-1789.	 -9.944509 rating for Point
-1790.	 -9.955733 rating for St_Scholastica
-1791.	 -10.006849 rating for Grays_Harbor
-1792.	 -10.011742 rating for Marygrove
-1793.	 -10.021201 rating for Suffolk
-1794.	 -10.022194 rating for Salve_Regina
-1795.	 -10.027046 rating for Belmont_Abbey
-1796.	 -10.034652 rating for Alameda
-1797.	 -10.054198 rating for Caltech
-1798.	 -10.069456 rating for Mt_Marty
-1799.	 -10.114348 rating for N_England_Col
-1800.	 -10.155185 rating for St_Fran_Xavier
-1801.	 -10.158997 rating for Montreat_And
-1802.	 -10.171710 rating for Bristol_CC
-1803.	 -10.172415 rating for Lambton
-1804.	 -10.184043 rating for Sprfld_Tech_CC
-1805.	 -10.202473 rating for St_Mary's_MN
-1806.	 -10.208060 rating for Lorain_Co_CC
-1807.	 -10.235273 rating for Kingsborough
-1808.	 -10.239124 rating for Val_Forge_Mil
-1809.	 -10.240015 rating for Goucher
-1810.	 -10.273957 rating for Barber-Scotia
-1811.	 -10.311536 rating for Rainy_River_CC
-1812.	 -10.319381 rating for Finlandia
-1813.	 -10.359707 rating for Cent_CC-Columbus
-1814.	 -10.370025 rating for Georgian
-1815.	 -10.396695 rating for Daniel_Webster
-1816.	 -10.430968 rating for Fisk
-1817.	 -10.454937 rating for Malcolm_X
-1818.	 -10.459401 rating for Hartnell
-1819.	 -10.477497 rating for Burlington_Co
-1820.	 -10.479328 rating for Wilberforce
-1821.	 -10.514945 rating for SUNY_Potsdam
-1822.	 -10.566223 rating for Quest
-1823.	 -10.612031 rating for Kellogg_CC
-1824.	 -10.613811 rating for FDU_Madison
-1825.	 -10.625446 rating for Concordia_IL
-1826.	 -10.635791 rating for St_Cloud_Tech
-1827.	 -10.647831 rating for Knox
-1828.	 -10.648158 rating for Jefferson_Davis
-1829.	 -10.720587 rating for N_Country_CC
-1830.	 -10.729134 rating for Queensborough
-1831.	 -10.739420 rating for Paul_Quinn
-1832.	 -10.745361 rating for Chesapeake
-1833.	 -10.773276 rating for Gogebic_CC
-1834.	 -10.792415 rating for Curry
-1835.	 -10.866962 rating for Linfield
-1836.	 -10.892905 rating for Merced_Col
-1837.	 -10.909308 rating for Niagara_ON
-1838.	 -10.920773 rating for Whatcom_CC
-1839.	 -10.950468 rating for Northland
-1840.	 -10.982755 rating for PSU_Wilkes-Barre
-1841.	 -10.993883 rating for John_Abbott
-1842.	 -11.010165 rating for Moravian
-1843.	 -11.012273 rating for Harris-Stowe
-1844.	 -11.016363 rating for Indiana_NW
-1845.	 -11.023138 rating for MO_Baptist
-1846.	 -11.043990 rating for Harper
-1847.	 -11.057413 rating for Onondaga_CC
-1848.	 -11.057455 rating for Southern_MD
-1849.	 -11.096908 rating for PSU-Beaver
-1850.	 -11.103378 rating for MN_West_C&T
-1851.	 -11.188953 rating for Seneca
-1852.	 -11.201399 rating for Menlo
-1853.	 -11.230542 rating for Mt_St_Mary_NY
-1854.	 -11.275237 rating for OH_St-Newark
-1855.	 -11.301170 rating for KS_Wesleyan
-1856.	 -11.339175 rating for Prairie_St
-1857.	 -11.356440 rating for Crandall
-1858.	 -11.424557 rating for Waubonsee_CC
-1859.	 -11.464684 rating for ME_Machias
-1860.	 -11.478624 rating for Brandon
-1861.	 -11.491241 rating for Kuyper
-1862.	 -11.587407 rating for Illinois_Col
-1863.	 -11.597807 rating for Mt_Aloysius
-1864.	 -11.615294 rating for Newbury
-1865.	 -11.693901 rating for Mt_Ida
-1866.	 -11.707689 rating for Piedmont_Bap
-1867.	 -11.760544 rating for Co_Col_Morris
-1868.	 -11.761520 rating for Norwich
-1869.	 -11.766186 rating for Davis
-1870.	 -11.773528 rating for Riverland_CC
-1871.	 -11.834805 rating for Lethbridge_Col
-1872.	 -11.895939 rating for Cin_Clermont
-1873.	 -11.896690 rating for PSU-Abington
-1874.	 -11.906778 rating for Olympic
-1875.	 -11.917435 rating for Gavilan
-1876.	 -11.936768 rating for College_of_Faith
-1877.	 -11.944764 rating for Vance-Granville
-1878.	 -11.945695 rating for Portland_CC
-1879.	 -11.995989 rating for ME_Presque_Isle
-1880.	 -12.008742 rating for Cent_Carolina_CC
-1881.	 -12.027568 rating for Los_Medanos
-1882.	 -12.033468 rating for Farmingdale
-1883.	 -12.049431 rating for Blue_Mountain_CC
-1884.	 -12.083555 rating for Guilford_Tech_CC
-1885.	 -12.130250 rating for Anne_Arundel
-1886.	 -12.158169 rating for Huntingdon
-1887.	 -12.167263 rating for Maranatha_Bap
-1888.	 -12.200890 rating for Trinity_Western
-1889.	 -12.213288 rating for Wake_Tech
-1890.	 -12.218845 rating for Wheelock
-1891.	 -12.222457 rating for Bob_Jones
-1892.	 -12.280766 rating for Black_Hawk-E
-1893.	 -12.289651 rating for Wilbur_Wright
-1894.	 -12.324040 rating for Sheridan_ON
-1895.	 -12.326441 rating for ME_Farmington
-1896.	 -12.344802 rating for Houghton
-1897.	 -12.347098 rating for Tompkins_Cortland
-1898.	 -12.356416 rating for Northwest_Indian
-1899.	 -12.400687 rating for Ocean_Co
-1900.	 -12.472448 rating for Faith_Bap
-1901.	 -12.541112 rating for Hudson_Val
-1902.	 -12.584388 rating for VA-Lynchburg
-1903.	 -12.644996 rating for Multnomah_Bib
-1904.	 -12.704623 rating for J&W_CO
-1905.	 -12.735205 rating for Vaughn
-1906.	 -12.744850 rating for W_Georgia_Tech
-1907.	 -12.755933 rating for Westminster_MO
-1908.	 -12.769250 rating for Orange_Co
-1909.	 -12.833971 rating for Rhema_Bib
-1910.	 -12.849027 rating for Okanagan
-1911.	 -12.877446 rating for Edison_CC
-1912.	 -12.883360 rating for Johnson_Bib
-1913.	 -12.917084 rating for Red_Deer
-1914.	 -12.987228 rating for Carlow
-1915.	 -13.053837 rating for Roxbury_CC
-1916.	 -13.055641 rating for NH_Tech
-1917.	 -13.062726 rating for NY_Maritime
-1918.	 -13.086463 rating for Jamestown-Cat
-1919.	 -13.135334 rating for Allegany_MD
-1920.	 -13.167984 rating for New_Hope_Chr
-1921.	 -13.191905 rating for SW_Oregon_CC
-1922.	 -13.216517 rating for Wells
-1923.	 -13.247137 rating for Medgar_Evers
-1924.	 -13.254183 rating for Green_Mtn
-1925.	 -13.300479 rating for Algoma
-1926.	 -13.308074 rating for Principia
-1927.	 -13.402107 rating for PSU-Lehigh_Val
-1928.	 -13.449375 rating for Wash_&_Jeff
-1929.	 -13.493618 rating for Concordia_AB
-1930.	 -13.565814 rating for PSU_Worth_Scranton
-1931.	 -13.607648 rating for S_Puget_Sound_CC
-1932.	 -13.614679 rating for Earlham
-1933.	 -13.626638 rating for Clark_St
-1934.	 -13.651912 rating for Broome_CC
-1935.	 -13.692678 rating for St_Clair
-1936.	 -13.829624 rating for Bryn_Athyn
-1937.	 -13.888535 rating for Bap_Bible_MO
-1938.	 -13.912060 rating for Williamson_Tr
-1939.	 -13.923121 rating for Luther_MN
-1940.	 -13.924121 rating for Nipissing
-1941.	 -13.972234 rating for Barclay
-1942.	 -13.991241 rating for Yakima_Val_CC
-1943.	 -14.044162 rating for Cairn
-1944.	 -14.050844 rating for Johnson_FL
-1945.	 -14.054724 rating for PSU-Berks
-1946.	 -14.097826 rating for Oakton_CC
-1947.	 -14.111352 rating for Centennial_Col
-1948.	 -14.144683 rating for Vanier
-1949.	 -14.152117 rating for Adirondack_CC
-1950.	 -14.159514 rating for PSU-Altoona
-1951.	 -14.169314 rating for Oxford_of_Emory
-1952.	 -14.205114 rating for WVU_Parkersburg
-1953.	 -14.258170 rating for SW_Adventist
-1954.	 -14.270776 rating for Ozark_Chr
-1955.	 -14.271792 rating for Tidewater_CC
-1956.	 -14.272252 rating for Lakeland_AB
-1957.	 -14.289884 rating for George_Brown
-1958.	 -14.290370 rating for Bethany_Luth
-1959.	 -14.297307 rating for Champion_Bap
-1960.	 -14.393333 rating for Massasoit_CC
-1961.	 -14.402187 rating for Dominican_IL
-1962.	 -14.404909 rating for Bunker_Hill_CC
-1963.	 -14.428768 rating for MD_Bible
-1964.	 -14.434161 rating for Columbia_Intl
-1965.	 -14.461281 rating for Camosun
-1966.	 -14.522153 rating for Cumberland_Co
-1967.	 -14.542030 rating for Franciscan_OH
-1968.	 -14.569266 rating for Siskiyous
-1969.	 -14.611088 rating for Algonquin
-1970.	 -14.619162 rating for El_Centro
-1971.	 -14.740536 rating for Wright_St-Lake
-1972.	 -14.770876 rating for La_Roche
-1973.	 -14.814004 rating for Mt_Allison
-1974.	 -14.845094 rating for Clinton_CC_(NY)
-1975.	 -14.890086 rating for Blackburn
-1976.	 -14.938901 rating for CC_Allegheny-B
-1977.	 -15.055871 rating for Sainte-Foy
-1978.	 -15.077729 rating for Bap_Bible_PA
-1979.	 -15.093294 rating for Trinity_FL
-1980.	 -15.265584 rating for Northland_CTC
-1981.	 -15.275860 rating for St_Lawrence_ON
-1982.	 -15.295625 rating for Rivier
-1983.	 -15.314595 rating for Keyano
-1984.	 -15.337249 rating for CC_Allegheny-A
-1985.	 -15.392609 rating for Medicine_Hat
-1986.	 -15.461540 rating for Gateway_CC
-1987.	 -15.478149 rating for Crossroads
-1988.	 -15.542133 rating for Loyalist
-1989.	 -15.552072 rating for Lehigh_Carbon
-1990.	 -15.584788 rating for UC_Merced
-1991.	 -15.633683 rating for Manhattan_Chr
-1992.	 -15.649766 rating for Montgomery-R
-1993.	 -15.724139 rating for S_Alberta_Tech
-1994.	 -15.755210 rating for C_Maine_Tech
-1995.	 -15.863764 rating for Vermont_Tech
-1996.	 -15.872043 rating for Lesley
-1997.	 -15.947326 rating for Miami-Hamilton
-1998.	 -15.988229 rating for Daley
-1999.	 -16.064360 rating for Capilano
-2000.	 -16.183549 rating for Butler_Co-PA
-2001.	 -16.198222 rating for Centralia_Col
-2002.	 -16.222795 rating for MN_St_CTC
-2003.	 -16.278829 rating for Olds
-2004.	 -16.311751 rating for Dawson
-2005.	 -16.429562 rating for Passaic_Co
-2006.	 -16.491070 rating for Crown_MN
-2007.	 -16.506365 rating for Trinity_Bib
-2008.	 -16.509637 rating for Clearwater_Chr
-2009.	 -16.621509 rating for PSU-Hazleton
-2010.	 -16.738196 rating for Lincoln_Chr
-2011.	 -16.784985 rating for Ed_Montpetit
-2012.	 -16.794489 rating for Linn-Benton_CC
-2013.	 -16.800636 rating for Jefferson_CC
-2014.	 -16.806507 rating for Pitt-Titusville
-2015.	 -16.821258 rating for SUNY-ESF
-2016.	 -16.967563 rating for Truman_Col
-2017.	 -16.999729 rating for Oglala-Lakota
-2018.	 -17.007725 rating for Johnson_St
-2019.	 -17.024503 rating for Alfred_St
-2020.	 -17.060097 rating for PSU-DuBois
-2021.	 -17.068659 rating for Albany_Pharmacy
-2022.	 -17.180763 rating for ME_Maritime
-2023.	 -17.275001 rating for Ridgewater
-2024.	 -17.284890 rating for Cayuga_CC
-2025.	 -17.321387 rating for PSU-New_Kens
-2026.	 -17.399560 rating for Herkimer_Co
-2027.	 -17.453558 rating for St_Thomas_NB
-2028.	 -17.489190 rating for Montgomery_Co_CC
-2029.	 -17.546845 rating for Great_Lakes_Chr
-2030.	 -17.603784 rating for Montmorency
-2031.	 -17.693085 rating for MS_Vincent_NS
-2032.	 -17.693426 rating for Delaware_Co_CC
-2033.	 -17.702795 rating for Northampton_CC
-2034.	 -17.755415 rating for Moody_Bib
-2035.	 -17.888339 rating for UConn-AP
-2036.	 -17.905011 rating for Boyce
-2037.	 -17.999113 rating for Mass_Bay_CC
-2038.	 -18.001443 rating for McHenry_Co
-2039.	 -18.013397 rating for Stevens_Tech_PA
-2040.	 -18.169705 rating for Mid-Atlantic_Chr
-2041.	 -18.213794 rating for R_Morris-Peoria
-2042.	 -18.397705 rating for AFLBC
-2043.	 -18.401382 rating for Western_Tech
-2044.	 -18.427636 rating for Grande_Prairie
-2045.	 -18.489912 rating for St_Louis_Pharm
-2046.	 -18.496171 rating for Turtle_Mtn_CC
-2047.	 -18.641095 rating for PSU-Gtr_Allegheny
-2048.	 -18.733030 rating for Wilson
-2049.	 -18.791410 rating for Northland_Intl
-2050.	 -18.806459 rating for Virginia_Western_CC
-2051.	 -18.849485 rating for Dutchess_CC
-2052.	 -18.869434 rating for IL_Tech
-2053.	 -18.871243 rating for N_Essex_CC
-2054.	 -19.307247 rating for Concordia_MO
-2055.	 -19.459323 rating for Penn_Tech
-2056.	 -19.487766 rating for Sault
-2057.	 -19.500574 rating for PSU-Brandywine
-2058.	 -19.672238 rating for Fond_du_Lac_T&CC
-2059.	 -19.947288 rating for Welch
-2060.	 -20.007581 rating for Sarah_Lawrence
-2061.	 -20.143566 rating for PSU-Schuylkill
-2062.	 -20.315442 rating for Augustana_AB
-2063.	 -20.327113 rating for Southern_St_CC
-2064.	 -20.364540 rating for OH_St-Mansfield
-2065.	 -20.366364 rating for Emmaus_Bib
-2066.	 -20.535479 rating for ME_Augusta
-2067.	 -20.638124 rating for Johnson_CC
-2068.	 -20.793786 rating for PA_Highlands_CC
-2069.	 -20.903931 rating for Canadore
-2070.	 -20.922374 rating for Itasca_CC
-2071.	 -21.017437 rating for Sussex_Co_CC
-2072.	 -21.070567 rating for Schenectady_Co
-2073.	 -21.076232 rating for Fox_Valley_Tech
-2074.	 -21.399465 rating for OH_Zanesville
-2075.	 -21.504788 rating for Red_River_Col
-2076.	 -21.593481 rating for King's_AB
-2077.	 -21.646943 rating for Columbia_Bib
-2078.	 -21.668520 rating for Hibbing_CC
-2079.	 -21.751288 rating for E_Maine_Tech
-2080.	 -21.753487 rating for King's_NS
-2081.	 -21.812770 rating for Atlantic_Cape_CC
-2082.	 -21.846665 rating for Akron-Wayne
-2083.	 -21.942056 rating for Ulster_Co
-2084.	 -21.944356 rating for Culinary_Inst
-2085.	 -22.070725 rating for Westmoreland_Co
-2086.	 -22.391507 rating for Crown_TN
-2087.	 -22.534465 rating for Kwantlen
-2088.	 -23.010034 rating for Union_NE
-2089.	 -23.164641 rating for C_Chr_Bible
-2090.	 -23.321303 rating for OH_St-Lima
-2091.	 -23.512013 rating for King's_NY
-2092.	 -24.314852 rating for La_Cite
-2093.	 -24.617499 rating for Christendom
-2094.	 -24.846563 rating for Cambrian
-2095.	 -24.923539 rating for Georgia_NW_Tech
-2096.	 -24.948501 rating for Harrisburg_Area_CC
-2097.	 -25.153090 rating for Providence_MB
-2098.	 -25.217025 rating for Quinsigamond
-2099.	 -25.778045 rating for Luzerne_Co_CC
-2100.	 -25.921829 rating for Pratt_Inst
-2101.	 -26.416028 rating for Bucks_Co_CC
-2102.	 -27.237093 rating for Fleming
-2103.	 -27.308645 rating for Unity
-2104.	 -27.458493 rating for Holyoke_CC
-2105.	 -27.554699 rating for NB-St_John
-2106.	 -27.958743 rating for St_Mary's_AB
-2107.	 -27.980634 rating for Briercrest
-2108.	 -28.539738 rating for Winnipeg_Col
-2109.	 -29.474977 rating for Calvary_Bib
-2110.	 -29.734806 rating for N_Maine_Tech
-2111.	 -30.474417 rating for Hampshire
-2112.	 -31.843247 rating for St_Louis_Chr
-2113.	 -32.867681 rating for Appalachian_Bib
-2114.	 -34.479217 rating for Canadian_Menn
-2115.	 -37.789728 rating for Webb_Inst
+Rank.	 Rating 	 Team
+1.	 31.645690 	 Kentucky 	 44.125000
+2.	 29.386007 	 Wisconsin 	 46.156250
+3.	 29.141569 	 Villanova 	 57.090909
+4.	 29.001152 	 Arizona 	 70.529412
+5.	 28.278792 	 Virginia 	 82.962963
+6.	 27.534115 	 Duke 	 71.939394
+7.	 27.429977 	 Gonzaga 	 75.771429
+8.	 27.314415 	 Kansas 	 51.347826
+9.	 26.162395 	 Oklahoma 	 11.357143
+10.	 25.746195 	 North_Carolina 	 36.500000
+11.	 25.560748 	 Iowa_St 	 23.000000
+12.	 25.229373 	 Baylor 	 53.545455
+13.	 25.111181 	 Notre_Dame 	 26.458333
+14.	 24.905178 	 Utah 	 12.192308
+15.	 24.688615 	 Louisville 	 56.484848
+16.	 24.161787 	 Wichita_St 	 66.642857
+17.	 23.971434 	 Northern_Iowa 	 43.966667
+18.	 23.807024 	 Georgetown 	 50.935484
+19.	 23.733074 	 Ohio_St 	 35.461538
+20.	 23.673618 	 Michigan_St 	 35.406250
+21.	 23.590935 	 Arkansas 	 61.647059
+22.	 23.576050 	 West_Virginia 	 25.384615
+23.	 23.556791 	 Xavier 	 42.000000
+24.	 23.555584 	 Texas 	 31.733333
+25.	 23.453350 	 SMU 	 51.548387
+26.	 23.027761 	 Butler 	 52.363636
+27.	 22.914037 	 VA_Commonwealth 	 6.166667
+28.	 22.904325 	 Providence 	 17.227273
+29.	 22.659693 	 Maryland 	 8.354839
+30.	 22.409342 	 St_John's 	 67.700000
+31.	 22.330145 	 Iowa 	 61.823529
+32.	 22.324334 	 NC_State 	 69.903226
+33.	 22.201698 	 BYU 	 63.735294
+34.	 22.071520 	 Oklahoma_St 	 23.142857
+35.	 22.019212 	 Georgia 	 45.937500
+36.	 22.006894 	 LSU 	 39.937500
+37.	 21.748794 	 Davidson 	 64.548387
+38.	 21.746860 	 UCLA 	 29.233333
+39.	 21.439631 	 Dayton 	 53.121212
+40.	 21.416927 	 Oregon 	 24.291667
+41.	 21.411391 	 Cincinnati 	 45.906250
+42.	 21.325826 	 Mississippi 	 52.571429
+43.	 21.235687 	 San_Diego_St 	 15.384615
+44.	 21.024281 	 Florida 	 32.303030
+45.	 21.009816 	 Vanderbilt 	 80.142857
+46.	 20.928745 	 Texas_A&M 	 42.454545
+47.	 20.822149 	 Stanford 	 54.812500
+48.	 20.817310 	 Indiana 	 54.692308
+49.	 20.785629 	 Miami_FL 	 31.200000
+50.	 20.770267 	 Purdue 	 27.807692
+51.	 20.639288 	 SF_Austin 	 33.379310
+52.	 20.276869 	 Minnesota 	 71.000000
+53.	 20.105504 	 TCU 	 32.733333
+54.	 20.087687 	 Alabama 	 38.156250
+55.	 20.021456 	 Boise_St 	 57.764706
+56.	 19.993780 	 Rhode_Island 	 31.500000
+57.	 19.873461 	 Temple 	 39.909091
+58.	 19.866154 	 South_Carolina 	 29.575758
+59.	 19.860396 	 St_Mary's_CA 	 11.875000
+60.	 19.774750 	 Illinois 	 45.125000
+61.	 19.621598 	 Colorado_St 	 61.787879
+62.	 19.567037 	 Richmond 	 74.000000
+63.	 19.479226 	 Buffalo 	 56.031250
+64.	 19.477105 	 Syracuse 	 33.560000
+65.	 19.420277 	 Connecticut 	 40.205882
+66.	 19.320875 	 Old_Dominion 	 42.451613
+67.	 19.302015 	 Arizona_St 	 39.062500
+68.	 19.253040 	 WI_Green_Bay 	 29.392857
+69.	 19.071675 	 Illinois_St 	 45.515152
+70.	 18.908648 	 Tulsa 	 34.258065
+71.	 18.825247 	 Michigan 	 35.500000
+72.	 18.817631 	 Kansas_St 	 44.846154
+73.	 18.496211 	 Louisiana_Tech 	 44.230769
+74.	 18.473707 	 Clemson 	 34.838710
+75.	 18.404665 	 Georgia_Tech 	 26.548387
+76.	 18.398429 	 Pittsburgh 	 47.906250
+77.	 18.301939 	 Creighton 	 32.333333
+78.	 18.269758 	 G_Washington 	 47.090909
+79.	 18.241281 	 Colorado 	 36.968750
+80.	 18.203934 	 Murray_St 	 5.722222
+81.	 18.099213 	 Valparaiso 	 52.500000
+82.	 18.086399 	 Seton_Hall 	 53.640000
+83.	 18.050417 	 Tennessee 	 46.700000
+84.	 17.909694 	 Bellarmine 	 73.548387
+85.	 17.824644 	 Penn_St 	 20.714286
+86.	 17.810231 	 Florida_St 	 36.818182
+87.	 17.716261 	 UTEP 	 26.066667
+88.	 17.557623 	 Harvard 	 52.137931
+89.	 17.507663 	 Memphis 	 22.066667
+90.	 17.260828 	 Oregon_St 	 57.676471
+91.	 17.226139 	 FL_Southern 	 85.718750
+92.	 17.215798 	 Toledo 	 31.379310
+93.	 17.127732 	 Georgia_St 	 53.696970
+94.	 17.038234 	 California 	 41.294118
+95.	 16.958483 	 La_Salle 	 2.320000
+96.	 16.926873 	 Augustana_SD 	 83.294118
+97.	 16.922001 	 UNLV 	 62.451613
+98.	 16.912087 	 Moorhead_St 	 12.066667
+99.	 16.900996 	 Pepperdine 	 40.800000
+100.	 16.849128 	 St_Bonaventure 	 33.714286
+101.	 16.845627 	 Marquette 	 15.406250
+102.	 16.798179 	 Wyoming 	 0.000000
+103.	 16.775875 	 Bowling_Green 	 44.483871
+104.	 16.744420 	 Indianapolis 	 60.611111
+105.	 16.731500 	 C_Michigan 	 60.741935
+106.	 16.636628 	 Akron 	 42.514286
+107.	 16.611150 	 Washington 	 36.393939
+108.	 16.530160 	 UC_Irvine 	 57.548387
+109.	 16.472514 	 New_Mexico_St 	 53.518519
+110.	 16.443853 	 Boston_College 	 28.468750
+111.	 16.363193 	 Nebraska 	 50.615385
+112.	 16.311236 	 Yale 	 14.392857
+113.	 16.288863 	 UC_Davis 	 40.235294
+114.	 16.174011 	 Utah_St 	 58.757576
+115.	 16.170386 	 Iona 	 68.066667
+116.	 16.118120 	 Cleveland_St 	 40.812500
+117.	 16.097473 	 Hawaii 	 48.142857
+118.	 16.093310 	 Sam_Houston_St 	 17.960000
+119.	 16.091527 	 Northwestern 	 84.483871
+120.	 16.038862 	 Wake_Forest 	 25.600000
+121.	 15.950306 	 Wofford 	 27.000000
+122.	 15.929328 	 Auburn 	 32.971429
+123.	 15.908548 	 Santa_Barbara 	 35.629630
+124.	 15.882692 	 San_Diego 	 67.733333
+125.	 15.872675 	 Evansville 	 45.741935
+126.	 15.749574 	 Massachusetts 	 32.500000
+127.	 15.748460 	 NW_Florida_St 	 33.892857
+128.	 15.726432 	 Kent 	 24.500000
+129.	 15.726180 	 UAB 	 19.444444
+130.	 15.718866 	 Texas_Tech 	 32.225806
+131.	 15.426812 	 WI_Parkside 	 39.178571
+132.	 15.286079 	 Portland 	 16.640000
+133.	 15.130217 	 New_Mexico 	 3.894737
+134.	 15.094496 	 W_Kentucky 	 23.413793
+135.	 15.085381 	 USC 	 28.800000
+136.	 15.011486 	 Northeastern 	 67.583333
+137.	 14.969459 	 Angelo_St 	 74.625000
+138.	 14.916065 	 S_Dakota_St 	 71.733333
+139.	 14.782910 	 Hofstra 	 49.121212
+140.	 14.679829 	 Loyola-Chicago 	 39.629630
+141.	 14.665800 	 San_Francisco 	 49.382353
+142.	 14.664026 	 E_Washington 	 65.228571
+143.	 14.656606 	 BYU_Hawaii 	 72.666667
+144.	 14.619016 	 S_New_Hampshire 	 76.409091
+145.	 14.574336 	 DePaul 	 28.000000
+146.	 14.556106 	 Mississippi_St 	 31.925926
+147.	 14.526869 	 Charlotte 	 34.718750
+148.	 14.498035 	 Long_Beach_St 	 59.233333
+149.	 14.489201 	 W_Michigan 	 47.406250
+150.	 14.474619 	 William_&_Mary 	 27.185185
+151.	 14.415551 	 Azusa_Pacific 	 70.600000
+152.	 14.375413 	 E_Florida_St 	 71.000000
+153.	 14.301711 	 S_Connecticut 	 23.363636
+154.	 14.298857 	 Lewis 	 72.592593
+155.	 14.285760 	 South_Plains 	 40.863636
+156.	 14.284741 	 North_Florida 	 19.966667
+157.	 14.234439 	 Barry 	 72.133333
+158.	 14.085034 	 E_Michigan 	 45.676471
+159.	 14.078534 	 Saddleback 	 37.281250
+160.	 14.070288 	 ULL 	 26.869565
+161.	 13.983415 	 Missouri 	 28.125000
+162.	 13.927034 	 Cal_Baptist 	 64.806452
+163.	 13.884064 	 Connors_St 	 80.851852
+164.	 13.879119 	 Vermont 	 66.827586
+165.	 13.854111 	 MN_Mankato 	 40.181818
+166.	 13.821217 	 Albany_NY 	 50.843750
+167.	 13.649260 	 MTSU 	 49.095238
+168.	 13.601450 	 Chattanooga 	 53.437500
+169.	 13.563536 	 Indian_Hills_CC 	 92.696970
+170.	 13.555803 	 St_Joseph's_PA 	 50.321429
+171.	 13.540310 	 Virginia_Tech 	 50.923077
+172.	 13.534275 	 Montana 	 69.892857
+173.	 13.532232 	 High_Point 	 54.580645
+174.	 13.520551 	 E_Kentucky 	 47.866667
+175.	 13.498591 	 Tarleton_St 	 46.892857
+176.	 13.484207 	 Oakland 	 55.607143
+177.	 13.477038 	 Indiana_St 	 63.393939
+178.	 13.422038 	 FL_Gulf_Coast 	 48.875000
+179.	 13.381525 	 Stony_Brook 	 49.344828
+180.	 13.342388 	 Trinity_Valley_CC 	 13.230769
+181.	 13.304294 	 Washington_St 	 63.884615
+182.	 13.302106 	 Rider 	 40.000000
+183.	 13.279759 	 Belmont 	 53.531250
+184.	 13.278587 	 Vincennes 	 72.764706
+185.	 13.211838 	 Cal_Poly_SLO 	 30.827586
+186.	 13.148524 	 Ga_Southern 	 49.093750
+187.	 13.144866 	 San_Bernardino_Val 	 30.437500
+188.	 13.132666 	 Indiana_PA 	 21.586207
+189.	 13.129771 	 St_Francis_NY 	 62.542857
+190.	 13.089005 	 Carleton_ON 	 79.294118
+191.	 13.072969 	 NC_Central 	 19.687500
+192.	 13.033119 	 Princeton 	 52.481481
+193.	 12.990922 	 CS_Poly_Pomona 	 55.366667
+194.	 12.968460 	 Hill_Col 	 82.708333
+195.	 12.961769 	 Metro_St 	 35.857143
+196.	 12.933263 	 St_Anselm 	 24.206897
+197.	 12.930828 	 Manhattan 	 14.961538
+198.	 12.836981 	 Lake_Superior 	 51.550000
+199.	 12.833691 	 Butler_Co-KS 	 72.034483
+200.	 12.700725 	 West_Liberty 	 45.777778
+201.	 12.698839 	 Coastal_Car 	 53.181818
+202.	 12.687556 	 Ferris_St 	 58.970588
+203.	 12.656222 	 San_Jacinto-C 	 33.250000
+204.	 12.536732 	 Santa_Clara 	 10.458333
+205.	 12.520098 	 Mt_San_Antonio 	 39.034483
+206.	 12.505415 	 NW_Missouri 	 47.571429
+207.	 12.497711 	 N_Dakota_St 	 44.916667
+208.	 12.483580 	 Detroit 	 39.277778
+209.	 12.482094 	 Col_Springs 	 75.281250
+210.	 12.472810 	 IN_Wesleyan 	 75.833333
+211.	 12.449939 	 Canisius 	 37.645161
+212.	 12.447227 	 Rutgers 	 32.652174
+213.	 12.429694 	 Quinnipiac 	 37.966667
+214.	 12.364469 	 Columbia 	 32.392857
+215.	 12.347154 	 Southern_Idaho 	 45.939394
+216.	 12.300651 	 Houston 	 29.500000
+217.	 12.205930 	 N_Illinois 	 28.925926
+218.	 12.143029 	 Morehead_St 	 14.440000
+219.	 12.141157 	 SC_Upstate 	 36.758621
+220.	 12.135855 	 Tulane 	 38.520000
+221.	 12.135158 	 UT_Arlington 	 40.461538
+222.	 12.106233 	 Lafayette 	 36.931034
+223.	 12.088035 	 Radford 	 54.551724
+224.	 12.041809 	 ULM 	 48.647059
+225.	 12.025732 	 TX_A&M_Commerce 	 38.892857
+226.	 11.971557 	 Colorado_Mines 	 66.517241
+227.	 11.914809 	 American_Intl 	 63.000000
+228.	 11.913696 	 Monmouth_NJ 	 52.416667
+229.	 11.907096 	 James_Madison 	 28.483871
+230.	 11.871641 	 Robert_Morris 	 32.115385
+231.	 11.840917 	 UT_San_Antonio 	 47.653846
+232.	 11.829204 	 Air_Force 	 32.225806
+233.	 11.812791 	 Colgate 	 33.969697
+234.	 11.810778 	 CS_Sacramento 	 47.903226
+235.	 11.806159 	 Northwestern_LA 	 46.714286
+236.	 11.778833 	 Duquesne 	 30.516129
+237.	 11.760824 	 Bucknell 	 41.545455
+238.	 11.749106 	 TX_Southern 	 22.562500
+239.	 11.728665 	 Norfolk_St 	 35.782609
+240.	 11.720522 	 Incarnate_Word 	 53.214286
+241.	 11.715650 	 UNC_Wilmington 	 26.363636
+242.	 11.578116 	 Winthrop 	 43.285714
+243.	 11.573169 	 SW_Tennessee 	 19.375000
+244.	 11.567499 	 Dartmouth 	 33.785714
+245.	 11.544492 	 Fordham 	 28.558824
+246.	 11.532067 	 WI_Milwaukee 	 37.888889
+247.	 11.519402 	 IPFW 	 61.208333
+248.	 11.465762 	 Fresno_St 	 34.272727
+249.	 11.442868 	 Dakota_Wesleyan 	 78.800000
+250.	 11.428737 	 East_Carolina 	 30.636364
+251.	 11.373753 	 Miami_OH 	 46.575758
+252.	 11.347340 	 Northern_Arizona 	 55.896552
+253.	 11.253577 	 Dixie_St 	 58.250000
+254.	 11.191330 	 UC_Riverside 	 3.655172
+255.	 11.188720 	 Mineral_Area 	 50.080000
+256.	 11.159753 	 Northern_St_SD 	 59.424242
+257.	 11.142744 	 Oral_Roberts 	 49.964286
+258.	 11.140230 	 S_Illinois 	 52.555556
+259.	 11.132830 	 Denver 	 28.900000
+260.	 11.112083 	 George_Mason 	 23.687500
+261.	 11.055917 	 TN_Martin 	 20.400000
+262.	 11.038113 	 Antelope_Valley 	 67.766667
+263.	 11.028158 	 Ottawa_ON 	 43.300000
+264.	 11.021373 	 WI_Stevens_Pt 	 34.259259
+265.	 10.989029 	 Seattle_Pacific 	 33.687500
+266.	 10.988163 	 St_Peter's 	 62.100000
+267.	 10.956828 	 Mercer 	 6.625000
+268.	 10.901228 	 MD_E_Shore 	 34.600000
+269.	 10.874670 	 Lehigh 	 46.964286
+270.	 10.867701 	 Midwest_TX_St 	 64.794118
+271.	 10.859584 	 Ryerson 	 47.655172
+272.	 10.829754 	 Grand_Canyon 	 40.064516
+273.	 10.823670 	 NJIT 	 35.148148
+274.	 10.784414 	 Drury 	 54.000000
+275.	 10.779324 	 American_Univ 	 33.000000
+276.	 10.715044 	 North_Texas 	 57.821429
+277.	 10.673541 	 Merrimack 	 25.909091
+278.	 10.662442 	 C_Missouri 	 60.548387
+279.	 10.657986 	 Texas_St 	 22.531250
+280.	 10.652268 	 St_Thomas_MN 	 41.903226
+281.	 10.635070 	 Michigan_Tech 	 49.970588
+282.	 10.597600 	 Neosho_Co 	 28.677419
+283.	 10.568786 	 Charleston_So 	 50.833333
+284.	 10.547816 	 Gardner_Webb 	 47.029412
+285.	 10.536867 	 Univ_Sciences 	 26.444444
+286.	 10.478369 	 Phoenix_Col 	 63.965517
+287.	 10.467137 	 Cornell 	 30.133333
+288.	 10.459418 	 Howard_Col 	 57.965517
+289.	 10.456154 	 West_Alabama 	 51.250000
+290.	 10.451859 	 Mt_St_Mary's 	 23.080000
+291.	 10.417111 	 Pittsburg_St 	 27.909091
+292.	 10.400186 	 TAM_C._Christi 	 50.111111
+293.	 10.400113 	 Pacific 	 12.310345
+294.	 10.375868 	 Hutchinson_CC 	 68.000000
+295.	 10.362813 	 CS_Chico 	 52.200000
+296.	 10.361154 	 New_Hampshire 	 69.818182
+297.	 10.352573 	 Rice 	 49.642857
+298.	 10.326555 	 Embry-Riddle_FL 	 77.111111
+299.	 10.282018 	 Northeast_CC 	 31.307692
+300.	 10.204628 	 Point_Loma 	 10.533333
+301.	 10.193407 	 E_Illinois 	 36.129032
+302.	 10.192941 	 Midland 	 51.214286
+303.	 10.182690 	 Ark_Little_Rock 	 31.548387
+304.	 10.151783 	 Northwest_WY 	 39.258065
+305.	 10.140392 	 UCF 	 30.384615
+306.	 10.111037 	 Kirkwood_CC 	 25.360000
+307.	 10.094238 	 Columbia_St 	 68.080000
+308.	 10.080378 	 South_Dakota 	 36.969697
+309.	 10.072532 	 St_Francis_PA 	 48.176471
+310.	 10.041807 	 Bentley 	 49.482759
+311.	 10.031905 	 Adams_St 	 57.933333
+312.	 10.030698 	 Nevada 	 45.321429
+313.	 10.029675 	 St_Michael's 	 50.333333
+314.	 10.028144 	 CS_Bakersfield 	 30.647059
+315.	 9.992231 	 John_Logan 	 14.269231
+316.	 9.975795 	 Pearl_River_CC 	 42.384615
+317.	 9.949568 	 Mt_Olive 	 69.906250
+318.	 9.944523 	 ETSU 	 42.233333
+319.	 9.942010 	 Stonehill 	 34.416667
+320.	 9.939021 	 Rogers_St 	 22.615385
+321.	 9.934955 	 Franklin_Pierce 	 43.071429
+322.	 9.909289 	 WI_Whitewater 	 28.040000
+323.	 9.892311 	 Hope_Intl 	 72.612903
+324.	 9.880574 	 Missouri_St 	 32.370370
+325.	 9.864954 	 Salt_Lake_CC 	 50.700000
+326.	 9.816948 	 St_Petersburg 	 31.705882
+327.	 9.805372 	 Col_Cent_Florida 	 57.870968
+328.	 9.794077 	 Marshall 	 28.766667
+329.	 9.777580 	 Col_of_Idaho 	 68.694444
+330.	 9.765240 	 McLennan_CC 	 33.740741
+331.	 9.754740 	 Ohio 	 26.500000
+332.	 9.713973 	 Loy_Marymount 	 48.344828
+333.	 9.685202 	 Canada_Col 	 69.133333
+334.	 9.668945 	 Lincoln_Mem 	 24.629630
+335.	 9.628487 	 Seattle 	 40.034483
+336.	 9.613737 	 Georgia_Highlands 	 64.862069
+337.	 9.586231 	 St_Louis 	 34.931034
+338.	 9.578320 	 Des_Moines_CC 	 63.363636
+339.	 9.566590 	 Bradley 	 16.882353
+340.	 9.558812 	 South_Florida 	 38.181818
+341.	 9.550352 	 CSU-Pueblo 	 60.258065
+342.	 9.533324 	 Lynn 	 31.111111
+343.	 9.532639 	 MO_Southern 	 15.483871
+344.	 9.512543 	 Sacred_Heart 	 23.740741
+345.	 9.504294 	 N_Colorado 	 60.227273
+346.	 9.503983 	 Wright_St 	 56.178571
+347.	 9.495997 	 Idaho 	 35.166667
+348.	 9.480226 	 Daytona_St 	 57.296296
+349.	 9.475021 	 Mesa_CC 	 65.870968
+350.	 9.440679 	 NC_Pembroke 	 57.281250
+351.	 9.413032 	 Gannon 	 47.656250
+352.	 9.400146 	 Boston_Univ 	 30.000000
+353.	 9.398541 	 Coffeyville_CC 	 65.370370
+354.	 9.393732 	 AL_Huntsville 	 54.812500
+355.	 9.387211 	 Cornerstone 	 71.916667
+356.	 9.355042 	 Tampa 	 42.093750
+357.	 9.342845 	 Drake 	 21.193548
+358.	 9.255299 	 Barton_Co 	 65.555556
+359.	 9.223002 	 West_Georgia 	 19.892857
+360.	 9.200269 	 Augustana_IL 	 68.709677
+361.	 9.175650 	 Lamar 	 78.035714
+362.	 9.170560 	 Augusta 	 59.900000
+363.	 9.138369 	 Holy_Cross 	 33.566667
+364.	 9.115486 	 W_Texas_A&M 	 54.071429
+365.	 9.091613 	 Portland_St 	 28.960000
+366.	 9.063251 	 Drexel 	 23.433333
+367.	 9.060865 	 W_Carolina 	 37.677419
+368.	 9.056478 	 Iowa_Western_CC 	 30.466667
+369.	 9.054980 	 Ft_Lewis 	 59.333333
+370.	 9.044927 	 Morningside 	 14.741935
+371.	 9.043819 	 UC_San_Diego 	 32.741935
+372.	 9.006743 	 Saginaw_Val 	 71.121212
+373.	 8.974504 	 Bryant 	 38.812500
+374.	 8.970878 	 S_Indiana 	 24.818182
+375.	 8.950256 	 Truman_St 	 8.074074
+376.	 8.934787 	 Fresno_City_Col 	 67.093750
+377.	 8.907606 	 VA_Wesleyan 	 56.914286
+378.	 8.883355 	 Warner_Pacific 	 51.000000
+379.	 8.848026 	 Wheeling_Jesuit 	 13.000000
+380.	 8.843100 	 St_Cloud 	 11.454545
+381.	 8.830799 	 C_Oklahoma 	 52.677419
+382.	 8.827561 	 Alabama_St 	 49.448276
+383.	 8.822038 	 Bethel_IN 	 67.558824
+384.	 8.803539 	 Talladega 	 27.555556
+385.	 8.798145 	 KY_Wesleyan 	 7.041667
+386.	 8.797182 	 UNC_Asheville 	 39.000000
+387.	 8.796456 	 Weber_St 	 27.911765
+388.	 8.774057 	 Tallahassee_CC 	 73.125000
+389.	 8.762123 	 Edwardsville 	 32.500000
+390.	 8.758058 	 Concordia_CA 	 64.090909
+391.	 8.747571 	 Gulf_Coast_CC 	 46.793103
+392.	 8.639323 	 New_Mexico_JC 	 32.161290
+393.	 8.636070 	 Palm_Beach_St 	 29.407407
+394.	 8.622917 	 N_Kentucky 	 22.857143
+395.	 8.617935 	 Three_Rivers 	 44.600000
+396.	 8.614747 	 CS_Northridge 	 20.666667
+397.	 8.606380 	 Tyler_JC 	 42.700000
+398.	 8.586647 	 Humboldt_St 	 62.206897
+399.	 8.583373 	 SE_Missouri_St 	 24.545455
+400.	 8.579874 	 St_Francis_IN 	 51.470588
+401.	 8.571074 	 Southeastern_CC 	 18.590909
+402.	 8.553560 	 Campbellsville 	 68.000000
+403.	 8.542763 	 Chr_Brothers 	 43.888889
+404.	 8.518181 	 Pensacola_St 	 26.285714
+405.	 8.512982 	 McNeese_St 	 20.095238
+406.	 8.489567 	 St_Mary's_TX 	 57.600000
+407.	 8.379492 	 Randolph_Macon 	 34.571429
+408.	 8.377784 	 Emory 	 61.724138
+409.	 8.363607 	 IL_Wesleyan 	 56.758621
+410.	 8.351497 	 Redlands_CC 	 18.360000
+411.	 8.334329 	 Col_Charleston 	 19.411765
+412.	 8.321038 	 Fairmont_St 	 58.151515
+413.	 8.297347 	 Montevallo 	 38.240000
+414.	 8.294042 	 Ashland 	 50.103448
+415.	 8.284684 	 King_TN 	 39.130435
+416.	 8.272365 	 NE_Kearney 	 65.379310
+417.	 8.253837 	 Holy_Family 	 58.600000
+418.	 8.234814 	 IL_Chicago 	 25.000000
+419.	 8.225517 	 Wayland 	 13.714286
+420.	 8.185460 	 FL_Atlantic 	 20.965517
+421.	 8.171473 	 Ball_St 	 17.400000
+422.	 8.162319 	 Missouri_KC 	 19.500000
+423.	 8.157049 	 Southern_Univ 	 32.454545
+424.	 8.153983 	 San_Jose_City_Col 	 46.172414
+425.	 8.148969 	 Delaware_St 	 39.485714
+426.	 8.128115 	 Elon 	 38.000000
+427.	 8.119199 	 Navy 	 59.923077
+428.	 8.103292 	 Army 	 38.466667
+429.	 8.091698 	 Mt_San_Jacinto 	 74.103448
+430.	 8.023974 	 Hampton 	 35.636364
+431.	 8.008561 	 NE_Omaha 	 21.037037
+432.	 7.993793 	 Tennessee_Tech 	 11.419355
+433.	 7.993074 	 Navarro 	 57.413793
+434.	 7.970977 	 Brown 	 30.129032
+435.	 7.963736 	 Jones_Co_CC 	 46.615385
+436.	 7.963159 	 Shorter 	 28.370370
+437.	 7.958714 	 W_Oregon 	 27.863636
+438.	 7.956343 	 Towson 	 42.846154
+439.	 7.954201 	 Moberly_Area 	 31.962963
+440.	 7.932407 	 Williston_St 	 19.538462
+441.	 7.922281 	 Bridgeport 	 62.935484
+442.	 7.919050 	 Upper_Iowa 	 56.941176
+443.	 7.917222 	 Lindenwood 	 35.870968
+444.	 7.913745 	 Union_TN 	 31.360000
+445.	 7.903547 	 Delaware 	 23.566667
+446.	 7.886096 	 Fort_Hays_St 	 46.413793
+447.	 7.882991 	 Penn 	 41.888889
+448.	 7.868781 	 Babson 	 65.580645
+449.	 7.862600 	 Cochise 	 58.653846
+450.	 7.858253 	 Howard 	 35.939394
+451.	 7.854959 	 Florida_Intl 	 31.666667
+452.	 7.846669 	 Findlay 	 44.592593
+453.	 7.812394 	 Arkansas_St 	 27.137931
+454.	 7.806372 	 Siena 	 57.172414
+455.	 7.769992 	 Gillette 	 67.720000
+456.	 7.759770 	 Holmes_CC 	 59.285714
+457.	 7.709355 	 Concordia_SP 	 47.900000
+458.	 7.667232 	 Johns_Hopkins 	 45.222222
+459.	 7.657158 	 Arizona_Chr 	 64.156250
+460.	 7.635224 	 St_Olaf 	 73.500000
+461.	 7.634143 	 Mercyhurst 	 24.846154
+462.	 7.571691 	 Concord 	 56.344828
+463.	 7.546982 	 Winona_St 	 26.538462
+464.	 7.494624 	 Arkansas-FS 	 47.133333
+465.	 7.493361 	 Troy 	 71.090909
+466.	 7.490711 	 Washburn 	 30.777778
+467.	 7.483846 	 Northwood_MI 	 44.068966
+468.	 7.478873 	 Pikeville 	 37.766667
+469.	 7.472685 	 W_Washington 	 47.931034
+470.	 7.457340 	 Angelina 	 57.444444
+471.	 7.421374 	 C_Arizona 	 53.821429
+472.	 7.399896 	 Briar_Cliff 	 56.090909
+473.	 7.387680 	 Davenport 	 64.361111
+474.	 7.329701 	 Columbus_St 	 58.733333
+475.	 7.307561 	 Marietta 	 30.576923
+476.	 7.289584 	 Samford 	 58.878788
+477.	 7.284913 	 North_Idaho 	 53.903226
+478.	 7.282946 	 Southern_Miss 	 23.920000
+479.	 7.266442 	 Schoolcraft 	 6.681818
+480.	 7.255455 	 Lakeland_CC 	 38.535714
+481.	 7.248120 	 St_Norbert 	 48.482759
+482.	 7.229310 	 Washington_MO 	 13.320000
+483.	 7.218129 	 Appalachian_St 	 28.586207
+484.	 7.197288 	 Richland 	 77.133333
+485.	 7.190396 	 S_Georgia_St 	 26.285714
+486.	 7.170087 	 CS_Fullerton 	 22.406250
+487.	 7.169496 	 Pratt_CC 	 33.424242
+488.	 7.134186 	 CS_San_Marcos 	 73.666667
+489.	 7.120635 	 Martin_Meth 	 44.185185
+490.	 7.120623 	 New_Haven 	 43.709677
+491.	 7.110974 	 Northwestern_OH 	 49.066667
+492.	 7.100990 	 Lipscomb 	 11.761905
+493.	 7.076001 	 Youngstown_St 	 36.250000
+494.	 7.069467 	 Claremont_M.S. 	 55.034483
+495.	 7.011139 	 Charleston_WV 	 51.517241
+496.	 6.999210 	 Union_KY 	 46.448276
+497.	 6.995394 	 Fairfield 	 15.161290
+498.	 6.995159 	 East_LA_Col 	 59.419355
+499.	 6.992585 	 E_Stroudsburg 	 59.068966
+500.	 6.977800 	 Mesa_St 	 55.444444
+501.	 6.956826 	 Jacksonville_Col 	 23.906250
+502.	 6.955562 	 Glenville_St 	 53.909091
+503.	 6.931543 	 Prairie_View 	 16.250000
+504.	 6.931339 	 Wooster 	 57.235294
+505.	 6.906641 	 SD_City_Col 	 58.448276
+506.	 6.902951 	 Dalton_St 	 67.806452
+507.	 6.872997 	 Mt_Mercy 	 6.900000
+508.	 6.861940 	 St_Edward's 	 38.761905
+509.	 6.852149 	 Northeastern_JC 	 48.617647
+510.	 6.817316 	 Hartford 	 30.566667
+511.	 6.808733 	 E_Connecticut 	 61.321429
+512.	 6.802507 	 Mt_Union 	 43.172414
+513.	 6.802383 	 Chaffey 	 49.322581
+514.	 6.773854 	 Long_Island 	 34.272727
+515.	 6.767098 	 IUPUI 	 23.531250
+516.	 6.764841 	 Ouachita 	 9.360000
+517.	 6.747550 	 S_Georgia_Tech 	 56.173913
+518.	 6.725924 	 McMaster 	 58.333333
+519.	 6.679069 	 Garden_City_CC 	 35.120000
+520.	 6.665150 	 Furman 	 23.121212
+521.	 6.646637 	 Midland 	 61.678571
+522.	 6.642460 	 Philadelphia 	 39.200000
+523.	 6.640272 	 Hope 	 50.357143
+524.	 6.625219 	 Miami-Dade 	 28.843750
+525.	 6.611451 	 Chaminade 	 39.107143
+526.	 6.599670 	 UNC_Greensboro 	 38.000000
+527.	 6.594473 	 New_Orleans 	 49.181818
+528.	 6.529132 	 Blinn 	 56.000000
+529.	 6.508411 	 Marin_CC 	 73.250000
+530.	 6.505336 	 Slippery_Rock 	 44.851852
+531.	 6.505082 	 Dickinson 	 61.000000
+532.	 6.502205 	 City_Col_San_Fran 	 57.666667
+533.	 6.500132 	 Le_Moyne 	 36.137931
+534.	 6.485604 	 Grace_IN 	 45.441176
+535.	 6.475279 	 South_Alabama 	 32.000000
+536.	 6.474611 	 Broward_CC 	 57.807692
+537.	 6.467204 	 Our_Lady_Lake 	 59.666667
+538.	 6.421093 	 Concordia_OR 	 60.470588
+539.	 6.416042 	 Mid-Am_Chr 	 33.310345
+540.	 6.345875 	 St_John_Fisher 	 37.448276
+541.	 6.338029 	 Campbell 	 22.531250
+542.	 6.321971 	 MN_Duluth 	 18.172414
+543.	 6.300463 	 Whitworth 	 45.925926
+544.	 6.287526 	 Windsor 	 12.454545
+545.	 6.259663 	 Long_Beach_City_Col 	 0.000000
+546.	 6.253325 	 N_OK-Tonkawa 	 48.217391
+547.	 6.228188 	 Elmhurst 	 58.535714
+548.	 6.226614 	 Niagara 	 63.727273
+549.	 6.223699 	 Harding 	 42.607143
+550.	 6.213989 	 Cameron 	 36.266667
+551.	 6.205504 	 Loyola_MD 	 36.291667
+552.	 6.197881 	 Card_Stritch 	 56.142857
+553.	 6.182915 	 Utah_Valley 	 39.322581
+554.	 6.129509 	 Grand_Valley_St 	 35.241379
+555.	 6.127368 	 East_Central_OK 	 56.290323
+556.	 6.121010 	 SE_Louisiana 	 30.192308
+557.	 6.099950 	 Permian_Basin 	 38.967742
+558.	 6.043630 	 Georgetown_KY 	 70.774194
+559.	 6.032120 	 Westmont 	 32.517241
+560.	 6.024071 	 E_Texas_Bap 	 62.531250
+561.	 6.014705 	 North_Dakota 	 56.085714
+562.	 6.009981 	 Idaho_St 	 17.300000
+563.	 6.006812 	 Lubbock_Chr 	 59.032258
+564.	 5.995502 	 Hardin-Simmons 	 61.851852
+565.	 5.986482 	 CS_Stanislaus 	 41.896552
+566.	 5.982402 	 Olivet_Naz 	 10.115385
+567.	 5.973693 	 Motlow_St 	 45.448276
+568.	 5.959650 	 Owens_CC 	 68.406250
+569.	 5.955141 	 Temple_Col 	 48.484848
+570.	 5.940881 	 SW_MO_St-WP 	 27.136364
+571.	 5.940388 	 ND_St_Science 	 40.423077
+572.	 5.925187 	 Newman 	 12.560000
+573.	 5.881712 	 CS_San_Bern. 	 36.444444
+574.	 5.878177 	 Walsh 	 26.321429
+575.	 5.875108 	 Dodge_City_CC 	 46.033333
+576.	 5.869704 	 Weatherford 	 44.166667
+577.	 5.859494 	 Southwestern_CA 	 30.666667
+578.	 5.852052 	 Hillsdale 	 33.703704
+579.	 5.846412 	 Lee_TN 	 35.320000
+580.	 5.837630 	 Kilgore 	 31.720000
+581.	 5.834005 	 Hawaii_Pacific 	 42.964286
+582.	 5.828513 	 Oakland_CC 	 39.500000
+583.	 5.826516 	 Odessa 	 44.120000
+584.	 5.805102 	 Benedictine_KS 	 51.090909
+585.	 5.785613 	 N_OK-Enid 	 51.424242
+586.	 5.779334 	 Bethel_MN 	 50.857143
+587.	 5.777222 	 R_Stockton 	 0.000000
+588.	 5.771184 	 Cumberlands_KY 	 49.093750
+589.	 5.764729 	 Jacksonville_St 	 41.863636
+590.	 5.721416 	 John_Carroll 	 42.387097
+591.	 5.703846 	 Ohio_Wesleyan 	 26.777778
+592.	 5.673426 	 Livingstone 	 10.296296
+593.	 5.653110 	 Houston_Bap 	 34.607143
+594.	 5.640516 	 Southern_Utah 	 36.457143
+595.	 5.637538 	 OK_City 	 53.516129
+596.	 5.632025 	 Dominican_CA 	 35.892857
+597.	 5.596289 	 Skidmore 	 44.166667
+598.	 5.573612 	 Marshalltown_CC 	 27.062500
+599.	 5.545757 	 Delta_St 	 40.689655
+600.	 5.540462 	 West_LA_Col 	 31.892857
+601.	 5.526697 	 Jackson_St 	 19.240000
+602.	 5.512952 	 St_Leo 	 45.363636
+603.	 5.499054 	 Quincy 	 43.680000
+604.	 5.484499 	 North_Alabama 	 46.727273
+605.	 5.481900 	 Montana_St 	 46.727273
+606.	 5.476482 	 Lamar_St 	 24.000000
+607.	 5.473862 	 MA_Lowell 	 21.269231
+608.	 5.450995 	 Wagner 	 38.357143
+609.	 5.450614 	 Southern_Oregon 	 36.250000
+610.	 5.434961 	 MO_St_Louis 	 52.870968
+611.	 5.433221 	 SW_Minnesota 	 46.137931
+612.	 5.393084 	 Bowie_St 	 57.700000
+613.	 5.377144 	 NE_OK_A&M 	 46.478261
+614.	 5.363085 	 Amherst 	 58.931034
+615.	 5.358479 	 VMI 	 31.862069
+616.	 5.357512 	 Freed-Hardeman 	 73.354839
+617.	 5.351187 	 Chapman 	 59.827586
+618.	 5.314566 	 Eckerd 	 30.448276
+619.	 5.282353 	 Snow_Col 	 25.423077
+620.	 5.276517 	 Assumption 	 23.333333
+621.	 5.267238 	 Lander 	 68.161290
+622.	 5.252245 	 Cosumnes_River 	 54.870968
+623.	 5.244859 	 Northwest_Chr 	 9.142857
+624.	 5.221922 	 Emmanuel_GA 	 48.230769
+625.	 5.190912 	 Albertus_Magnus 	 88.433333
+626.	 5.189857 	 Worcester_Tech 	 14.192308
+627.	 5.186257 	 Polk_CC 	 55.333333
+628.	 5.179818 	 Merritt 	 48.482759
+629.	 5.154645 	 Whitman 	 19.375000
+630.	 5.152628 	 Kutztown 	 12.333333
+631.	 5.151265 	 Nova_SE 	 48.033333
+632.	 5.144167 	 Dubuque 	 62.068966
+633.	 5.136822 	 E_Mississippi_CC 	 57.920000
+634.	 5.131050 	 NYU 	 39.709677
+635.	 5.113396 	 Virginia_St 	 59.500000
+636.	 5.102394 	 Minot_St 	 44.878788
+637.	 5.058584 	 Citrus_Col 	 45.703704
+638.	 5.056879 	 Sonoma_St 	 19.720000
+639.	 5.039832 	 Monroe_CC 	 59.750000
+640.	 5.028860 	 Nicholls_St 	 41.481481
+641.	 4.985871 	 Cape_Fear_CC 	 59.375000
+642.	 4.975417 	 Edinboro 	 44.592593
+643.	 4.950353 	 Wm_Paterson 	 36.178571
+644.	 4.946137 	 Florida_Tech 	 40.774194
+645.	 4.940595 	 Daemen 	 56.533333
+646.	 4.935513 	 W_Salem_St 	 63.333333
+647.	 4.921288 	 Calvin 	 57.166667
+648.	 4.891436 	 Chattahoochee_Tech 	 50.833333
+649.	 4.868680 	 Lindsey_Wilson 	 53.060606
+650.	 4.865057 	 Harcum_Col 	 85.068966
+651.	 4.851115 	 Austin_Peay 	 18.333333
+652.	 4.841666 	 Casper_College 	 51.791667
+653.	 4.839511 	 Vanguard 	 45.000000
+654.	 4.838364 	 Triton_Col 	 12.531250
+655.	 4.809973 	 C_Washington 	 55.576923
+656.	 4.796299 	 Lewis-Clark_ID 	 22.535714
+657.	 4.772636 	 Frank_&_Marsh 	 59.230769
+658.	 4.771860 	 Thomas_Aquinas 	 35.346154
+659.	 4.763085 	 Longwood 	 29.000000
+660.	 4.759601 	 W_Wyoming_CC 	 54.838710
+661.	 4.738035 	 Hawaii_Hilo 	 38.285714
+662.	 4.727531 	 Ald-Broaddus 	 55.862069
+663.	 4.703654 	 AK_Anchorage 	 45.000000
+664.	 4.697017 	 Monroe 	 38.176471
+665.	 4.695034 	 TX_Pan_American 	 47.758621
+666.	 4.689579 	 Rio_Hondo 	 56.483871
+667.	 4.680858 	 East_Central_CC 	 45.695652
+668.	 4.664790 	 Concordia_TX 	 56.379310
+669.	 4.632704 	 CW_Post 	 41.566667
+670.	 4.610971 	 Ark_Pine_Bluff 	 25.875000
+671.	 4.601980 	 Lassen 	 29.038462
+672.	 4.595405 	 LSU-Alexandria 	 55.677419
+673.	 4.551417 	 St_John's_MN 	 48.500000
+674.	 4.538148 	 Alvernia 	 48.178571
+675.	 4.537153 	 Arkansas_Tech 	 41.757576
+676.	 4.517697 	 LA_Harbor 	 15.150000
+677.	 4.514889 	 Bakersfield_Col 	 43.620690
+678.	 4.490692 	 Cent_Wyoming 	 44.500000
+679.	 4.478137 	 CS_Monterey_Bay 	 36.035714
+680.	 4.475635 	 S_Arkansas 	 41.720000
+681.	 4.473222 	 Baton_Rouge_CC 	 43.250000
+682.	 4.471507 	 Kaskaskia 	 32.937500
+683.	 4.466557 	 Baldwin-Wallace 	 55.555556
+684.	 4.458160 	 Chicago_St 	 18.030303
+685.	 4.450043 	 Bellevue 	 65.942857
+686.	 4.447852 	 W_Illinois 	 19.450000
+687.	 4.434476 	 Aquinas 	 42.500000
+688.	 4.394412 	 Georgia_SW 	 40.962963
+689.	 4.367906 	 Marist 	 13.375000
+690.	 4.280826 	 Abilene_Chr 	 26.129032
+691.	 4.232786 	 Mississippi_Col 	 46.750000
+692.	 4.225364 	 RI_College 	 53.148148
+693.	 4.218029 	 Shelton_St 	 25.482759
+694.	 4.213795 	 N_Central_IL 	 36.687500
+695.	 4.194858 	 Ashford 	 50.764706
+696.	 4.159005 	 Chicago 	 48.076923
+697.	 4.157343 	 Chabot 	 45.300000
+698.	 4.144599 	 Ohlone 	 66.107143
+699.	 4.143642 	 Rhodes 	 49.935484
+700.	 4.140235 	 Col_Ozarks 	 65.718750
+701.	 4.140140 	 Victoria 	 44.000000
+702.	 4.122479 	 North_Platte_CC 	 44.958333
+703.	 4.100746 	 SW_Illinois 	 20.030303
+704.	 4.088472 	 St_Rose 	 62.296296
+705.	 4.087846 	 Rock_Valley 	 38.370370
+706.	 4.086097 	 Wm_Jewell 	 29.687500
+707.	 4.069945 	 Kennesaw 	 39.148148
+708.	 4.052139 	 Coppin_St 	 21.903226
+709.	 4.046581 	 Defiance 	 60.724138
+710.	 4.043283 	 Lansing_CC 	 40.718750
+711.	 4.039006 	 Newberry 	 30.689655
+712.	 4.026420 	 SW_Baptist 	 54.968750
+713.	 4.023714 	 Richard_Bland 	 26.593750
+714.	 4.009064 	 Philander_Smith 	 78.720000
+715.	 4.003259 	 Catholic 	 60.448276
+716.	 3.999418 	 Alabama_A&M 	 22.758621
+717.	 3.993636 	 SW_Assemb_God 	 0.000000
+718.	 3.992863 	 MT_Western 	 42.437500
+719.	 3.990577 	 Lake_Erie 	 42.481481
+720.	 3.985441 	 St_Mary's_MD 	 51.233333
+721.	 3.949689 	 Jacksonville 	 48.238095
+722.	 3.916106 	 Chipola 	 26.551724
+723.	 3.897054 	 Irvine_Valley 	 44.676471
+724.	 3.891620 	 Xavier_LA 	 46.647059
+725.	 3.885186 	 Trinity_CT 	 25.709677
+726.	 3.876210 	 Mt_Vernon_Naz 	 68.000000
+727.	 3.856931 	 F_Dickinson 	 21.758621
+728.	 3.842858 	 John_Wood_CC 	 67.724138
+729.	 3.817800 	 Centre 	 58.884615
+730.	 3.815071 	 Parkland 	 44.892857
+731.	 3.791705 	 North_Georgia 	 53.911765
+732.	 3.775157 	 Lynchburg 	 54.192308
+733.	 3.730974 	 Stetson 	 37.058824
+734.	 3.730709 	 Maryville_MO 	 52.615385
+735.	 3.730229 	 Seward_Co 	 38.555556
+736.	 3.726053 	 Cloud_Co 	 40.827586
+737.	 3.720655 	 Yuba 	 26.937500
+738.	 3.714594 	 Ark_Baptist 	 45.909091
+739.	 3.684593 	 Carson-Newman 	 44.031250
+740.	 3.656053 	 S_Francisco_St 	 26.333333
+741.	 3.640360 	 San_Joaquin_Delta 	 76.466667
+742.	 3.609437 	 AZ_Western 	 41.037037
+743.	 3.607077 	 Southern-Shreve 	 25.758621
+744.	 3.603881 	 Frank_Phillips 	 29.523810
+745.	 3.594168 	 Columbia_MO 	 61.687500
+746.	 3.590215 	 Springfield 	 21.000000
+747.	 3.544641 	 Chatt_St_Tech 	 47.636364
+748.	 3.541018 	 Gust_Adolphus 	 41.333333
+749.	 3.538803 	 MO_Western 	 51.400000
+750.	 3.533042 	 Citadel 	 26.233333
+751.	 3.520599 	 Louisburg 	 11.555556
+752.	 3.520452 	 Moorpark 	 78.138889
+753.	 3.519039 	 Stevenson 	 34.350000
+754.	 3.515866 	 Northwood_FL 	 58.545455
+755.	 3.488645 	 Emporia_St 	 32.214286
+756.	 3.481214 	 Westfield_St 	 19.227273
+757.	 3.461596 	 New_Brunswick 	 21.937500
+758.	 3.458680 	 Brit_Columbia 	 55.705882
+759.	 3.436872 	 Rutgers-Newark 	 41.423077
+760.	 3.404883 	 Queens_NC 	 26.125000
+761.	 3.370410 	 TX_A&M_K'ville 	 60.031250
+762.	 3.360434 	 DePauw 	 46.300000
+763.	 3.355004 	 Collin_Co 	 42.074074
+764.	 3.345267 	 J&W_RI 	 51.560000
+765.	 3.334064 	 Dordt 	 51.266667
+766.	 3.311722 	 Scranton 	 27.400000
+767.	 3.309867 	 Genesee_CC 	 66.500000
+768.	 3.304652 	 Santa_Fe_CC 	 30.562500
+769.	 3.301621 	 West_Chester 	 51.735294
+770.	 3.293693 	 Laramie_Co 	 64.000000
+771.	 3.292735 	 Jackson_St_CC 	 23.500000
+772.	 3.290598 	 Presbyterian 	 0.000000
+773.	 3.270665 	 Chris_Newport 	 53.357143
+774.	 3.260235 	 California_PA 	 39.285714
+775.	 3.259610 	 Paris_JC 	 10.000000
+776.	 3.245379 	 Rollins 	 60.714286
+777.	 3.179076 	 Essex_CC 	 75.357143
+778.	 3.174677 	 Bates 	 53.571429
+779.	 3.170182 	 Faulkner_St 	 62.518519
+780.	 3.142059 	 Binghamton 	 13.250000
+781.	 3.141794 	 Spartanburg_Meth 	 43.642857
+782.	 3.138028 	 MiraCosta 	 39.800000
+783.	 3.137168 	 Bethune-Cookman 	 24.312500
+784.	 3.108178 	 Buena_Vista 	 61.307692
+785.	 3.094471 	 Palm_Beach_Atl 	 64.966667
+786.	 3.091257 	 Plattsburgh_St 	 41.242424
+787.	 3.075091 	 Wesleyan_CT 	 32.666667
+788.	 3.041978 	 Savannah_St 	 8.722222
+789.	 3.034626 	 Kishwaukee_CC 	 62.444444
+790.	 3.014239 	 Sierra_Col 	 27.500000
+791.	 2.994894 	 Brooklyn_Col 	 63.700000
+792.	 2.990594 	 Southwestern_CC 	 53.633333
+793.	 2.987470 	 Lee_TX 	 47.103448
+794.	 2.980555 	 Liberty 	 67.545455
+795.	 2.969516 	 St_Vincent 	 30.433333
+796.	 2.967105 	 Malone 	 27.250000
+797.	 2.946298 	 Pima_CC 	 81.838710
+798.	 2.941127 	 Northwest_KS_Tech 	 0.000000
+799.	 2.929362 	 Davidson_Co_CC 	 89.681818
+800.	 2.903119 	 South_Mtn 	 20.312500
+801.	 2.899849 	 Susquehanna 	 30.920000
+802.	 2.899505 	 Saskatchewan 	 2.560000
+803.	 2.896507 	 GA_Perimeter 	 35.000000
+804.	 2.866560 	 Tennessee_St 	 33.781250
+805.	 2.863140 	 WI_Platteville 	 66.633333
+806.	 2.856489 	 Pasadena_City_Col 	 57.615385
+807.	 2.853897 	 Caldwell 	 42.642857
+808.	 2.852589 	 Col_of_the_Sequoias 	 41.200000
+809.	 2.836699 	 Allan_Hancock 	 41.500000
+810.	 2.831573 	 Col_of_the_Desert 	 44.851852
+811.	 2.819942 	 Life 	 18.750000
+812.	 2.813866 	 Faulkner 	 52.451613
+813.	 2.811377 	 Mary_ND 	 67.333333
+814.	 2.792449 	 Dallas_Bap 	 43.464286
+815.	 2.779876 	 NM_Military 	 16.230769
+816.	 2.766684 	 UT_Dallas 	 39.290323
+817.	 2.761839 	 Santa_Rosa_JC 	 32.230769
+818.	 2.754442 	 IL_Springfield 	 31.964286
+819.	 2.750735 	 Colorado_Chr 	 35.935484
+820.	 2.745580 	 SE_Oklahoma 	 35.354839
+821.	 2.742752 	 Rocky_Mtn 	 39.480000
+822.	 2.741030 	 Keene_St 	 16.160000
+823.	 2.716272 	 Stillman 	 54.000000
+824.	 2.708326 	 Northwestern_IA 	 32.375000
+825.	 2.698443 	 Cuesta 	 50.034483
+826.	 2.695858 	 Young_Harris 	 13.360000
+827.	 2.680919 	 LA_Pierce 	 39.192308
+828.	 2.668987 	 Cincinnati_St_Tech 	 64.777778
+829.	 2.649344 	 Paine 	 31.000000
+830.	 2.645266 	 MS_Delta 	 41.038462
+831.	 2.644863 	 Diablo_Val 	 39.600000
+832.	 2.628590 	 Case_Western 	 48.320000
+833.	 2.619559 	 North_Greenville 	 47.307692
+834.	 2.616399 	 Sheridan_Col 	 40.766667
+835.	 2.614246 	 St_Francis_IL 	 17.333333
+836.	 2.613088 	 Hobart-Smith 	 47.111111
+837.	 2.611717 	 Bethel_TN 	 56.212121
+838.	 2.574013 	 Las_Positas 	 53.041667
+839.	 2.565705 	 Glendale_AZ 	 25.407407
+840.	 2.560753 	 Cal_St-LA 	 23.259259
+841.	 2.551739 	 Notre_Dame_OH 	 11.518519
+842.	 2.540824 	 NC_A&T 	 3.434783
+843.	 2.539274 	 Bellevue_CC 	 63.580645
+844.	 2.511368 	 Bowdoin 	 53.000000
+845.	 2.510767 	 Col_of_the_Canyons 	 39.464286
+846.	 2.504670 	 MIT 	 48.151515
+847.	 2.498368 	 Skyline 	 51.892857
+848.	 2.490170 	 Marian_IN 	 42.125000
+849.	 2.484502 	 Western_Texas 	 14.434783
+850.	 2.456509 	 Winnipeg 	 36.724138
+851.	 2.444337 	 Williams 	 59.281250
+852.	 2.443849 	 Walters_St 	 49.107143
+853.	 2.443700 	 Evangel 	 49.031250
+854.	 2.440907 	 Cent_Georgia_Tech 	 39.291667
+855.	 2.437891 	 Kansas_City_KS 	 56.558824
+856.	 2.437785 	 Clark_CC 	 59.703704
+857.	 2.435978 	 Clayton_St 	 40.642857
+858.	 2.432695 	 S_Carolina_St 	 43.571429
+859.	 2.430239 	 Rowan 	 39.192308
+860.	 2.411056 	 Baruch 	 53.586207
+861.	 2.397066 	 Valdosta_St 	 21.526316
+862.	 2.337340 	 Otero_JC 	 49.862069
+863.	 2.323234 	 MS_Gulf_Coast 	 32.791667
+864.	 2.289921 	 Warner 	 37.480000
+865.	 2.278598 	 Cuyahoga_CC 	 57.678571
+866.	 2.275997 	 Lincoln_PA 	 10.000000
+867.	 2.268864 	 Hillsborough_CC 	 35.133333
+868.	 2.267517 	 Oswego_St 	 42.580645
+869.	 2.249123 	 San_Jose_St 	 69.500000
+870.	 2.238588 	 Mt_St_Joseph 	 64.225806
+871.	 2.238524 	 NW_Nazarene 	 61.333333
+872.	 2.225363 	 Francis_Marion 	 39.892857
+873.	 2.210048 	 Corban 	 42.586207
+874.	 2.209579 	 SW_Oklahoma 	 52.241379
+875.	 2.208984 	 Penn_Valley_CC 	 9.680000
+876.	 2.207518 	 Danville_CC 	 42.192308
+877.	 2.204978 	 Benedict 	 44.031250
+878.	 2.203363 	 NE_MS_CC 	 52.821429
+879.	 2.192301 	 Tufts 	 56.806452
+880.	 2.188040 	 Shepherd 	 10.074074
+881.	 2.187959 	 Tohono_O'odham 	 29.352941
+882.	 2.177642 	 Claflin 	 39.633333
+883.	 2.168799 	 Post 	 42.400000
+884.	 2.167064 	 Morgan_St 	 38.482759
+885.	 2.159306 	 PR_Bayamon 	 60.481481
+886.	 2.158080 	 Clarkson 	 52.592593
+887.	 2.157006 	 Palomar_Col 	 49.703704
+888.	 2.152950 	 JC_Smith 	 16.580645
+889.	 2.146663 	 St_Thomas_FL 	 31.846154
+890.	 2.143627 	 Louisiana_Col 	 77.964286
+891.	 2.131116 	 Molloy 	 70.785714
+892.	 2.120394 	 OK_Baptist 	 42.000000
+893.	 2.100258 	 St_Xavier_IL 	 58.482759
+894.	 2.095799 	 WI_River_Falls 	 41.333333
+895.	 2.093078 	 Texas_A&M_Intl 	 46.032258
+896.	 2.090423 	 WI_Oshkosh 	 34.129032
+897.	 2.087819 	 Wiley 	 12.250000
+898.	 2.081331 	 Salisbury_St 	 10.307692
+899.	 2.071760 	 SC_Aiken 	 19.935484
+900.	 2.061671 	 S_Vermont 	 49.500000
+901.	 2.061417 	 Cincinnati_Chr 	 48.030303
+902.	 2.054880 	 Goshen 	 34.593750
+903.	 2.045145 	 Allen_Co 	 35.666667
+904.	 2.026349 	 NW_Mississippi 	 82.931034
+905.	 2.012500 	 Mercer_Co 	 40.606061
+906.	 2.009377 	 N_Michigan 	 0.000000
+907.	 2.007904 	 William_Penn 	 48.562500
+908.	 1.999355 	 North_Park 	 44.722222
+909.	 1.971737 	 WV_Wesleyan 	 57.666667
+910.	 1.956665 	 Trine 	 36.333333
+911.	 1.948664 	 Southeastern_FL 	 55.892857
+912.	 1.923769 	 Fayetteville_St 	 48.241379
+913.	 1.915905 	 Guilford 	 50.777778
+914.	 1.889386 	 Missouri_Val 	 22.935484
+915.	 1.867422 	 American_River 	 41.230769
+916.	 1.855558 	 W_Nebraska_CC 	 47.235294
+917.	 1.841241 	 Dominican_NY 	 41.666667
+918.	 1.840387 	 Indiana-East 	 27.633333
+919.	 1.825430 	 Pitt-Johnstown 	 46.407407
+920.	 1.777845 	 S_Union_St 	 49.692308
+921.	 1.761905 	 Endicott 	 63.965517
+922.	 1.755638 	 Concordia_NE 	 42.677419
+923.	 1.753805 	 Arcadia 	 41.965517
+924.	 1.753510 	 Caldwell_CC_Tech 	 48.826087
+925.	 1.749381 	 Wheaton_IL 	 15.208333
+926.	 1.738506 	 N_Central_MO 	 44.000000
+927.	 1.731526 	 Seminole_St 	 6.750000
+928.	 1.721925 	 Concordia_Mhd 	 40.730769
+929.	 1.708344 	 Alberta 	 48.562500
+930.	 1.694268 	 Shaw_NC 	 21.200000
+931.	 1.683737 	 St_Mary_KS 	 16.392857
+932.	 1.668611 	 Oregon_Tech 	 36.580645
+933.	 1.665747 	 Lake_Land_IL 	 35.318182
+934.	 1.614555 	 PSU-Behrend 	 40.909091
+935.	 1.592055 	 Mott_CC 	 72.360000
+936.	 1.589709 	 Southern_Nazarene 	 11.933333
+937.	 1.572101 	 Victor_Valley 	 23.320000
+938.	 1.570815 	 Nichols 	 25.896552
+939.	 1.568995 	 Hesston 	 38.714286
+940.	 1.545531 	 M_Hardin-Baylor 	 32.848485
+941.	 1.526730 	 Ellsworth_CC 	 23.400000
+942.	 1.523720 	 CCBC-Dundalk 	 59.178571
+943.	 1.509285 	 Adelphi 	 18.653846
+944.	 1.500588 	 Central_Conn 	 9.774194
+945.	 1.495562 	 Bemidji_St 	 24.888889
+946.	 1.490556 	 Lake_Michigan 	 31.466667
+947.	 1.487631 	 Middlebury 	 24.071429
+948.	 1.483725 	 Marymount_VA 	 58.545455
+949.	 1.482339 	 Fraser_Val 	 58.916667
+950.	 1.474979 	 Chattahoochee_Val 	 52.192308
+951.	 1.460581 	 Wm_Carey 	 25.689655
+952.	 1.451237 	 Cortland_St 	 49.760000
+953.	 1.445992 	 Atlanta_Metro 	 30.096774
+954.	 1.445117 	 Foothill_Col 	 32.093750
+955.	 1.433847 	 Cal_Lutheran 	 49.461538
+956.	 1.433325 	 Berea 	 64.541667
+957.	 1.417254 	 Kankakee_CC 	 36.500000
+958.	 1.414934 	 TX_Lutheran 	 22.357143
+959.	 1.405889 	 Sioux_Falls 	 33.333333
+960.	 1.396110 	 Lakehead 	 60.250000
+961.	 1.377028 	 Dakota_St 	 40.571429
+962.	 1.374278 	 McKendree 	 5.440000
+963.	 1.367421 	 Black_Hills_St 	 23.266667
+964.	 1.358789 	 Henderson_St 	 33.423077
+965.	 1.315745 	 Howard_Payne 	 43.777778
+966.	 1.302144 	 ASA 	 60.315789
+967.	 1.282576 	 Academy_of_Art 	 21.384615
+968.	 1.270756 	 Wayne_St_MI 	 31.708333
+969.	 1.270720 	 El_Camino-Compton 	 42.538462
+970.	 1.209434 	 AIB_Col_Business 	 50.206897
+971.	 1.192081 	 SW_Mississippi 	 32.133333
+972.	 1.133005 	 Wingate 	 67.837838
+973.	 1.082500 	 Santa_Monica_Col 	 31.740741
+974.	 1.081901 	 Muskegon_CC 	 19.230769
+975.	 1.073670 	 Coastal_Bend_College 	 24.045455
+976.	 1.067963 	 Biola 	 38.419355
+977.	 1.065650 	 WV_Tech 	 16.451613
+978.	 1.048844 	 McGill 	 35.814815
+979.	 1.048246 	 Coker 	 32.428571
+980.	 1.043346 	 St_Ambrose 	 49.357143
+981.	 1.040823 	 UMBC 	 0.000000
+982.	 1.038730 	 Fresno_Pacific 	 24.096774
+983.	 1.034842 	 Niagara_Co 	 18.766667
+984.	 0.995571 	 Columbia_CC 	 40.461538
+985.	 0.971782 	 Taylor_IN 	 68.838710
+986.	 0.969040 	 Contra_Costa 	 43.346154
+987.	 0.960892 	 Loyola_NO 	 32.085714
+988.	 0.951392 	 NJ_City 	 10.064516
+989.	 0.934226 	 OH_Dominican 	 36.714286
+990.	 0.931048 	 Lewis_&_Clark 	 59.433333
+991.	 0.914797 	 E_Mennonite 	 48.407407
+992.	 0.914567 	 Millersville 	 31.423077
+993.	 0.903736 	 Eastern_Oregon 	 40.375000
+994.	 0.892442 	 Alcorn_St 	 14.968750
+995.	 0.890435 	 Geneseo_St 	 45.923077
+996.	 0.861044 	 Cabrillo 	 40.629630
+997.	 0.852239 	 Chowan 	 41.827586
+998.	 0.847413 	 Eastern_Utah 	 19.545455
+999.	 0.835838 	 College_of_NJ 	 41.884615
+1000.	 0.806223 	 Gwynedd-Mercy 	 52.666667
+1001.	 0.791979 	 Centenary 	 46.178571
+1002.	 0.782380 	 Monterey_Peninsula 	 26.240000
+1003.	 0.769740 	 Brown_Mackie 	 44.160000
+1004.	 0.756121 	 Missouri_S&T 	 29.588235
+1005.	 0.734614 	 Erie_CC 	 53.434783
+1006.	 0.716494 	 Dowling 	 36.862069
+1007.	 0.709448 	 Jamestown 	 42.312500
+1008.	 0.667987 	 Maine 	 34.354839
+1009.	 0.661327 	 Benedictine_IL 	 51.185185
+1010.	 0.636737 	 NYIT 	 19.538462
+1011.	 0.636716 	 Delta_Col 	 46.322581
+1012.	 0.633228 	 Staten_Island 	 4.190476
+1013.	 0.628588 	 Lee-McRae 	 32.964286
+1014.	 0.615317 	 MA_Dartmouth 	 44.576923
+1015.	 0.613123 	 Colby_CC 	 21.217391
+1016.	 0.588079 	 SE_Illinois 	 53.466667
+1017.	 0.585180 	 Huntington 	 35.633333
+1018.	 0.584429 	 Central_St_OH 	 46.566667
+1019.	 0.579985 	 Hastings 	 32.903226
+1020.	 0.575316 	 WI_LaCrosse 	 53.937500
+1021.	 0.572386 	 Iowa_Cent 	 48.968750
+1022.	 0.563548 	 E_Nazarene 	 61.444444
+1023.	 0.559686 	 Cowley_Co 	 26.566667
+1024.	 0.545849 	 East_Georgia_Col 	 29.423077
+1025.	 0.542700 	 Eastern_OK_St 	 30.894737
+1026.	 0.516623 	 Misericordia 	 30.307692
+1027.	 0.497998 	 Trevecca_Naz 	 41.200000
+1028.	 0.492773 	 Northwest_WA 	 47.458333
+1029.	 0.491578 	 Chadron_St 	 20.538462
+1030.	 0.466858 	 NE_Wesleyan 	 35.206897
+1031.	 0.463084 	 Morehouse 	 41.029412
+1032.	 0.462239 	 LSU_Shreveport 	 53.031250
+1033.	 0.434311 	 Birmingham_So 	 47.714286
+1034.	 0.430985 	 S_Suburban 	 15.840000
+1035.	 0.420578 	 MS_Valley_St 	 39.695652
+1036.	 0.402245 	 Bryant_&_Stratton 	 56.440000
+1037.	 0.379023 	 Carnegie_Mellon 	 44.080000
+1038.	 0.345911 	 Clinton_JC 	 32.300000
+1039.	 0.328932 	 Gordon_GA 	 37.250000
+1040.	 0.315915 	 Cape_Breton 	 53.034483
+1041.	 0.314385 	 Lycoming 	 16.708333
+1042.	 0.288679 	 Western_ON 	 55.812500
+1043.	 0.281198 	 Sandhills_CC 	 4.700000
+1044.	 0.276717 	 McCook_CC 	 41.823529
+1045.	 0.263993 	 Lincoln_Trail 	 44.148148
+1046.	 0.251414 	 Grandview 	 43.517241
+1047.	 0.225187 	 Coe 	 47.115385
+1048.	 0.186506 	 NE_Oklahoma 	 48.076923
+1049.	 0.156921 	 PR_Rio_Piedras 	 9.111111
+1050.	 0.154812 	 Iowa_Lakes_CC 	 28.173913
+1051.	 0.152210 	 Edmonds_CC 	 73.300000
+1052.	 0.142003 	 Butte_Col 	 47.500000
+1053.	 0.113418 	 Cedarville 	 34.827586
+1054.	 0.095902 	 Flagler 	 30.518519
+1055.	 0.079455 	 Peru_St 	 50.344828
+1056.	 0.074457 	 WI_Eau_Claire 	 64.766667
+1057.	 0.057610 	 Russell_Sage 	 53.400000
+1058.	 0.055734 	 Wayne_St_NE 	 14.120000
+1059.	 0.052588 	 Asbury 	 55.875000
+1060.	 0.035748 	 Bridgewater_MA 	 53.884615
+1061.	 0.012749 	 Langston 	 72.222222
+1062.	 0.011031 	 Aurora 	 56.137931
+1063.	 0.008080 	 Tiffin 	 9.846154
+1064.	 0.005808 	 Lamar_CC 	 38.933333
+1065.	 -0.007668 	 St_Gregory's 	 37.967742
+1066.	 -0.014634 	 Cabrini 	 58.592593
+1067.	 -0.036703 	 Olive-Harvey 	 52.419355
+1068.	 -0.048321 	 Rochester_C&T 	 27.538462
+1069.	 -0.056938 	 Finger_Lakes_CC 	 79.296296
+1070.	 -0.062894 	 LeMoyne-Owen 	 49.071429
+1071.	 -0.073895 	 Albion 	 33.640000
+1072.	 -0.093834 	 Tabor 	 43.393939
+1073.	 -0.105346 	 St_Mary's_NS 	 11.640000
+1074.	 -0.124673 	 Messiah 	 52.458333
+1075.	 -0.130932 	 MA_Boston 	 51.961538
+1076.	 -0.132721 	 Roane_St 	 10.600000
+1077.	 -0.140809 	 Catawba 	 35.064516
+1078.	 -0.169077 	 Wabash_Val 	 48.962963
+1079.	 -0.176455 	 Hinds_CC 	 28.000000
+1080.	 -0.187903 	 Hamline 	 32.560000
+1081.	 -0.200382 	 Lindenwood-Belleville 	 46.137931
+1082.	 -0.208492 	 Bloomfield 	 35.703704
+1083.	 -0.211890 	 Highline_CC 	 57.724138
+1084.	 -0.212931 	 Colby 	 43.200000
+1085.	 -0.247097 	 Thomas_GA 	 52.968750
+1086.	 -0.266482 	 AK_Fairbanks 	 22.615385
+1087.	 -0.274563 	 Rochester_NY 	 47.545455
+1088.	 -0.289802 	 Pfeiffer 	 45.909091
+1089.	 -0.294035 	 Buffalo_St 	 50.760000
+1090.	 -0.296458 	 Carleton_MN 	 28.920000
+1091.	 -0.318287 	 Big_Bend_CC 	 56.827586
+1092.	 -0.325301 	 Lourdes 	 54.750000
+1093.	 -0.332174 	 John_Brown 	 48.800000
+1094.	 -0.340090 	 Concordia_WI 	 52.275862
+1095.	 -0.384403 	 N_New_Mexico 	 22.928571
+1096.	 -0.387019 	 Frederick_CC 	 63.066667
+1097.	 -0.387045 	 TX_Wesleyan 	 47.852941
+1098.	 -0.391623 	 Grand_Rapids_CC 	 45.916667
+1099.	 -0.392933 	 Bishop's 	 25.857143
+1100.	 -0.394915 	 Whittier 	 65.703704
+1101.	 -0.399815 	 Mansfield 	 57.807692
+1102.	 -0.403774 	 Ramapo 	 47.923077
+1103.	 -0.414899 	 Miramar 	 37.851852
+1104.	 -0.415681 	 CS_Dom._Hills 	 17.620690
+1105.	 -0.418897 	 Brewton-Parker 	 40.064516
+1106.	 -0.447260 	 MT_St_Northern 	 35.533333
+1107.	 -0.449134 	 Concordia_MI 	 38.939394
+1108.	 -0.481395 	 Tougaloo 	 26.500000
+1109.	 -0.484892 	 Mid_Am_Nazarene 	 50.827586
+1110.	 -0.491542 	 Itawamba_CC 	 14.458333
+1111.	 -0.494782 	 Bor_Manhattan 	 72.200000
+1112.	 -0.500558 	 Lincoln_Col 	 22.266667
+1113.	 -0.501025 	 Anderson_SC 	 38.035714
+1114.	 -0.509258 	 Vancouver_Island 	 18.090909
+1115.	 -0.510533 	 St_Joseph's_IN 	 57.464286
+1116.	 -0.523543 	 Treasure_Val_CC 	 36.346154
+1117.	 -0.529614 	 McDaniel_Col 	 39.920000
+1118.	 -0.532916 	 Shippensburg 	 37.611111
+1119.	 -0.535711 	 W_Oklahoma_St 	 9.038462
+1120.	 -0.538533 	 Denison 	 39.269231
+1121.	 -0.550640 	 Univ_of_Southwest 	 24.181818
+1122.	 -0.560074 	 Georgia_C&S 	 23.785714
+1123.	 -0.566470 	 Hampden-Sydney 	 39.678571
+1124.	 -0.605897 	 MN_Crookston 	 41.280000
+1125.	 -0.607667 	 Lane 	 53.321429
+1126.	 -0.608577 	 Dalhousie 	 48.600000
+1127.	 -0.615652 	 Cecil_Col 	 45.769231
+1128.	 -0.616937 	 Cent_Arkansas 	 10.870968
+1129.	 -0.618716 	 Lawson_St 	 12.400000
+1130.	 -0.629161 	 Grinnell 	 71.840000
+1131.	 -0.640978 	 Gadsden_St_CC 	 49.464286
+1132.	 -0.657839 	 Westminster_UT 	 21.259259
+1133.	 -0.660861 	 Tuskegee 	 19.566667
+1134.	 -0.664577 	 Ventura_Col 	 18.470588
+1135.	 -0.674072 	 Dallas_Univ 	 50.037037
+1136.	 -0.699115 	 Green_River_CC 	 50.375000
+1137.	 -0.716361 	 West_Florida 	 44.103448
+1138.	 -0.716837 	 Cypress 	 28.444444
+1139.	 -0.729690 	 Lurleen_Wallace 	 45.074074
+1140.	 -0.752896 	 Oglethorpe 	 0.000000
+1141.	 -0.756294 	 NM_Highlands 	 48.586207
+1142.	 -0.762845 	 Carroll_MT 	 40.500000
+1143.	 -0.765863 	 Cent_Methodist 	 53.656250
+1144.	 -0.785845 	 Roberts_Wslyn 	 42.696970
+1145.	 -0.792280 	 Brandeis 	 23.640000
+1146.	 -0.801267 	 S_Dakota_Tech 	 52.909091
+1147.	 -0.804319 	 Gettysburg 	 38.777778
+1148.	 -0.811820 	 Shawnee_CC 	 33.172414
+1149.	 -0.836270 	 W_Connecticut 	 37.187500
+1150.	 -0.837198 	 Spring_Arbor 	 48.100000
+1151.	 -0.840784 	 Bethany_KS 	 53.903226
+1152.	 -0.859552 	 Rend_Lake 	 50.218750
+1153.	 -0.861095 	 Friends 	 38.696970
+1154.	 -0.892365 	 Barton 	 39.758621
+1155.	 -0.897763 	 Milligan 	 39.333333
+1156.	 -0.922055 	 Wm_Jessup 	 48.781250
+1157.	 -0.925291 	 Garrett 	 63.464286
+1158.	 -0.935513 	 The_Master's 	 28.906250
+1159.	 -0.943802 	 Rio_Grande 	 17.714286
+1160.	 -0.951604 	 Central_IA 	 48.038462
+1161.	 -0.952059 	 Carthage 	 29.080000
+1162.	 -0.954321 	 Ohio_Valley 	 57.242424
+1163.	 -0.958594 	 MT-Great_Falls 	 58.406250
+1164.	 -0.966779 	 Trinidad_St_JC 	 43.925926
+1165.	 -0.977012 	 Alma 	 30.296296
+1166.	 -0.984437 	 Ohio_Northern 	 0.000000
+1167.	 -1.005921 	 SW_Univ_TX 	 74.307692
+1168.	 -1.006717 	 MT_Tech 	 14.366667
+1169.	 -1.028772 	 Rutgers-Camden 	 22.363636
+1170.	 -1.038192 	 Ohio_Chr 	 29.250000
+1171.	 -1.040775 	 Wilmington_OH 	 26.903226
+1172.	 -1.044363 	 Monmouth_IL 	 40.689655
+1173.	 -1.070102 	 Kalamazoo_Val 	 16.038462
+1174.	 -1.089151 	 Kennedy-King 	 10.045455
+1175.	 -1.105376 	 Simon_Fraser 	 29.285714
+1176.	 -1.110733 	 Mayville_St 	 35.681818
+1177.	 -1.121436 	 Cleveland_St_CC 	 28.925926
+1178.	 -1.135885 	 USC_Salkehatchie 	 26.312500
+1179.	 -1.139643 	 Wabash 	 46.080000
+1180.	 -1.147452 	 Hamilton 	 39.666667
+1181.	 -1.208726 	 Baltimore_City_CC 	 49.448276
+1182.	 -1.220263 	 Fitchburg_St 	 43.206897
+1183.	 -1.238316 	 NW_Oklahoma_St 	 34.375000
+1184.	 -1.249171 	 Williams_Bap 	 48.680000
+1185.	 -1.250029 	 Thompson_Riv 	 50.629630
+1186.	 -1.293245 	 Highland_CC_KS 	 24.846154
+1187.	 -1.298212 	 Brescia 	 49.193548
+1188.	 -1.311795 	 Cal_Maritime 	 44.242424
+1189.	 -1.332039 	 Florida_National 	 43.652174
+1190.	 -1.347741 	 Riverside_CC 	 36.869565
+1191.	 -1.360194 	 Armstrong_Atl 	 19.040000
+1192.	 -1.364646 	 Salem_MA 	 26.714286
+1193.	 -1.370061 	 Joliet_JC 	 0.000000
+1194.	 -1.386351 	 R_Morris_Chi 	 7.565217
+1195.	 -1.387264 	 SUNY_Oneonta 	 30.840000
+1196.	 -1.387429 	 Wenatchee_Val_CC 	 17.692308
+1197.	 -1.390332 	 J&W_FL 	 2.312500
+1198.	 -1.398215 	 Thomas_More 	 38.230769
+1199.	 -1.415100 	 Copiah-Lincoln 	 22.913043
+1200.	 -1.422926 	 Wartburg 	 41.600000
+1201.	 -1.428522 	 York_ON 	 36.892857
+1202.	 -1.434301 	 Meridian_CC 	 33.318182
+1203.	 -1.441433 	 Roosevelt 	 24.821429
+1204.	 -1.457289 	 Wittenberg 	 66.441176
+1205.	 -1.457353 	 North_Lake 	 58.888889
+1206.	 -1.468460 	 Lake_Region 	 49.840000
+1207.	 -1.485634 	 E_New_Mexico 	 22.750000
+1208.	 -1.489498 	 Madonna 	 45.928571
+1209.	 -1.490991 	 Edward_Waters 	 37.032258
+1210.	 -1.492331 	 Clarion 	 32.538462
+1211.	 -1.510606 	 Lehman 	 43.925926
+1212.	 -1.511739 	 Concordia_AL 	 52.958333
+1213.	 -1.546369 	 Ark_Monticello 	 20.500000
+1214.	 -1.562597 	 Manor 	 41.903226
+1215.	 -1.601717 	 IL_Central 	 37.521739
+1216.	 -1.605090 	 Cerritos_Col 	 26.071429
+1217.	 -1.608116 	 Laval 	 37.235294
+1218.	 -1.622114 	 Lebanon_Val 	 15.160000
+1219.	 -1.654974 	 Averett 	 47.285714
+1220.	 -1.658915 	 Heidelberg 	 34.923077
+1221.	 -1.671168 	 Augsburg 	 30.280000
+1222.	 -1.678539 	 Wallace_St 	 32.500000
+1223.	 -1.699910 	 Northwestern_MN 	 55.032258
+1224.	 -1.708398 	 Mtn_View 	 46.032258
+1225.	 -1.712966 	 Rochester_MI 	 73.678571
+1226.	 -1.714655 	 Scottsdale_CC 	 31.370370
+1227.	 -1.720156 	 Oklahoma_Chr 	 51.906250
+1228.	 -1.724060 	 Mohawk_Val 	 77.076923
+1229.	 -1.724661 	 LA_Valley_Col 	 16.307692
+1230.	 -1.731440 	 Regis_CO 	 30.935484
+1231.	 -1.733773 	 Brookhaven 	 38.777778
+1232.	 -1.771867 	 Alfred 	 54.074074
+1233.	 -1.781025 	 Waynesburg 	 18.096774
+1234.	 -1.790441 	 Mobile 	 51.000000
+1235.	 -1.793102 	 York_NE 	 43.240000
+1236.	 -1.797011 	 Wilmington_DE 	 80.000000
+1237.	 -1.799721 	 Hood 	 38.142857
+1238.	 -1.821645 	 Hanover 	 36.370370
+1239.	 -1.835634 	 Santa_Ana_Col 	 69.571429
+1240.	 -1.842510 	 Macomb_CC 	 42.076923
+1241.	 -1.860647 	 Harford_CC 	 46.875000
+1242.	 -1.861934 	 St_Thomas_TX 	 38.440000
+1243.	 -1.891664 	 Calgary 	 47.055556
+1244.	 -1.892382 	 Chemekata_CC 	 58.920000
+1245.	 -1.910091 	 Carl_Albert 	 17.760000
+1246.	 -1.911347 	 Chestnut_Hill 	 19.115385
+1247.	 -1.930876 	 Fisher 	 58.241379
+1248.	 -1.938233 	 Miles_CC 	 10.620690
+1249.	 -1.956874 	 Greensboro 	 44.555556
+1250.	 -1.983421 	 Urbana 	 18.807692
+1251.	 -2.018348 	 Sullivan_Co 	 15.760000
+1252.	 -2.024376 	 N_Arkansas 	 69.647059
+1253.	 -2.026024 	 Southwestern_KS 	 45.000000
+1254.	 -2.027340 	 Avila 	 33.941176
+1255.	 -2.029518 	 Brockport_St 	 41.111111
+1256.	 -2.045026 	 Northern_BC 	 41.212121
+1257.	 -2.052911 	 Union_NY 	 24.625000
+1258.	 -2.054918 	 Muhlenberg 	 36.885714
+1259.	 -2.070534 	 Rose-Hulman 	 41.233333
+1260.	 -2.077815 	 Puget_Sound 	 13.333333
+1261.	 -2.080891 	 UPEI 	 39.818182
+1262.	 -2.082926 	 Webber 	 0.000000
+1263.	 -2.087180 	 Humber 	 65.240000
+1264.	 -2.096286 	 Simpson_CA 	 50.115385
+1265.	 -2.111038 	 Spokane_CC 	 47.230769
+1266.	 -2.121617 	 Concordia_QC 	 32.151515
+1267.	 -2.121776 	 Sewanee 	 19.307692
+1268.	 -2.137254 	 Lancaster_Bib 	 43.640000
+1269.	 -2.139551 	 Belhaven_MS 	 30.484848
+1270.	 -2.142751 	 Pace 	 19.153846
+1271.	 -2.158510 	 Indian_River 	 19.625000
+1272.	 -2.200131 	 Colby-Sawyer 	 59.923077
+1273.	 -2.201209 	 Napa_Valley_CC 	 45.500000
+1274.	 -2.207922 	 Feather_River 	 45.200000
+1275.	 -2.222726 	 Patrick_Henry_CC 	 23.851852
+1276.	 -2.247058 	 Rockhurst 	 22.520000
+1277.	 -2.259323 	 St_Lawrence 	 62.666667
+1278.	 -2.261107 	 Randolph_Col 	 41.400000
+1279.	 -2.269174 	 Lock_Haven 	 54.275862
+1280.	 -2.272245 	 Albany_Tech 	 18.478261
+1281.	 -2.278061 	 Waldorf 	 23.307692
+1282.	 -2.308624 	 Eliz._City_St 	 25.900000
+1283.	 -2.310074 	 Hartwick 	 45.500000
+1284.	 -2.336754 	 Fort_Scott_CC 	 30.592593
+1285.	 -2.340672 	 WV_State 	 34.125000
+1286.	 -2.357647 	 Shawnee_St 	 22.333333
+1287.	 -2.362828 	 SW_Chr_TX 	 27.896552
+1288.	 -2.378187 	 Virginia_Union 	 24.969697
+1289.	 -2.389029 	 N_Iowa_CC 	 34.066667
+1290.	 -2.418547 	 Maryville_TN 	 34.366667
+1291.	 -2.432424 	 Wayne_Co 	 69.852941
+1292.	 -2.433636 	 Black_Hawk-M 	 39.200000
+1293.	 -2.442788 	 LA_Trade-Tech 	 34.826087
+1294.	 -2.451767 	 Bloomsburg 	 32.192308
+1295.	 -2.468464 	 Hilbert 	 61.500000
+1296.	 -2.503560 	 Albright 	 28.916667
+1297.	 -2.516081 	 Oklahoma_S&A 	 19.037037
+1298.	 -2.547106 	 Limestone 	 46.838710
+1299.	 -2.562034 	 Pitt_CC 	 50.578947
+1300.	 -2.576251 	 Culver-Stockton 	 40.121212
+1301.	 -2.579056 	 Point_Park 	 54.000000
+1302.	 -2.582905 	 SW_Christian 	 24.592593
+1303.	 -2.587100 	 El_Camino_Col 	 23.833333
+1304.	 -2.601594 	 Notre_Dame_CA 	 69.352941
+1305.	 -2.604893 	 Eastern_Arizona 	 21.500000
+1306.	 -2.623495 	 Denmark_Tech 	 46.928571
+1307.	 -2.626098 	 St_Martin's 	 6.200000
+1308.	 -2.640512 	 Seton_Hill 	 38.516129
+1309.	 -2.643395 	 Nyack 	 18.640000
+1310.	 -2.650219 	 Sacramento_City 	 17.925926
+1311.	 -2.656235 	 Bethany_WV 	 44.620690
+1312.	 -2.656353 	 Murray_St_CC 	 68.406250
+1313.	 -2.662625 	 Regis_MA 	 14.111111
+1314.	 -2.670816 	 Viterbo 	 0.000000
+1315.	 -2.678737 	 Chand-Gilbert 	 17.304348
+1316.	 -2.679330 	 Grossmont 	 22.370370
+1317.	 -2.695683 	 Berkeley_NYC 	 66.631579
+1318.	 -2.696723 	 PR_Mayaguez 	 30.416667
+1319.	 -2.700492 	 Western_St_CO 	 48.516129
+1320.	 -2.716944 	 Colorado_Col 	 37.576923
+1321.	 -2.731996 	 Delaware_Val 	 45.296296
+1322.	 -2.733332 	 Orange_Coast 	 32.954545
+1323.	 -2.748361 	 Nassau_CC 	 35.518519
+1324.	 -2.757762 	 DeSales 	 47.074074
+1325.	 -2.776796 	 Pomona_Pitzer 	 48.916667
+1326.	 -2.786422 	 Eastfield_Col 	 37.166667
+1327.	 -2.786750 	 Grambling 	 4.448276
+1328.	 -2.797621 	 Holy_Cross_IN 	 36.218750
+1329.	 -2.801389 	 Millikin 	 45.406250
+1330.	 -2.851666 	 York_NY 	 38.531250
+1331.	 -2.872223 	 Webster_Univ 	 31.000000
+1332.	 -2.873769 	 De_Anza_Col 	 33.000000
+1333.	 -2.893204 	 Ottawa_KS 	 36.160000
+1334.	 -2.895110 	 Langara 	 48.640000
+1335.	 -2.900541 	 Methodist 	 42.541667
+1336.	 -2.910589 	 Reinhardt 	 46.607143
+1337.	 -2.917154 	 Auburn_M'gomery 	 35.096774
+1338.	 -2.925428 	 Oakland_City 	 65.230769
+1339.	 -2.936624 	 Independence_CC 	 10.807692
+1340.	 -2.937326 	 St_Augustine's 	 57.620690
+1341.	 -2.939296 	 Wytheville_CC 	 48.529412
+1342.	 -2.944026 	 Jamestown_CC 	 53.484848
+1343.	 -2.945040 	 Ripon 	 45.266667
+1344.	 -2.956341 	 Bluffton 	 43.821429
+1345.	 -2.957204 	 San_Diego_Chr 	 34.935484
+1346.	 -2.994190 	 Blue_Mtn 	 27.137931
+1347.	 -2.995374 	 Truett-McConnell 	 24.896552
+1348.	 -2.999481 	 Doane 	 23.161290
+1349.	 -3.013563 	 Mid_Georgia 	 29.866667
+1350.	 -3.025249 	 Cumberland_TN 	 21.633333
+1351.	 -3.026052 	 LaGrange 	 49.125000
+1352.	 -3.034531 	 St_Joseph's_NY 	 36.333333
+1353.	 -3.045977 	 Schreiner 	 78.468750
+1354.	 -3.046361 	 Wash_&_Lee 	 6.153846
+1355.	 -3.080570 	 Widener 	 62.281250
+1356.	 -3.096201 	 Florida_A&M 	 4.172414
+1357.	 -3.101672 	 Regina 	 20.923077
+1358.	 -3.101885 	 PSU-Fayette 	 30.863636
+1359.	 -3.112346 	 MT_St-Billings 	 50.185185
+1360.	 -3.118295 	 TN_Wesleyan 	 21.370370
+1361.	 -3.122684 	 Johnson_Co 	 34.037037
+1362.	 -3.126686 	 Mohawk 	 16.000000
+1363.	 -3.133514 	 Panola 	 8.678571
+1364.	 -3.143136 	 Labette_CC 	 22.000000
+1365.	 -3.156793 	 Lewis_&_Clark_CC 	 42.370370
+1366.	 -3.175963 	 Brunswick_CC 	 27.185185
+1367.	 -3.202399 	 Felician 	 19.520000
+1368.	 -3.213304 	 Lincoln_MO 	 77.031250
+1369.	 -3.213915 	 Central_Chr 	 43.352941
+1370.	 -3.236467 	 Anderson_IN 	 43.461538
+1371.	 -3.241870 	 J&W_NC 	 43.862069
+1372.	 -3.269087 	 Central_Lakes 	 71.966667
+1373.	 -3.272720 	 Col_of_Dupage 	 44.275862
+1374.	 -3.281328 	 Lenoir_Rhyne 	 32.360000
+1375.	 -3.295593 	 LA_Southwest 	 16.440000
+1376.	 -3.304017 	 Madison_Col 	 41.076923
+1377.	 -3.315959 	 Laurier 	 29.791667
+1378.	 -3.318704 	 Skagit_Val_CC 	 11.520000
+1379.	 -3.326783 	 Purdue_Calumet 	 46.515152
+1380.	 -3.345344 	 Lakeland 	 44.151515
+1381.	 -3.351553 	 Ancilla 	 41.043478
+1382.	 -3.354882 	 Loras 	 41.357143
+1383.	 -3.374434 	 Milwaukee_Tech 	 37.923077
+1384.	 -3.377291 	 Presentation 	 22.968750
+1385.	 -3.398904 	 Stevens_Tech 	 22.000000
+1386.	 -3.411182 	 Guelph 	 32.225806
+1387.	 -3.426198 	 Becker 	 43.807692
+1388.	 -3.434995 	 Wallace_CC-Selma 	 45.000000
+1389.	 -3.447752 	 SUNY_New_Paltz 	 5.833333
+1390.	 -3.456578 	 McMurry 	 73.035714
+1391.	 -3.460602 	 Bristol 	 28.809524
+1392.	 -3.485219 	 Edgewood 	 40.370370
+1393.	 -3.488013 	 Capital 	 23.346154
+1394.	 -3.498759 	 West_Hills 	 64.666667
+1395.	 -3.499047 	 Medaille 	 41.307692
+1396.	 -3.515936 	 Tusculum 	 0.000000
+1397.	 -3.517099 	 Brevard 	 30.833333
+1398.	 -3.526269 	 Dakota_Co_Tech 	 52.347826
+1399.	 -3.544458 	 Queens_NY 	 47.645161
+1400.	 -3.549714 	 IN_S_Bend 	 29.500000
+1401.	 -3.559342 	 StL_CC-Meramec 	 48.285714
+1402.	 -3.566913 	 Calumet-St_Jos 	 34.766667
+1403.	 -3.567838 	 Bryan 	 41.793103
+1404.	 -3.579520 	 CSU_East_Bay 	 14.642857
+1405.	 -3.579775 	 Concordia_NY 	 31.928571
+1406.	 -3.606259 	 Clackamas_CC 	 50.321429
+1407.	 -3.616312 	 Roanoke 	 33.952381
+1408.	 -3.625309 	 Huston-Tillot 	 25.870968
+1409.	 -3.643067 	 Indiana_Tech 	 35.468750
+1410.	 -3.646853 	 Southside_VA_CC 	 48.761905
+1411.	 -3.666794 	 Trinity_IL 	 0.000000
+1412.	 -3.667916 	 Voorhees 	 11.923077
+1413.	 -3.685226 	 Olney 	 63.235294
+1414.	 -3.697024 	 Holy_Names 	 7.448276
+1415.	 -3.711198 	 CCBC_Catonsville 	 50.423077
+1416.	 -3.716079 	 LaGuardia_CC 	 51.172414
+1417.	 -3.716989 	 Luther_IA 	 38.629630
+1418.	 -3.717521 	 Transylvania 	 26.000000
+1419.	 -3.742559 	 Manitoba 	 23.040000
+1420.	 -3.743044 	 Kentucky_St 	 29.100000
+1421.	 -3.787788 	 Bossier_Parish 	 6.961538
+1422.	 -3.801662 	 Park 	 40.285714
+1423.	 -3.805398 	 Dickinson_St_ND 	 31.812500
+1424.	 -3.824249 	 Toronto 	 30.080000
+1425.	 -3.839202 	 Cuyamaca 	 19.115385
+1426.	 -3.843275 	 Northern_Virginia_CC 	 55.375000
+1427.	 -3.848523 	 Washington_Advt 	 37.096774
+1428.	 -3.853609 	 Spalding 	 49.363636
+1429.	 -3.856504 	 Lake_Forest 	 35.555556
+1430.	 -3.866630 	 Pierce_CC 	 16.900000
+1431.	 -3.875680 	 Corning_CC 	 63.551724
+1432.	 -3.882812 	 Delgado_CC 	 18.652174
+1433.	 -3.883414 	 Bismarck_St 	 33.960000
+1434.	 -3.924727 	 Laurentian 	 57.481481
+1435.	 -3.927429 	 Brock 	 36.151515
+1436.	 -3.972571 	 Lower_Columbia 	 37.774194
+1437.	 -3.975627 	 Mars_Hill 	 31.060606
+1438.	 -3.997348 	 Florida_St-Jax 	 11.137931
+1439.	 -4.001950 	 Bridgewater_VA 	 29.000000
+1440.	 -4.010622 	 Cedar_Valley 	 20.913043
+1441.	 -4.018089 	 Marian_WI 	 36.870968
+1442.	 -4.019502 	 Dean 	 76.300000
+1443.	 -4.031644 	 Adrian 	 20.576923
+1444.	 -4.100941 	 Swarthmore 	 39.481481
+1445.	 -4.116964 	 Erskine 	 22.548387
+1446.	 -4.120283 	 Walla_Walla_CC 	 22.960000
+1447.	 -4.133169 	 St_Catharine 	 42.290323
+1448.	 -4.142804 	 NC_Wesleyan 	 45.666667
+1449.	 -4.161645 	 Clark_MA 	 25.840000
+1450.	 -4.175169 	 Morton 	 45.000000
+1451.	 -4.202821 	 Howard_CC 	 42.916667
+1452.	 -4.209217 	 WI_Superior 	 9.320000
+1453.	 -4.225990 	 Ave_Maria 	 24.218750
+1454.	 -4.231084 	 Peace 	 7.137931
+1455.	 -4.234111 	 MI_Dearborn 	 61.031250
+1456.	 -4.254295 	 Lyon 	 55.586207
+1457.	 -4.273891 	 Crowley's_Ridge 	 63.125000
+1458.	 -4.275976 	 Neumann 	 67.400000
+1459.	 -4.290571 	 Rosemont 	 41.269231
+1460.	 -4.307990 	 Columbia_Basin 	 54.100000
+1461.	 -4.316493 	 Rochester_Tech 	 29.481481
+1462.	 -4.321609 	 Anoka_Ramsey 	 49.766667
+1463.	 -4.382192 	 W_New_Mexico 	 21.423077
+1464.	 -4.398593 	 Drew 	 39.538462
+1465.	 -4.413946 	 Goldey_Beacom 	 20.344828
+1466.	 -4.418683 	 Piedmont 	 70.142857
+1467.	 -4.420213 	 Husson 	 55.482759
+1468.	 -4.469164 	 Hostos_CC 	 50.870968
+1469.	 -4.486759 	 Emerson 	 29.115385
+1470.	 -4.503169 	 Immaculata 	 33.000000
+1471.	 -4.518373 	 Central_Penn 	 59.666667
+1472.	 -4.526795 	 IN_Southeast 	 28.125000
+1473.	 -4.527202 	 SUNY_Canton 	 66.586207
+1474.	 -4.528144 	 Wilkes 	 60.903226
+1475.	 -4.531271 	 King's_PA 	 9.285714
+1476.	 -4.533055 	 Ithaca 	 24.043478
+1477.	 -4.604106 	 Mt_Royal 	 72.406250
+1478.	 -4.607360 	 Wesley_DE 	 32.357143
+1479.	 -4.618045 	 St_Katherine 	 27.677419
+1480.	 -4.619925 	 Thiel 	 28.758621
+1481.	 -4.649552 	 Vermilion_CC 	 28.892857
+1482.	 -4.674131 	 Centenary_NJ 	 39.000000
+1483.	 -4.675845 	 Sterling 	 55.034483
+1484.	 -4.685644 	 Sauk_Valley_CC 	 60.885714
+1485.	 -4.720003 	 State_Col_Fla 	 44.187500
+1486.	 -4.746539 	 MacMurray 	 16.040000
+1487.	 -4.759313 	 Mid-South_CC 	 29.722222
+1488.	 -4.763452 	 Pacific_OR 	 27.322581
+1489.	 -4.786110 	 Montclair_St 	 18.900000
+1490.	 -4.797300 	 Mercy 	 24.640000
+1491.	 -4.810970 	 Bluefield_WV 	 32.125000
+1492.	 -4.814654 	 Siena_Hts 	 26.483871
+1493.	 -4.818703 	 Willamette 	 36.680000
+1494.	 -4.819879 	 Ranger 	 67.419355
+1495.	 -4.851834 	 Spring_Hill 	 30.064516
+1496.	 -4.873101 	 Apprentice 	 50.200000
+1497.	 -4.877497 	 Davis_&_Elkins 	 15.692308
+1498.	 -4.882910 	 Lake_Co 	 50.642857
+1499.	 -4.915813 	 Allegheny 	 28.807692
+1500.	 -4.929762 	 Snead_St 	 58.121212
+1501.	 -4.935356 	 Carl_Sandburg 	 30.851852
+1502.	 -4.938290 	 Alice_Lloyd 	 33.896552
+1503.	 -4.969916 	 Bronx_CC 	 50.142857
+1504.	 -4.970738 	 Frostburg_St 	 30.800000
+1505.	 -4.971544 	 Rensselaer 	 32.481481
+1506.	 -4.982178 	 Clarendon 	 7.888889
+1507.	 -4.984400 	 Porterville 	 27.192308
+1508.	 -4.990713 	 Eastern_Wyoming 	 10.136364
+1509.	 -5.035718 	 Lane_CC 	 43.482759
+1510.	 -5.038153 	 Oberlin 	 23.894737
+1511.	 -5.087492 	 Pac_Lutheran 	 21.062500
+1512.	 -5.100744 	 Peninsula 	 62.370370
+1513.	 -5.125746 	 Redlands 	 42.791667
+1514.	 -5.140987 	 Hiram 	 30.653846
+1515.	 -5.155090 	 Gloucester_Co 	 63.090909
+1516.	 -5.182025 	 Sinclair_CC 	 17.800000
+1517.	 -5.192950 	 Trinity_Bap 	 29.173913
+1518.	 -5.238546 	 Lincoln_Land 	 66.086957
+1519.	 -5.257187 	 Holland 	 82.333333
+1520.	 -5.260445 	 Greenville 	 41.560000
+1521.	 -5.269793 	 Bluefield_VA 	 32.200000
+1522.	 -5.302096 	 St_Joseph's_ME 	 46.814815
+1523.	 -5.302152 	 Mary_Washington 	 22.769231
+1524.	 -5.318801 	 Baker_KS 	 20.750000
+1525.	 -5.339303 	 Highland_CC_IL 	 37.758621
+1526.	 -5.397045 	 Mendocino 	 42.111111
+1527.	 -5.403937 	 Lawrence_Tech 	 32.086957
+1528.	 -5.412149 	 Kenyon 	 26.925926
+1529.	 -5.423836 	 AL_Southern 	 21.034483
+1530.	 -5.467621 	 Mt_St_Vincent 	 45.781250
+1531.	 -5.476813 	 Milwaukee_Eng 	 18.192308
+1532.	 -5.489138 	 Ursinus 	 18.166667
+1533.	 -5.506184 	 Wentworth_Tech 	 14.000000
+1534.	 -5.566832 	 Potomac_St-WVU 	 34.846154
+1535.	 -5.589193 	 Queen's_ON 	 24.656250
+1536.	 -5.593624 	 Anna_Maria 	 42.000000
+1537.	 -5.616493 	 Occidental 	 26.884615
+1538.	 -5.626400 	 Marywood 	 41.321429
+1539.	 -5.671136 	 Grace_NE 	 32.724138
+1540.	 -5.676030 	 Dawson_CC 	 25.291667
+1541.	 -5.681104 	 Waterloo 	 35.290323
+1542.	 -5.697539 	 La_Verne 	 24.692308
+1543.	 -5.712363 	 Valley_Forge 	 29.225806
+1544.	 -5.713866 	 Dyersburg_St 	 13.863636
+1545.	 -5.770175 	 Juniata 	 11.750000
+1546.	 -5.778772 	 Trinity_TX 	 34.290323
+1547.	 -5.790254 	 Hendrix 	 28.800000
+1548.	 -5.796233 	 Nazareth 	 27.937500
+1549.	 -5.799006 	 Lackawanna 	 24.653846
+1550.	 -5.799118 	 Enterprise_St 	 9.454545
+1551.	 -5.840166 	 Sul_Ross 	 41.423077
+1552.	 -5.840663 	 Lawrence 	 41.657143
+1553.	 -5.864030 	 Acadia 	 22.727273
+1554.	 -5.865646 	 Catawba_Val 	 32.821429
+1555.	 -5.882317 	 St_Clair_Co 	 29.190476
+1556.	 -5.884848 	 Fontbonne 	 33.928571
+1557.	 -5.903953 	 CT_College 	 23.347826
+1558.	 -5.914334 	 Dist_Columbia 	 16.178571
+1559.	 -5.914637 	 Prince_George's 	 46.258065
+1560.	 -5.928642 	 Everett_CC 	 44.033333
+1561.	 -5.937335 	 WI_Lutheran 	 29.320000
+1562.	 -5.970962 	 Shasta_Col 	 71.757576
+1563.	 -5.972661 	 Morthland 	 33.240000
+1564.	 -5.983241 	 Pitt-Bradford 	 56.896552
+1565.	 -6.010619 	 Austin_Col 	 21.846154
+1566.	 -6.012470 	 Purdue-N_Cent 	 37.300000
+1567.	 -6.055513 	 Oakwood 	 14.750000
+1568.	 -6.063358 	 Bard 	 32.080000
+1569.	 -6.093769 	 Pacific_Union 	 32.500000
+1570.	 -6.109740 	 Hillsdale_Bap 	 36.925926
+1571.	 -6.113497 	 Colorado_NW 	 11.653846
+1572.	 -6.123793 	 Glen_Oaks_CC 	 25.000000
+1573.	 -6.125409 	 Southern_N.O. 	 23.900000
+1574.	 -6.131989 	 Elmira 	 29.400000
+1575.	 -6.137805 	 R_Morris_Spfd 	 40.906250
+1576.	 -6.143638 	 Kean 	 53.961538
+1577.	 -6.152610 	 Pensacola_Chr 	 40.461538
+1578.	 -6.158924 	 Mercyhurst_NE 	 49.275862
+1579.	 -6.165334 	 West_Valley_Col 	 94.100000
+1580.	 -6.176709 	 Modesto_JC 	 27.896552
+1581.	 -6.232566 	 State_Fair_CC 	 13.000000
+1582.	 -6.260854 	 Lasell 	 43.310345
+1583.	 -6.263942 	 WI_Stout 	 56.800000
+1584.	 -6.268812 	 Jackson_CC 	 62.607143
+1585.	 -6.286511 	 UC_Santa_Cruz 	 39.892857
+1586.	 -6.298454 	 Arlington_Bap 	 30.200000
+1587.	 -6.300601 	 Evergreen_St 	 13.115385
+1588.	 -6.309090 	 Moraine_Val 	 49.103448
+1589.	 -6.314041 	 Carroll_WI 	 29.913043
+1590.	 -6.339000 	 Walla_Walla 	 36.375000
+1591.	 -6.345739 	 Albany_GA 	 26.678571
+1592.	 -6.370367 	 Henry_Ford_CC 	 21.080000
+1593.	 -6.377961 	 Clark_Atlanta 	 20.035714
+1594.	 -6.386640 	 Elms 	 34.120000
+1595.	 -6.399883 	 S_Wesleyan 	 19.120000
+1596.	 -6.402394 	 Volunteer_St 	 34.866667
+1597.	 -6.403654 	 Kalamazoo 	 31.920000
+1598.	 -6.405839 	 Plymouth_St 	 53.464286
+1599.	 -6.438285 	 Gordon 	 28.692308
+1600.	 -6.451560 	 Trinity_Chr 	 21.357143
+1601.	 -6.469386 	 Glendale_CA 	 7.318182
+1602.	 -6.485099 	 Valley_City_St 	 29.892857
+1603.	 -6.493700 	 Col_of_the_Redwoods 	 32.541667
+1604.	 -6.502714 	 FL_Memorial 	 9.000000
+1605.	 -6.515100 	 Macalester 	 28.586207
+1606.	 -6.518932 	 St_Joseph's_LI 	 17.482759
+1607.	 -6.529733 	 Mt_Hood_CC 	 24.200000
+1608.	 -6.543418 	 Tacoma_CC 	 45.314286
+1609.	 -6.549502 	 Dallas_Chr 	 34.137931
+1610.	 -6.593543 	 Wentworth_Mil 	 49.870968
+1611.	 -6.616299 	 Grace_Bib 	 32.333333
+1612.	 -6.632778 	 Univ_Ozarks 	 51.030303
+1613.	 -6.642296 	 SUNY-Cobleskill 	 5.916667
+1614.	 -6.653780 	 S_Maine_Tech 	 15.666667
+1615.	 -6.669144 	 UQAM 	 50.233333
+1616.	 -6.672916 	 Yeshiva 	 48.500000
+1617.	 -6.677080 	 San_Diego_Mesa 	 15.225806
+1618.	 -6.682684 	 Panhandle_St 	 37.884615
+1619.	 -6.741556 	 Mid-Michigan_CC 	 8.941176
+1620.	 -6.759190 	 UT_Tyler 	 35.600000
+1621.	 -6.771160 	 McPherson 	 36.096774
+1622.	 -6.785833 	 Rust 	 67.392857
+1623.	 -6.807992 	 Jarvis_Chr 	 13.944444
+1624.	 -6.816772 	 Univ_Lethbridge 	 0.000000
+1625.	 -6.819964 	 Georgian_Court 	 13.500000
+1626.	 -6.824567 	 Warren_Wilson 	 60.235294
+1627.	 -6.861620 	 Castleton 	 43.185185
+1628.	 -6.906367 	 PSU_York 	 39.166667
+1629.	 -6.909493 	 Elizabethtown 	 25.916667
+1630.	 -6.912875 	 Raritan_Val 	 8.208333
+1631.	 -6.928000 	 Eastern_Univ 	 31.920000
+1632.	 -6.947281 	 Clarke 	 10.857143
+1633.	 -6.948511 	 Lethbridge_Col 	 5.800000
+1634.	 -6.987546 	 Mitchell 	 46.481481
+1635.	 -7.012490 	 Miles 	 55.812500
+1636.	 -7.025810 	 Dakota-Bottineau 	 36.347826
+1637.	 -7.028258 	 UVA-Wise 	 33.240000
+1638.	 -7.041537 	 CC_of_RI 	 42.115385
+1639.	 -7.062813 	 Beloit 	 26.043478
+1640.	 -7.094702 	 Illinois_Val 	 29.814815
+1641.	 -7.095149 	 Oxnard 	 26.000000
+1642.	 -7.105692 	 Douglas 	 47.142857
+1643.	 -7.112371 	 Shoreline_CC 	 36.851852
+1644.	 -7.160729 	 Cheyney_St 	 5.535714
+1645.	 -7.169774 	 Keystone 	 34.344828
+1646.	 -7.197484 	 IU_Kokomo 	 39.923077
+1647.	 -7.201524 	 Portland_Bible 	 39.031250
+1648.	 -7.209655 	 Memorial 	 52.724138
+1649.	 -7.217108 	 Pitt-Greensburg 	 42.769231
+1650.	 -7.235480 	 Utica 	 50.562500
+1651.	 -7.241452 	 Bishop_St 	 15.434783
+1652.	 -7.337080 	 Salem_WV 	 39.370370
+1653.	 -7.370194 	 Hunter 	 24.222222
+1654.	 -7.371580 	 MA_Liberal_Arts 	 44.962963
+1655.	 -7.377568 	 Grant_MacEwan 	 25.312500
+1656.	 -7.397252 	 Merchant_Marine 	 64.807692
+1657.	 -7.403786 	 Ferrum 	 22.440000
+1658.	 -7.417568 	 Old_Westbury 	 52.387097
+1659.	 -7.422143 	 Gallaudet 	 52.840000
+1660.	 -7.485792 	 Haskell 	 22.666667
+1661.	 -7.503601 	 Mesabi_Range 	 54.586207
+1662.	 -7.510112 	 MN_Morris 	 61.787879
+1663.	 -7.532700 	 SUNY-Delhi 	 43.142857
+1664.	 -7.535634 	 Philadelphia_CC 	 54.030303
+1665.	 -7.552100 	 Alpena_CC 	 26.363636
+1666.	 -7.572933 	 Silver_Lake 	 39.206897
+1667.	 -7.620176 	 Columbus_St_CC 	 15.000000
+1668.	 -7.627771 	 Union_Co 	 44.064516
+1669.	 -7.641984 	 Simpson_IA 	 42.935484
+1670.	 -7.643575 	 DE_Tech_CC 	 35.423077
+1671.	 -7.658138 	 Le_Tourneau 	 39.068966
+1672.	 -7.683096 	 Elgin_CC 	 46.692308
+1673.	 -7.684534 	 Texas_Col 	 33.586207
+1674.	 -7.695512 	 Eureka 	 34.760000
+1675.	 -7.698385 	 Lone_Star_CC 	 31.444444
+1676.	 -7.714008 	 Marion_Mil 	 66.137931
+1677.	 -7.757024 	 Fullerton_Col 	 11.333333
+1678.	 -7.757849 	 Andrews 	 27.130435
+1679.	 -7.773291 	 Reedley 	 50.458333
+1680.	 -7.781295 	 Haverford 	 18.200000
+1681.	 -7.787824 	 Vassar 	 38.944444
+1682.	 -7.805577 	 W_Coast_Bap 	 34.312500
+1683.	 -7.829264 	 Fort_Valley_St 	 10.266667
+1684.	 -7.830556 	 Graceland 	 18.133333
+1685.	 -7.864223 	 Southeast_CC 	 67.666667
+1686.	 -7.884937 	 Coahoma_CC 	 0.000000
+1687.	 -7.904540 	 St_Lambert 	 19.777778
+1688.	 -7.908508 	 Barstow_CC 	 11.880000
+1689.	 -7.909342 	 Purchase 	 34.880000
+1690.	 -7.920496 	 Tomball 	 47.000000
+1691.	 -7.947673 	 Allen 	 25.137931
+1692.	 -7.964513 	 Fanshawe 	 57.360000
+1693.	 -7.968994 	 Covenant 	 23.071429
+1694.	 -8.002762 	 Bacone 	 17.935484
+1695.	 -8.037469 	 Benedictine-Spfld 	 30.352941
+1696.	 -8.042714 	 St_Fran_Xavier 	 52.030303
+1697.	 -8.057721 	 Iowa_Wesleyan 	 61.181818
+1698.	 -8.082056 	 Bethel_KS 	 24.000000
+1699.	 -8.101737 	 W_New_England 	 35.068966
+1700.	 -8.177859 	 Washington_MD 	 33.709677
+1701.	 -8.195879 	 Muskingum 	 53.625000
+1702.	 -8.210978 	 Manhattanville 	 24.954545
+1703.	 -8.262520 	 Central_Bap 	 26.424242
+1704.	 -8.283300 	 Judson_IL 	 65.476190
+1705.	 -8.318677 	 Framingham_St 	 17.320000
+1706.	 -8.322200 	 S_Maine 	 56.074074
+1707.	 -8.327138 	 St_Andrew's 	 42.129032
+1708.	 -8.358248 	 Wm_Woods 	 56.241379
+1709.	 -8.395074 	 United_Tribes 	 53.935484
+1710.	 -8.466483 	 Suffolk_Co-Selden 	 24.481481
+1711.	 -8.486461 	 Cornell_IA 	 24.291667
+1712.	 -8.488650 	 Worcester_St 	 63.600000
+1713.	 -8.541254 	 PSU_Mont_Alto 	 34.000000
+1714.	 -8.544684 	 Toccoa_Falls 	 42.375000
+1715.	 -8.569680 	 Coastal_GA 	 8.448276
+1716.	 -8.583951 	 Roger_Williams 	 60.687500
+1717.	 -8.591261 	 Grays_Harbor 	 32.346154
+1718.	 -8.592675 	 Solano_CC 	 32.478261
+1719.	 -8.665127 	 Cazenovia 	 40.115385
+1720.	 -8.666289 	 Imperial_Val 	 9.625000
+1721.	 -8.702123 	 Globe_Tech 	 15.000000
+1722.	 -8.709235 	 OK_Wesleyan 	 59.576923
+1723.	 -8.761121 	 Santa_Barbara_City 	 41.687500
+1724.	 -8.770260 	 N_Central_MN 	 50.692308
+1725.	 -8.820094 	 Little_Big_Horn 	 36.258065
+1726.	 -8.823024 	 St_Joseph_VT 	 47.000000
+1727.	 -8.826001 	 Emory_&_Henry 	 15.370370
+1728.	 -8.833293 	 TN_Temple 	 44.966667
+1729.	 -8.837884 	 Umpqua_CC 	 9.100000
+1730.	 -8.872782 	 Lenoir_CC 	 41.333333
+1731.	 -8.896751 	 Carver_Bib 	 5.812500
+1732.	 -8.898960 	 Shenandoah 	 55.896552
+1733.	 -8.907163 	 Rockland_CC 	 20.678571
+1734.	 -8.910730 	 Alameda 	 10.500000
+1735.	 -8.922581 	 N_Alberta_Tech 	 17.600000
+1736.	 -8.956337 	 Middlesex_Co 	 59.833333
+1737.	 -9.005196 	 Red_Deer 	 42.600000
+1738.	 -9.012112 	 La_Sierra 	 34.727273
+1739.	 -9.041548 	 Olivet_MI 	 65.535714
+1740.	 -9.065398 	 Dillard 	 10.818182
+1741.	 -9.073937 	 Berry 	 18.777778
+1742.	 -9.104389 	 Hiwassee 	 14.346154
+1743.	 -9.112245 	 Rockford 	 76.310345
+1744.	 -9.154607 	 Emmanuel_MA 	 26.192308
+1745.	 -9.203062 	 Florida_Col 	 17.545455
+1746.	 -9.205801 	 City_Col_NY 	 25.240000
+1747.	 -9.213947 	 S_Virginia 	 67.793103
+1748.	 -9.221534 	 York_PA 	 37.437500
+1749.	 -9.228703 	 Pasco-Hernando 	 33.185185
+1750.	 -9.256415 	 Whatcom_CC 	 9.115385
+1751.	 -9.279016 	 Quest 	 26.360000
+1752.	 -9.282670 	 Keuka 	 21.320000
+1753.	 -9.361386 	 George_Fox 	 17.920000
+1754.	 -9.421557 	 Darton 	 25.333333
+1755.	 -9.423552 	 Mia-Middletown 	 25.419355
+1756.	 -9.427774 	 SUNYIT 	 20.000000
+1757.	 -9.466623 	 OH_Lancaster 	 24.500000
+1758.	 -9.503618 	 Hannibal-Lagr 	 16.781250
+1759.	 -9.521694 	 Pine_Manor 	 38.652174
+1760.	 -9.530773 	 Hartnell 	 9.208333
+1761.	 -9.531574 	 Columbia_Greene 	 43.962963
+1762.	 -9.534565 	 Brookdale_CC 	 55.222222
+1763.	 -9.542434 	 Geneva 	 27.807692
+1764.	 -9.552863 	 Manchester 	 30.620690
+1765.	 -9.557804 	 Lincoln_Col_of_NE 	 32.961538
+1766.	 -9.584354 	 Coast_Guard 	 15.600000
+1767.	 -9.584869 	 St_Scholastica 	 23.071429
+1768.	 -9.603017 	 Durham 	 69.875000
+1769.	 -9.626570 	 Brandon 	 17.400000
+1770.	 -9.657268 	 John_Jay 	 66.962963
+1771.	 -9.658244 	 Thomas_ME 	 46.781250
+1772.	 -9.663064 	 Rainy_River_CC 	 50.687500
+1773.	 -9.663633 	 D'Youville 	 29.461538
+1774.	 -9.693937 	 Franklin_IN 	 16.280000
+1775.	 -9.717985 	 Fulton-Mont 	 50.083333
+1776.	 -9.753364 	 Ohio_Eastern 	 36.434783
+1777.	 -9.788111 	 St_Mary's_MN 	 60.240000
+1778.	 -9.789475 	 Camden_Co 	 42.272727
+1779.	 -9.814098 	 Grove_City 	 26.076923
+1780.	 -9.816903 	 Otterbein 	 87.333333
+1781.	 -9.825655 	 Hagerstown_CC 	 29.884615
+1782.	 -9.828527 	 Morris_SC 	 73.454545
+1783.	 -9.846402 	 Bergen_CC 	 44.379310
+1784.	 -9.858803 	 Millsaps 	 24.600000
+1785.	 -9.897383 	 Malcolm_X 	 9.906250
+1786.	 -9.926074 	 ME_Ft_Kent 	 26.160000
+1787.	 -9.944643 	 So_Crescent_Tech 	 42.785714
+1788.	 -9.953911 	 Cent_CC-Columbus 	 3.952381
+1789.	 -9.960038 	 Bethesda 	 9.960000
+1790.	 -9.968855 	 Merced_Col 	 8.846154
+1791.	 -9.987356 	 Marygrove 	 21.185185
+1792.	 -9.989213 	 Westminster_PA 	 13.120000
+1793.	 -10.016325 	 Lorain_Co_CC 	 27.485714
+1794.	 -10.031638 	 Finlandia 	 28.227273
+1795.	 -10.068809 	 Barber-Scotia 	 15.260870
+1796.	 -10.077940 	 Lambton 	 53.241379
+1797.	 -10.091982 	 PSU-Harrisburg 	 21.913043
+1798.	 -10.116574 	 Morrisville_St 	 18.400000
+1799.	 -10.120801 	 Olympic 	 13.678571
+1800.	 -10.144264 	 Ohio_Mid-Western 	 49.500000
+1801.	 -10.148566 	 Kentucky_Chr 	 74.911765
+1802.	 -10.152159 	 St_Cloud_Tech 	 50.700000
+1803.	 -10.184214 	 Caltech 	 10.884615
+1804.	 -10.214890 	 Montreat_And 	 25.047619
+1805.	 -10.226412 	 Trinity_Western 	 67.857143
+1806.	 -10.250195 	 Mt_Marty 	 22.307692
+1807.	 -10.260453 	 Ecclesia 	 15.578947
+1808.	 -10.275427 	 Gogebic_CC 	 47.050000
+1809.	 -10.304533 	 Redeemer 	 74.928571
+1810.	 -10.310366 	 Suffolk 	 47.029412
+1811.	 -10.311316 	 Point 	 19.730769
+1812.	 -10.313329 	 Wheaton_MA 	 33.000000
+1813.	 -10.318496 	 Kingsborough 	 41.730769
+1814.	 -10.337973 	 Wilberforce 	 27.560000
+1815.	 -10.395652 	 Val_Forge_Mil 	 3.550000
+1816.	 -10.410867 	 SUNY_Fredonia 	 57.954545
+1817.	 -10.421297 	 Kellogg_CC 	 59.827586
+1818.	 -10.425338 	 Lyndon_St 	 50.148148
+1819.	 -10.434613 	 U_New_England 	 53.740741
+1820.	 -10.471381 	 Fisk 	 9.548387
+1821.	 -10.480128 	 Portland_CC 	 21.222222
+1822.	 -10.507214 	 Linfield 	 47.733333
+1823.	 -10.527105 	 Belmont_Abbey 	 4.928571
+1824.	 -10.546099 	 Northland 	 49.840000
+1825.	 -10.558322 	 Jefferson_Davis 	 12.347826
+1826.	 -10.614675 	 Harper 	 16.551724
+1827.	 -10.648449 	 Salve_Regina 	 66.041667
+1828.	 -10.662086 	 Chesapeake 	 30.380952
+1829.	 -10.662800 	 Burlington_Co 	 21.444444
+1830.	 -10.695454 	 Indiana_NW 	 0.000000
+1831.	 -10.714958 	 Goucher 	 9.208333
+1832.	 -10.751971 	 Queensborough 	 20.142857
+1833.	 -10.752496 	 Menlo 	 31.846154
+1834.	 -10.763985 	 MN_West_C&T 	 18.750000
+1835.	 -10.784052 	 N_England_Col 	 47.843750
+1836.	 -10.794168 	 Bristol_CC 	 60.592593
+1837.	 -10.811524 	 Paul_Quinn 	 49.083333
+1838.	 -10.822620 	 Concordia_IL 	 22.461538
+1839.	 -10.835328 	 N_Country_CC 	 40.166667
+1840.	 -10.836090 	 Los_Medanos 	 30.640000
+1841.	 -10.837722 	 Okanagan 	 17.250000
+1842.	 -10.909219 	 Niagara_ON 	 59.344828
+1843.	 -10.911297 	 Daniel_Webster 	 30.629630
+1844.	 -10.916962 	 Sprfld_Tech_CC 	 55.178571
+1845.	 -10.920718 	 Blue_Mountain_CC 	 16.000000
+1846.	 -10.932842 	 Waubonsee_CC 	 27.066667
+1847.	 -10.945391 	 Selma_AL 	 62.937500
+1848.	 -10.954580 	 Prairie_St 	 19.545455
+1849.	 -11.026213 	 SUNY_Potsdam 	 41.307692
+1850.	 -11.032223 	 Knox 	 70.548387
+1851.	 -11.114253 	 Gavilan 	 8.800000
+1852.	 -11.158136 	 FDU_Madison 	 5.880000
+1853.	 -11.230098 	 Onondaga_CC 	 20.576923
+1854.	 -11.230659 	 MO_Baptist 	 33.826087
+1855.	 -11.233934 	 KS_Wesleyan 	 20.956522
+1856.	 -11.316245 	 Medicine_Hat 	 8.440000
+1857.	 -11.344285 	 Riverland_CC 	 49.208333
+1858.	 -11.354337 	 Southern_MD 	 80.464286
+1859.	 -11.394027 	 Moravian 	 41.517241
+1860.	 -11.429048 	 Olds 	 38.111111
+1861.	 -11.430494 	 Georgian 	 53.826087
+1862.	 -11.434581 	 Harris-Stowe 	 14.437500
+1863.	 -11.463497 	 OH_Chillicothe 	 51.500000
+1864.	 -11.480505 	 PSU_Wilkes-Barre 	 43.208333
+1865.	 -11.490039 	 Curry 	 16.720000
+1866.	 -11.579818 	 PSU-Beaver 	 14.160000
+1867.	 -11.675998 	 Nipissing 	 60.296296
+1868.	 -11.689130 	 Algoma 	 8.068966
+1869.	 -11.796955 	 Black_Hawk-E 	 13.400000
+1870.	 -11.798175 	 Wilbur_Wright 	 21.482759
+1871.	 -11.820661 	 Kuyper 	 47.258065
+1872.	 -11.821889 	 New_Hope_Chr 	 38.444444
+1873.	 -11.831452 	 Mt_St_Mary_NY 	 54.423077
+1874.	 -11.843776 	 SW_Oregon_CC 	 40.517241
+1875.	 -11.851133 	 Co_Col_Morris 	 26.826087
+1876.	 -11.851598 	 S_Puget_Sound_CC 	 58.827586
+1877.	 -11.896995 	 Faith_Bap 	 48.520000
+1878.	 -11.913067 	 Illinois_Col 	 13.521739
+1879.	 -11.930294 	 ME_Machias 	 18.315789
+1880.	 -11.959159 	 Vance-Granville 	 61.575758
+1881.	 -11.994580 	 Davis 	 50.400000
+1882.	 -12.028503 	 Cent_Carolina_CC 	 28.437500
+1883.	 -12.041400 	 Cin_Clermont 	 16.500000
+1884.	 -12.086147 	 Norwich 	 41.724138
+1885.	 -12.110870 	 Anne_Arundel 	 29.833333
+1886.	 -12.112791 	 Mt_Ida 	 32.360000
+1887.	 -12.133687 	 Newbury 	 63.266667
+1888.	 -12.160756 	 Mt_Aloysius 	 47.105263
+1889.	 -12.184577 	 Maranatha_Bap 	 33.192308
+1890.	 -12.187821 	 John_Abbott 	 9.571429
+1891.	 -12.209758 	 Guilford_Tech_CC 	 22.880000
+1892.	 -12.245562 	 Multnomah_Bib 	 37.480000
+1893.	 -12.259465 	 Northwest_Indian 	 48.103448
+1894.	 -12.260924 	 OH_St-Newark 	 21.222222
+1895.	 -12.267700 	 Piedmont_Bap 	 37.370370
+1896.	 -12.273398 	 PSU-Abington 	 54.000000
+1897.	 -12.346976 	 Crandall 	 44.814815
+1898.	 -12.353011 	 Tompkins_Cortland 	 0.000000
+1899.	 -12.370694 	 Roxbury_CC 	 47.807692
+1900.	 -12.424258 	 Wake_Tech 	 30.562500
+1901.	 -12.436415 	 S_Alberta_Tech 	 77.454545
+1902.	 -12.469379 	 ME_Presque_Isle 	 9.640000
+1903.	 -12.512686 	 Seneca 	 31.523810
+1904.	 -12.552863 	 Hudson_Val 	 42.480000
+1905.	 -12.604202 	 Ocean_Co 	 31.166667
+1906.	 -12.619483 	 Farmingdale 	 20.800000
+1907.	 -12.679401 	 Huntingdon 	 8.760000
+1908.	 -12.690672 	 Edison_CC 	 7.526316
+1909.	 -12.695670 	 Bob_Jones 	 13.105263
+1910.	 -12.700260 	 Wheelock 	 61.193548
+1911.	 -12.707155 	 Yakima_Val_CC 	 52.636364
+1912.	 -12.711421 	 W_Georgia_Tech 	 46.076923
+1913.	 -12.717288 	 Rhema_Bib 	 21.960000
+1914.	 -12.718310 	 Houghton 	 16.120000
+1915.	 -12.727057 	 Sheridan_ON 	 43.708333
+1916.	 -12.790588 	 J&W_CO 	 21.322581
+1917.	 -12.914504 	 VA-Lynchburg 	 67.687500
+1918.	 -12.932771 	 College_of_Faith 	 4.631579
+1919.	 -12.964404 	 Orange_Co 	 43.031250
+1920.	 -13.000508 	 ME_Farmington 	 27.208333
+1921.	 -13.079366 	 Westminster_MO 	 59.111111
+1922.	 -13.133200 	 Allegany_MD 	 18.964286
+1923.	 -13.165009 	 Jamestown-Cat 	 53.962963
+1924.	 -13.189859 	 Camosun 	 33.304348
+1925.	 -13.197461 	 Carlow 	 6.173913
+1926.	 -13.231717 	 NH_Tech 	 50.629630
+1927.	 -13.360627 	 Bap_Bible_MO 	 46.538462
+1928.	 -13.382846 	 Vaughn 	 20.280000
+1929.	 -13.571489 	 Trinity_FL 	 54.833333
+1930.	 -13.579281 	 NY_Maritime 	 23.482759
+1931.	 -13.626581 	 Oakton_CC 	 56.409091
+1932.	 -13.634581 	 Luther_MN 	 24.384615
+1933.	 -13.637749 	 Siskiyous 	 21.206897
+1934.	 -13.672565 	 Principia 	 39.233333
+1935.	 -13.773437 	 PSU-Lehigh_Val 	 28.437500
+1936.	 -13.791374 	 Medgar_Evers 	 55.444444
+1937.	 -13.806133 	 Johnson_FL 	 26.678571
+1938.	 -13.808643 	 Earlham 	 6.346154
+1939.	 -13.815041 	 Broome_CC 	 28.772727
+1940.	 -13.873678 	 Wells 	 26.454545
+1941.	 -13.910915 	 PSU_Worth_Scranton 	 46.476190
+1942.	 -13.925648 	 Barclay 	 28.857143
+1943.	 -13.934350 	 WVU_Parkersburg 	 26.620690
+1944.	 -13.956197 	 Bethany_Luth 	 13.440000
+1945.	 -13.999268 	 Green_Mtn 	 28.125000
+1946.	 -14.074571 	 Clark_St 	 24.000000
+1947.	 -14.089310 	 Columbia_Intl 	 4.285714
+1948.	 -14.104168 	 Wash_&_Jeff 	 42.357143
+1949.	 -14.108327 	 El_Centro 	 0.000000
+1950.	 -14.140029 	 Oxford_of_Emory 	 76.100000
+1951.	 -14.148517 	 Adirondack_CC 	 31.304348
+1952.	 -14.175104 	 Williamson_Tr 	 46.517241
+1953.	 -14.194046 	 Bryn_Athyn 	 18.240000
+1954.	 -14.202852 	 MD_Bible 	 26.250000
+1955.	 -14.346829 	 Tidewater_CC 	 57.962963
+1956.	 -14.385917 	 Ozark_Chr 	 14.190476
+1957.	 -14.395543 	 St_Clair 	 29.387097
+1958.	 -14.417949 	 PSU-Berks 	 59.851852
+1959.	 -14.447719 	 Centralia_Col 	 8.296296
+1960.	 -14.494204 	 Bunker_Hill_CC 	 46.392857
+1961.	 -14.546827 	 Capilano 	 26.555556
+1962.	 -14.553140 	 Cairn 	 7.040000
+1963.	 -14.589524 	 Dominican_IL 	 5.360000
+1964.	 -14.661787 	 Champion_Bap 	 0.000000
+1965.	 -14.699924 	 Johnson_TN 	 9.800000
+1966.	 -14.723397 	 Cumberland_Co 	 38.884615
+1967.	 -14.735896 	 Massasoit_CC 	 38.906250
+1968.	 -14.738541 	 PSU-Altoona 	 32.111111
+1969.	 -14.799066 	 Northland_CTC 	 23.440000
+1970.	 -14.850102 	 Crossroads 	 12.320000
+1971.	 -14.909048 	 Centennial_Col 	 49.954545
+1972.	 -14.919974 	 George_Brown 	 43.285714
+1973.	 -14.987692 	 UC_Merced 	 44.939394
+1974.	 -14.993432 	 Trinity_Bib 	 25.666667
+1975.	 -14.996288 	 CC_Allegheny-B 	 49.642857
+1976.	 -15.037155 	 Clinton_CC_(NY) 	 22.869565
+1977.	 -15.060910 	 Vanier 	 39.750000
+1978.	 -15.080624 	 SW_Adventist 	 12.884615
+1979.	 -15.253742 	 Wright_St-Lake 	 25.548387
+1980.	 -15.265267 	 Franciscan_OH 	 14.791667
+1981.	 -15.272025 	 Blackburn 	 17.960000
+1982.	 -15.287344 	 Manhattan_Chr 	 43.906250
+1983.	 -15.297382 	 Concordia_AB 	 38.121212
+1984.	 -15.335605 	 Linn-Benton_CC 	 11.538462
+1985.	 -15.371085 	 Algonquin 	 42.600000
+1986.	 -15.413007 	 C_Maine_Tech 	 51.666667
+1987.	 -15.427234 	 CC_Allegheny-A 	 26.363636
+1988.	 -15.450466 	 La_Roche 	 45.903226
+1989.	 -15.464982 	 Daley 	 2.250000
+1990.	 -15.543488 	 Bap_Bible_PA 	 5.600000
+1991.	 -15.678176 	 Rivier 	 23.384615
+1992.	 -15.680423 	 MN_St_CTC 	 36.111111
+1993.	 -15.712562 	 Gateway_CC 	 33.333333
+1994.	 -15.733061 	 Montgomery-R 	 45.681818
+1995.	 -15.735778 	 Mt_Allison 	 23.480000
+1996.	 -15.760047 	 Sainte-Foy 	 53.733333
+1997.	 -15.788667 	 Loyalist 	 19.096774
+1998.	 -15.792933 	 St_Lawrence_ON 	 38.800000
+1999.	 -15.807239 	 Lehigh_Carbon 	 40.466667
+2000.	 -15.953919 	 Oglala-Lakota 	 48.227273
+2001.	 -15.955522 	 Crown_MN 	 12.629630
+2002.	 -16.120402 	 Vermont_Tech 	 42.361111
+2003.	 -16.189711 	 Butler_Co-PA 	 29.571429
+2004.	 -16.220135 	 Clearwater_Chr 	 0.000000
+2005.	 -16.346310 	 Lakeland_AB 	 47.500000
+2006.	 -16.454616 	 Miami-Hamilton 	 47.571429
+2007.	 -16.482885 	 Lesley 	 22.153846
+2008.	 -16.494881 	 Truman_Col 	 40.750000
+2009.	 -16.602243 	 Keyano 	 43.360000
+2010.	 -16.613670 	 Passaic_Co 	 13.210526
+2011.	 -16.765695 	 Ridgewater 	 44.968750
+2012.	 -16.862036 	 PSU-Hazleton 	 7.720000
+2013.	 -16.878133 	 Dawson 	 33.578947
+2014.	 -16.927047 	 Pitt-Titusville 	 36.296296
+2015.	 -16.948624 	 Jefferson_CC 	 41.142857
+2016.	 -17.036023 	 UConn-AP 	 49.515152
+2017.	 -17.059351 	 Boyce 	 5.333333
+2018.	 -17.197028 	 SUNY-ESF 	 49.535714
+2019.	 -17.232204 	 Lincoln_Chr 	 19.100000
+2020.	 -17.367281 	 R_Morris-Peoria 	 41.687500
+2021.	 -17.401009 	 Cayuga_CC 	 12.208333
+2022.	 -17.493994 	 Great_Lakes_Chr 	 0.000000
+2023.	 -17.507018 	 McHenry_Co 	 38.500000
+2024.	 -17.532700 	 Herkimer_Co 	 0.000000
+2025.	 -17.542582 	 Alfred_St 	 13.080000
+2026.	 -17.543177 	 Albany_Pharmacy 	 9.000000
+2027.	 -17.604425 	 PSU-DuBois 	 0.000000
+2028.	 -17.626489 	 Moody_Bib 	 20.437500
+2029.	 -17.637150 	 Montgomery_Co_CC 	 58.333333
+2030.	 -17.659081 	 PSU-New_Kens 	 23.954545
+2031.	 -17.671915 	 St_Thomas_NB 	 65.931034
+2032.	 -17.672018 	 Ed_Montpetit 	 26.526316
+2033.	 -17.718863 	 Johnson_St 	 13.545455
+2034.	 -17.838351 	 Northampton_CC 	 32.000000
+2035.	 -17.876610 	 Delaware_Co_CC 	 30.566667
+2036.	 -17.887666 	 Western_Tech 	 14.142857
+2037.	 -17.942578 	 ME_Maritime 	 48.913043
+2038.	 -18.048558 	 Montmorency 	 9.541667
+2039.	 -18.061828 	 MS_Vincent_NS 	 13.000000
+2040.	 -18.174438 	 Stevens_Tech_PA 	 37.120000
+2041.	 -18.189502 	 Turtle_Mtn_CC 	 46.500000
+2042.	 -18.224245 	 Mass_Bay_CC 	 43.720000
+2043.	 -18.237945 	 AFLBC 	 46.714286
+2044.	 -18.243010 	 St_Louis_Pharm 	 0.000000
+2045.	 -18.634549 	 Mid-Atlantic_Chr 	 58.382353
+2046.	 -18.791571 	 Northland_Intl 	 28.454545
+2047.	 -18.799217 	 PSU-Gtr_Allegheny 	 76.000000
+2048.	 -18.835164 	 Dutchess_CC 	 5.423077
+2049.	 -18.911455 	 Virginia_Western_CC 	 29.259259
+2050.	 -18.961046 	 IL_Tech 	 4.800000
+2051.	 -19.087109 	 Wilson 	 35.960000
+2052.	 -19.150025 	 Fond_du_Lac_T&CC 	 15.400000
+2053.	 -19.233019 	 N_Essex_CC 	 45.153846
+2054.	 -19.317500 	 Emmaus_Bib 	 29.764706
+2055.	 -19.501071 	 Welch 	 48.153846
+2056.	 -19.529220 	 Concordia_MO 	 0.000000
+2057.	 -19.555150 	 Grande_Prairie 	 37.125000
+2058.	 -19.753677 	 OH_St-Mansfield 	 7.583333
+2059.	 -19.767404 	 Penn_Tech 	 36.794118
+2060.	 -19.809009 	 Columbia_Bib 	 8.363636
+2061.	 -19.900840 	 PSU-Brandywine 	 24.708333
+2062.	 -20.204055 	 Sault 	 41.161290
+2063.	 -20.350684 	 Southern_St_CC 	 59.944444
+2064.	 -20.432537 	 Itasca_CC 	 40.444444
+2065.	 -20.537828 	 Sarah_Lawrence 	 37.892857
+2066.	 -20.547176 	 PSU-Schuylkill 	 17.187500
+2067.	 -20.568237 	 Fox_Valley_Tech 	 0.000000
+2068.	 -20.588417 	 Kwantlen 	 23.400000
+2069.	 -20.743602 	 PA_Highlands_CC 	 28.520000
+2070.	 -20.773522 	 Red_River_Col 	 61.466667
+2071.	 -20.833509 	 Johnson_CC 	 61.933333
+2072.	 -20.843515 	 Akron-Wayne 	 0.000000
+2073.	 -20.979305 	 ME_Augusta 	 42.030303
+2074.	 -21.060228 	 Augustana_AB 	 17.517241
+2075.	 -21.172455 	 Schenectady_Co 	 51.529412
+2076.	 -21.176737 	 Hibbing_CC 	 6.565217
+2077.	 -21.254861 	 Sussex_Co_CC 	 61.500000
+2078.	 -21.513637 	 C_Chr_Bible 	 8.640000
+2079.	 -21.720730 	 OH_Zanesville 	 31.444444
+2080.	 -21.748219 	 Canadore 	 26.227273
+2081.	 -22.017184 	 Westmoreland_Co 	 51.806452
+2082.	 -22.023051 	 Atlantic_Cape_CC 	 6.818182
+2083.	 -22.027363 	 Ulster_Co 	 45.696970
+2084.	 -22.051354 	 E_Maine_Tech 	 23.352941
+2085.	 -22.210742 	 King's_NS 	 12.413793
+2086.	 -22.362199 	 Culinary_Inst 	 29.000000
+2087.	 -22.738238 	 King's_AB 	 66.612903
+2088.	 -23.224720 	 Crown_TN 	 7.500000
+2089.	 -23.771854 	 King's_NY 	 25.611111
+2090.	 -23.821673 	 St_Mary's_AB 	 60.060606
+2091.	 -23.909591 	 Union_NE 	 76.342857
+2092.	 -23.953942 	 OH_St-Lima 	 50.833333
+2093.	 -24.256075 	 Briercrest 	 3.185185
+2094.	 -24.356047 	 Providence_MB 	 49.303030
+2095.	 -24.956056 	 Georgia_NW_Tech 	 0.000000
+2096.	 -25.007845 	 Harrisburg_Area_CC 	 16.181818
+2097.	 -25.013346 	 La_Cite 	 58.733333
+2098.	 -25.261855 	 Cambrian 	 0.000000
+2099.	 -25.422612 	 Quinsigamond 	 37.066667
+2100.	 -25.661328 	 Christendom 	 9.750000
+2101.	 -26.004579 	 Luzerne_Co_CC 	 16.320000
+2102.	 -26.465273 	 Pratt_Inst 	 49.281250
+2103.	 -26.630579 	 Bucks_Co_CC 	 9.550000
+2104.	 -27.410909 	 NB-St_John 	 32.520000
+2105.	 -27.685318 	 Unity 	 34.454545
+2106.	 -28.018891 	 Fleming 	 4.476190
+2107.	 -28.926037 	 Holyoke_CC 	 0.000000
+2108.	 -29.149964 	 Calvary_Bib 	 12.214286
+2109.	 -29.199839 	 Winnipeg_Col 	 51.687500
+2110.	 -30.131785 	 N_Maine_Tech 	 35.333333
+2111.	 -30.720760 	 Hampshire 	 0.000000
+2112.	 -31.552777 	 St_Louis_Chr 	 23.187500
+2113.	 -34.967116 	 Canadian_Menn 	 11.214286
+2114.	 -35.090801 	 Appalachian_Bib 	 0.000000
+2115.	 -38.087230 	 Webb_Inst 	 47.370370

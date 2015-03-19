@@ -13,7 +13,7 @@ home_or_away = data(:,6);
 gamenum = data(:,3);
 unique_games = unique(gamenum);
 
-M1 = zeros(length(unique_games),length(team_list)+1);
+M1 = zeros(length(unique_games),length(team_list));
 p1 = zeros(length(unique_games),1);
 game_dates = zeros(length(unique_games),1);
 
@@ -34,8 +34,9 @@ end
 game_dates = (game_dates - game_dates(1));
 
 noteam = find(sum(abs(M1),1) == 0);
+% noteam = [noteam find(sum(abs(M1),1) < threshold)];
 
-for t = 1:length(noteam)
+for t = length(noteam):-1:1
     M1(:,noteam(t)) = [];
     team_names{2}(noteam(t)) = [];
 end
@@ -50,7 +51,7 @@ elseif nargin > 0 && strcmp(weighting, 'step')
 elseif nargin > 0 && strcmp(weighting, 'log')
     G = diag(log(1+game_dates/game_dates(end)));
 elseif nargin > 0 && strcmp(weighting, 'exp')
-    G = exp(-(game_dates(end)-game_dates)/game_dates(end));
+    G = diag(exp(-(game_dates(end)-game_dates)/game_dates(end)));
 else
     G = eye(length(M1));
 end

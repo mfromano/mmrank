@@ -1,7 +1,7 @@
 function [team_ranks] = brianrank(weighting)
 data = csvread('massey.csv');
 if nargin < 1
-    weighting = 'Equal';
+    weighting = 'Uniform';
 end
 data_labels = fopen('teams.txt');
 team_names = textscan(data_labels,'%d,%s');
@@ -15,9 +15,10 @@ home_or_away = data(:,6);
 gamenum = data(:,3);
 unique_games = unique(gamenum);
 
-M1 = zeros(length(unique_games),length(team_list)+1);
+M1 = zeros(length(unique_games),length(team_list));
 p1 = zeros(length(unique_games),1);
 game_dates = zeros(length(unique_games),1);
+mean_score = zeros(length(team_list));
 
 for g = 1:length(unique_games)
     currgame = unique_games(g);
@@ -30,12 +31,13 @@ for g = 1:length(unique_games)
     assert(length(teams_playing) == 2, 'more or less than two teams playing this game!');
     team_scores = all_scores(find(gamenum == currgame));  
     curr_team_score = team_scores(1);
+    mean_score(this_team) = mean_score(this_team) + curr_team_score / length(find(all_teams == this_team));
     other_team_score = team_scores(2);
     p1(g) = curr_team_score-other_team_score;
-    if p1(g) > 15
-        p1(g) = 15;
-    elseif p1(g) < -15
-        p1(g) = -15;
+    if p1(g) > 40
+        p1(g) = 40;
+    elseif p1(g) < -40
+        p1(g) = -40;
     end
 end
 game_dates = (game_dates - game_dates(1));
@@ -64,7 +66,7 @@ else
     G = eye(length(M1));
 end
 
-plot(game_dates,main(G));
+plot(game_dates,diag(G));
 
 xlabel('Days since beginning of season');
 ylabel('Weight')
@@ -83,16 +85,19 @@ r = linsolve(M,p);
 
 [r,I] = sort(r,'descend');
 team_names = team_names{2}(I);
+mean_score = mean_score(I);
 team_names(isnan(r)) = [];
+mean_score(isnan(r)) = [];
 r(isnan(r)) = [];
 team_ranks{1} = r;
 team_ranks{2} = team_names;
+team_ranks{3} = mean_score;
 
 outfile = fopen(['BrianRankings' weighting 'Weighting.txt'],'w');
 
 fprintf(outfile,'%s.\t %s \t %s\n','Rank','Rating','Team');
 for i=1:length(team_ranks{1})
-    fprintf(outfile,'%d.\t %f \t %s\n',i,team_ranks{1}(i),char(team_ranks{2}(i)));
+    fprintf(outfile,'%d.\t %f \t %s \t %f\n',i,team_ranks{1}(i),char(team_ranks{2}(i)),team_ranks{3}(i));
 end
 fclose(outfile);
 end
