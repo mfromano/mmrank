@@ -1,5 +1,5 @@
 function [team_ranks] = colleyrank(weight, threshold)
-data = csvread('massey.csv');
+data = csvread('gamedata2016.csv');
 if nargin < 1
     weight = 'uniform';
 end
